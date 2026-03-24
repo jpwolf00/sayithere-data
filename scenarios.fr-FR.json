@@ -1,0 +1,751 @@
+{
+  "scenarios": [
+    {
+      "id": "general",
+      "name_en": "General Phrases",
+      "name_local": "Phrases générales",
+      "icon": "globe",
+      "phrases": [
+        {
+          "id": "general_001",
+          "intent_en": "Ask if someone speaks English",
+          "text_local": "Excusez-moi, vous parlez anglais ?",
+          "pronunciation": "ex-koo-ZAY mwah, voo par-LAY ahn-GLEH",
+          "formality": "polite",
+          "cultural_note": "Always start with 'Excusez-moi'. Many French people speak some English but appreciate you trying French first."
+        },
+        {
+          "id": "general_002",
+          "intent_en": "Say you don't understand",
+          "text_local": "Je ne comprends pas.",
+          "pronunciation": "zhuh nuh kohm-PRAHN pah",
+          "formality": "standard",
+          "cultural_note": "Follow up with 'Pouvez-vous répéter ?' (Could you repeat that?) if you want them to try again more slowly."
+        },
+        {
+          "id": "general_003",
+          "intent_en": "Ask where the bathroom is",
+          "text_local": "Où sont les toilettes, s'il vous plaît ?",
+          "pronunciation": "oo sohn lay twah-LET, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "In France, say 'les toilettes' — never 'la salle de bain' (that's the room with a bathtub). Cafés usually let customers use theirs."
+        },
+        {
+          "id": "general_004",
+          "intent_en": "Say please and thank you",
+          "text_local": "S'il vous plaît. Merci beaucoup.",
+          "pronunciation": "seel voo PLEH. mair-SEE boh-KOO",
+          "formality": "polite",
+          "cultural_note": "These two phrases will get you very far. The French highly value politeness — use them liberally."
+        },
+        {
+          "id": "general_005",
+          "intent_en": "Ask for help in an emergency",
+          "text_local": "Aidez-moi, s'il vous plaît ! C'est urgent.",
+          "pronunciation": "ay-DAY mwah, seel voo PLEH! seh tur-ZHAHN",
+          "formality": "urgent",
+          "cultural_note": "Emergency number in France is 112 (European) or 15 (medical), 17 (police), 18 (fire). All work from any phone."
+        }
+      ],
+      "vocabulary": [
+        { "word_en": "Yes", "word_local": "Oui", "pronunciation": "wee" },
+        { "word_en": "No", "word_local": "Non", "pronunciation": "nohn" },
+        { "word_en": "Hello", "word_local": "Bonjour", "pronunciation": "bohn-ZHOOR" },
+        { "word_en": "Goodbye", "word_local": "Au revoir", "pronunciation": "oh ruh-VWAHR" },
+        { "word_en": "Sorry", "word_local": "Pardon", "pronunciation": "par-DOHN" },
+        { "word_en": "How much?", "word_local": "Combien ?", "pronunciation": "kohm-BYEHN" },
+        { "word_en": "Left", "word_local": "À gauche", "pronunciation": "ah GOHSH" },
+        { "word_en": "Right", "word_local": "À droite", "pronunciation": "ah DRWAHT" }
+      ]
+    },
+    {
+      "id": "cafe",
+      "name_en": "Café",
+      "name_local": "Café",
+      "icon": "cup.and.saucer.fill",
+      "phrases": [
+        {
+          "id": "cafe_001",
+          "intent_en": "Order a coffee",
+          "text_local": "Un café, s'il vous plaît.",
+          "pronunciation": "uhn ka-FAY, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "In France, 'un café' means an espresso by default. Ask for 'un café allongé' if you want a longer coffee."
+        },
+        {
+          "id": "cafe_002",
+          "intent_en": "Ask for the bill",
+          "text_local": "L'addition, s'il vous plaît.",
+          "pronunciation": "la-dee-SYOHN, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "In French cafés, the server will never bring the bill unless you ask. It's not rude — they're giving you space to enjoy your time."
+        },
+        {
+          "id": "cafe_003",
+          "intent_en": "Ask if a table is free",
+          "text_local": "Excusez-moi, cette table est libre ?",
+          "pronunciation": "ex-koo-ZAY mwah, set TAHBL eh LEEBR",
+          "formality": "polite",
+          "cultural_note": "Always greet or excuse yourself before asking. Jumping straight to a question is considered impolite."
+        },
+        {
+          "id": "cafe_004",
+          "intent_en": "Order a coffee with milk",
+          "text_local": "Un café crème, s'il vous plaît.",
+          "pronunciation": "uhn ka-FAY KREM, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "A 'café crème' is the closest to a latte. Ordering a 'café au lait' is fine too but sounds more old-fashioned."
+        },
+        {
+          "id": "cafe_005",
+          "intent_en": "Ask for a glass of water",
+          "text_local": "Un verre d'eau, s'il vous plaît.",
+          "pronunciation": "uhn VAIR DOH, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "Tap water is free by law in France when you order something. Just ask — no need to buy bottled water."
+        }
+      ],
+      "vocabulary": [
+        { "word_en": "Espresso", "word_local": "Un café", "pronunciation": "uhn ka-FAY" },
+        { "word_en": "Tea", "word_local": "Un thé", "pronunciation": "uhn TAY" },
+        { "word_en": "Hot chocolate", "word_local": "Un chocolat chaud", "pronunciation": "uhn shoh-koh-LAH SHOH" },
+        { "word_en": "Water", "word_local": "De l'eau", "pronunciation": "duh LOH" },
+        { "word_en": "Beer", "word_local": "Une bière", "pronunciation": "oon bee-AIR" },
+        { "word_en": "White wine", "word_local": "Un vin blanc", "pronunciation": "uhn vahn BLAHN" },
+        { "word_en": "Red wine", "word_local": "Un vin rouge", "pronunciation": "uhn vahn ROOZH" },
+        { "word_en": "The bill", "word_local": "L'addition", "pronunciation": "la-dee-SYOHN" }
+      ]
+    },
+    {
+      "id": "bar",
+      "name_en": "Bar",
+      "name_local": "Bar",
+      "icon": "wineglass.fill",
+      "phrases": [
+        {
+          "id": "bar_001",
+          "intent_en": "Order a beer",
+          "text_local": "Une bière pression, s'il vous plaît.",
+          "pronunciation": "oon bee-AIR preh-SYOHN, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "'Pression' means draft beer. You can also say 'un demi' for a standard half-pint glass."
+        },
+        {
+          "id": "bar_002",
+          "intent_en": "Order a glass of wine",
+          "text_local": "Un verre de vin rouge, s'il vous plaît.",
+          "pronunciation": "uhn VAIR duh vahn ROOZH, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "Replace 'rouge' with 'blanc' (white) or 'rosé'. Ordering by the glass ('au verre') is common and affordable."
+        },
+        {
+          "id": "bar_003",
+          "intent_en": "Ask what they have on tap",
+          "text_local": "Qu'est-ce que vous avez en pression ?",
+          "pronunciation": "kess kuh vooz ah-VAY ahn preh-SYOHN",
+          "formality": "polite",
+          "cultural_note": "French bars often have a mix of local and international beers on tap. The bartender may point to the taps."
+        },
+        {
+          "id": "bar_004",
+          "intent_en": "Order a cocktail",
+          "text_local": "Vous faites des cocktails ?",
+          "pronunciation": "voo FET day kok-TEL",
+          "formality": "casual",
+          "cultural_note": "Not every bar makes cocktails. Traditional bars ('bars à vin') focus on wine. Look for 'bar à cocktails' for mixed drinks."
+        },
+        {
+          "id": "bar_005",
+          "intent_en": "Ask for the bill",
+          "text_local": "L'addition, s'il vous plaît.",
+          "pronunciation": "la-dee-SYOHN, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "You typically pay when you leave, not per drink. Tipping is not expected but rounding up is appreciated."
+        }
+      ],
+      "vocabulary": [
+        { "word_en": "Draft beer", "word_local": "Une pression", "pronunciation": "oon preh-SYOHN" },
+        { "word_en": "Half pint", "word_local": "Un demi", "pronunciation": "uhn duh-MEE" },
+        { "word_en": "Red wine", "word_local": "Vin rouge", "pronunciation": "vahn ROOZH" },
+        { "word_en": "White wine", "word_local": "Vin blanc", "pronunciation": "vahn BLAHN" },
+        { "word_en": "Rosé", "word_local": "Rosé", "pronunciation": "roh-ZAY" },
+        { "word_en": "Cocktail", "word_local": "Un cocktail", "pronunciation": "uhn kok-TEL" },
+        { "word_en": "Cheers!", "word_local": "Santé !", "pronunciation": "sahn-TAY" },
+        { "word_en": "Happy hour", "word_local": "L'happy hour", "pronunciation": "lah-PEE OOR" }
+      ]
+    },
+    {
+      "id": "bakery",
+      "name_en": "Bakery",
+      "name_local": "Boulangerie",
+      "icon": "storefront.fill",
+      "phrases": [
+        {
+          "id": "bakery_001",
+          "intent_en": "Greet the baker",
+          "text_local": "Bonjour !",
+          "pronunciation": "bohn-ZHOOR",
+          "formality": "standard",
+          "cultural_note": "Always say 'Bonjour' when entering any shop in France. Not greeting is considered very rude."
+        },
+        {
+          "id": "bakery_002",
+          "intent_en": "Order a baguette",
+          "text_local": "Une baguette tradition, s'il vous plaît.",
+          "pronunciation": "oon ba-GET tra-dee-SYOHN, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "A 'baguette tradition' is made with a more traditional recipe and is generally preferred over a regular 'baguette'."
+        },
+        {
+          "id": "bakery_003",
+          "intent_en": "Ask for a croissant",
+          "text_local": "Je voudrais un croissant, s'il vous plaît.",
+          "pronunciation": "zhuh voo-DREH uhn kwah-SAHN, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "'Je voudrais' (I would like) is more polite than 'Je veux' (I want). Use it in shops and restaurants."
+        },
+        {
+          "id": "bakery_004",
+          "intent_en": "Ask the price",
+          "text_local": "C'est combien ?",
+          "pronunciation": "seh kohm-BYEHN",
+          "formality": "casual",
+          "cultural_note": "Perfectly acceptable in a bakery. For more formal settings, use 'Quel est le prix ?' instead."
+        },
+        {
+          "id": "bakery_005",
+          "intent_en": "Say thank you and goodbye",
+          "text_local": "Merci, au revoir !",
+          "pronunciation": "mair-SEE, oh ruh-VWAHR",
+          "formality": "standard",
+          "cultural_note": "Always say goodbye when leaving a shop. 'Merci, bonne journée' (thank you, have a good day) is even friendlier."
+        }
+      ],
+      "vocabulary": [
+        { "word_en": "Baguette", "word_local": "Une baguette", "pronunciation": "oon ba-GET" },
+        { "word_en": "Croissant", "word_local": "Un croissant", "pronunciation": "uhn kwah-SAHN" },
+        { "word_en": "Pain au chocolat", "word_local": "Un pain au chocolat", "pronunciation": "uhn pahn oh shoh-koh-LAH" },
+        { "word_en": "Pastry", "word_local": "Une viennoiserie", "pronunciation": "oon vee-en-wah-ZREE" },
+        { "word_en": "Bread loaf", "word_local": "Un pain", "pronunciation": "uhn PAHN" },
+        { "word_en": "Cake / Tart", "word_local": "Une tarte", "pronunciation": "oon TART" },
+        { "word_en": "Slice", "word_local": "Une tranche", "pronunciation": "oon TRAHNSH" },
+        { "word_en": "Well done (baked)", "word_local": "Bien cuite", "pronunciation": "byehn KWEET" }
+      ]
+    },
+    {
+      "id": "restaurant",
+      "name_en": "Restaurant",
+      "name_local": "Restaurant",
+      "icon": "fork.knife",
+      "phrases": [
+        {
+          "id": "restaurant_001",
+          "intent_en": "Ask for a table",
+          "text_local": "Bonjour, une table pour deux, s'il vous plaît.",
+          "pronunciation": "bohn-ZHOOR, oon TAHBL poor DUH, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "Always greet with 'Bonjour' before making any request. Specify the number of guests."
+        },
+        {
+          "id": "restaurant_002",
+          "intent_en": "Ask for the menu",
+          "text_local": "La carte, s'il vous plaît.",
+          "pronunciation": "lah KART, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "In France, 'le menu' usually means a fixed-price set meal. 'La carte' is the full à-la-carte menu."
+        },
+        {
+          "id": "restaurant_003",
+          "intent_en": "Ask for the dish of the day",
+          "text_local": "Quel est le plat du jour ?",
+          "pronunciation": "kel eh luh PLAH doo ZHOOR",
+          "formality": "polite",
+          "cultural_note": "The 'plat du jour' is usually the freshest, best-value option and changes daily."
+        },
+        {
+          "id": "restaurant_004",
+          "intent_en": "Say you have an allergy",
+          "text_local": "Je suis allergique aux noix.",
+          "pronunciation": "zhuh swee ah-lair-ZHEEK oh NWAH",
+          "formality": "polite",
+          "cultural_note": "Replace 'noix' with your specific allergen. Common ones: gluten, lait (milk), œufs (eggs)."
+        },
+        {
+          "id": "restaurant_005",
+          "intent_en": "Ask for tap water",
+          "text_local": "Une carafe d'eau, s'il vous plaît.",
+          "pronunciation": "oon ka-RAF DOH, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "Tap water is free in restaurants. Ask for 'une carafe d'eau' — they'll bring a pitcher. No need to buy bottled."
+        },
+        {
+          "id": "restaurant_006",
+          "intent_en": "Ask for the bill",
+          "text_local": "L'addition, s'il vous plaît.",
+          "pronunciation": "la-dee-SYOHN, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "The server won't bring the bill until you ask. Tipping is not expected — service is included ('service compris')."
+        },
+        {
+          "id": "restaurant_007",
+          "intent_en": "Say you are vegetarian",
+          "text_local": "Je suis végétarien.",
+          "pronunciation": "zhuh swee vay-zhay-tah-RYEHN",
+          "formality": "polite",
+          "cultural_note": "Add 'ne' for feminine: 'végétarienne'. For vegan, say 'végan'. France is increasingly vegetarian-friendly."
+        }
+      ],
+      "vocabulary": [
+        { "word_en": "Starter", "word_local": "Une entrée", "pronunciation": "oon ahn-TRAY" },
+        { "word_en": "Main course", "word_local": "Le plat principal", "pronunciation": "luh PLAH prahn-see-PAL" },
+        { "word_en": "Dessert", "word_local": "Le dessert", "pronunciation": "luh deh-SAIR" },
+        { "word_en": "Wine list", "word_local": "La carte des vins", "pronunciation": "lah KART day VAHN" },
+        { "word_en": "Rare (meat)", "word_local": "Saignant", "pronunciation": "sen-YAHN" },
+        { "word_en": "Medium", "word_local": "À point", "pronunciation": "ah PWAHN" },
+        { "word_en": "Well done", "word_local": "Bien cuit", "pronunciation": "byehn KWEE" },
+        { "word_en": "Tap water", "word_local": "Une carafe d'eau", "pronunciation": "oon ka-RAF DOH" },
+        { "word_en": "Still water", "word_local": "Eau plate", "pronunciation": "oh PLAHT" },
+        { "word_en": "Sparkling water", "word_local": "Eau gazeuse", "pronunciation": "oh gah-ZUHZ" },
+        { "word_en": "The tip", "word_local": "Le pourboire", "pronunciation": "luh poor-BWAHR" }
+      ]
+    },
+    {
+      "id": "airport",
+      "name_en": "Airport",
+      "name_local": "Aéroport",
+      "icon": "airplane",
+      "phrases": [
+        {
+          "id": "airport_001",
+          "intent_en": "Ask where check-in is",
+          "text_local": "Où est l'enregistrement, s'il vous plaît ?",
+          "pronunciation": "oo eh lahn-reh-zhees-truh-MAHN, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "French airports use 'enregistrement' for check-in. Signs may also say 'Comptoirs d'enregistrement'."
+        },
+        {
+          "id": "airport_002",
+          "intent_en": "Ask where your gate is",
+          "text_local": "Où est la porte d'embarquement ?",
+          "pronunciation": "oo eh lah PORT dahm-bark-MAHN",
+          "formality": "polite",
+          "cultural_note": "'Porte' means gate. Boarding is called 'embarquement'. Screens showing gates are 'écrans d'affichage'."
+        },
+        {
+          "id": "airport_003",
+          "intent_en": "Say your luggage is missing",
+          "text_local": "Ma valise n'est pas arrivée.",
+          "pronunciation": "mah vah-LEEZ neh pah ah-ree-VAY",
+          "formality": "polite",
+          "cultural_note": "Head to 'Livraison des bagages' (baggage claim) and find the airline desk. Have your luggage tag ready."
+        },
+        {
+          "id": "airport_004",
+          "intent_en": "Ask how to get to the city center",
+          "text_local": "Comment aller au centre-ville ?",
+          "pronunciation": "koh-MAHN ah-LAY oh SAHN-truh VEEL",
+          "formality": "polite",
+          "cultural_note": "From CDG: RER B train to Paris (~35 min). From Orly: Orlyval + RER B or tramway T7. Cheaper than taxis."
+        },
+        {
+          "id": "airport_005",
+          "intent_en": "Ask about a flight delay",
+          "text_local": "Le vol est en retard ?",
+          "pronunciation": "luh VOL eh tahn ruh-TAR",
+          "formality": "casual",
+          "cultural_note": "'Retardé' means delayed, 'annulé' means cancelled. Check the 'écrans d'affichage' (departure screens) for updates."
+        }
+      ],
+      "vocabulary": [
+        { "word_en": "Flight", "word_local": "Le vol", "pronunciation": "luh VOL" },
+        { "word_en": "Gate", "word_local": "La porte", "pronunciation": "lah PORT" },
+        { "word_en": "Boarding", "word_local": "L'embarquement", "pronunciation": "lahm-bark-MAHN" },
+        { "word_en": "Luggage", "word_local": "Les bagages", "pronunciation": "lay ba-GAZH" },
+        { "word_en": "Passport", "word_local": "Le passeport", "pronunciation": "luh pass-POR" },
+        { "word_en": "Customs", "word_local": "La douane", "pronunciation": "lah DWAHN" },
+        { "word_en": "Delayed", "word_local": "En retard", "pronunciation": "ahn ruh-TAR" },
+        { "word_en": "Cancelled", "word_local": "Annulé", "pronunciation": "ah-noo-LAY" }
+      ]
+    },
+    {
+      "id": "train_station",
+      "name_en": "Train Station",
+      "name_local": "Gare",
+      "icon": "tram.fill",
+      "phrases": [
+        {
+          "id": "train_001",
+          "intent_en": "Ask for a ticket",
+          "text_local": "Un billet pour Lyon, s'il vous plaît.",
+          "pronunciation": "uhn bee-YEH poor lee-OHN, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "Replace 'Lyon' with your destination. 'Aller simple' means one-way; 'aller-retour' means round-trip."
+        },
+        {
+          "id": "train_002",
+          "intent_en": "Ask which platform",
+          "text_local": "C'est quel quai, s'il vous plaît ?",
+          "pronunciation": "seh kel KAY, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "'Quai' means platform. Departure boards are called 'tableau des départs'."
+        },
+        {
+          "id": "train_003",
+          "intent_en": "Ask if the train is on time",
+          "text_local": "Le train est à l'heure ?",
+          "pronunciation": "luh TREHN eh tah LUHR",
+          "formality": "casual",
+          "cultural_note": "'En retard' means delayed. French trains (TGV/TER) are generally punctual."
+        },
+        {
+          "id": "train_004",
+          "intent_en": "Confirm this is the right train",
+          "text_local": "C'est bien le train pour Lyon ?",
+          "pronunciation": "seh byehn luh TREHN poor lee-OHN",
+          "formality": "casual",
+          "cultural_note": "Replace 'Lyon' with your destination. Ask anyone on the platform — people are usually happy to confirm."
+        },
+        {
+          "id": "train_005",
+          "intent_en": "Ask where to validate your ticket",
+          "text_local": "Où est-ce que je composte mon billet ?",
+          "pronunciation": "oo ess kuh zhuh kohm-POST mohn bee-YEH",
+          "formality": "polite",
+          "cultural_note": "Regional TER tickets must be composted (validated) before boarding. Look for yellow machines on the platform."
+        }
+      ],
+      "vocabulary": [
+        { "word_en": "Ticket", "word_local": "Un billet", "pronunciation": "uhn bee-YEH" },
+        { "word_en": "Platform", "word_local": "Le quai", "pronunciation": "luh KAY" },
+        { "word_en": "One-way", "word_local": "Aller simple", "pronunciation": "ah-LAY SAMPL" },
+        { "word_en": "Round-trip", "word_local": "Aller-retour", "pronunciation": "ah-LAY ruh-TOOR" },
+        { "word_en": "Departure", "word_local": "Le départ", "pronunciation": "luh day-PAR" },
+        { "word_en": "Arrival", "word_local": "L'arrivée", "pronunciation": "lah-ree-VAY" },
+        { "word_en": "Connection", "word_local": "La correspondance", "pronunciation": "lah koh-res-pohn-DAHNSS" },
+        { "word_en": "Track / Rail", "word_local": "La voie", "pronunciation": "lah VWAH" }
+      ]
+    },
+    {
+      "id": "metro",
+      "name_en": "Metro & Bus",
+      "name_local": "Métro et Bus",
+      "icon": "bus.fill",
+      "phrases": [
+        {
+          "id": "metro_001",
+          "intent_en": "Ask which line to take",
+          "text_local": "Quelle ligne pour aller à Montmartre ?",
+          "pronunciation": "kel LEEN-yuh poor ah-LAY ah mohn-MARTR",
+          "formality": "polite",
+          "cultural_note": "Replace 'Montmartre' with your destination. Parisians are usually helpful if you look at the map and ask."
+        },
+        {
+          "id": "metro_002",
+          "intent_en": "Ask where to buy a ticket",
+          "text_local": "Où est-ce que je peux acheter un ticket ?",
+          "pronunciation": "oo ess kuh zhuh PUH ash-TAY uhn tee-KAY",
+          "formality": "polite",
+          "cultural_note": "Paris uses the Navigo Easy card (rechargeable). Paper tickets are being phased out. Buy at machines or counters."
+        },
+        {
+          "id": "metro_003",
+          "intent_en": "Ask if this is the right direction",
+          "text_local": "C'est bien la direction La Défense ?",
+          "pronunciation": "seh byehn lah dee-rek-SYOHN lah day-FAHNSS",
+          "formality": "casual",
+          "cultural_note": "Metro lines are identified by their end stations. Check the terminus name on the platform to confirm direction."
+        },
+        {
+          "id": "metro_004",
+          "intent_en": "Ask where the next stop is",
+          "text_local": "C'est quoi le prochain arrêt ?",
+          "pronunciation": "seh kwah luh proh-SHEHN ah-REH",
+          "formality": "casual",
+          "cultural_note": "Most metros announce stops automatically. On buses, press the red 'Arrêt demandé' button before your stop."
+        },
+        {
+          "id": "metro_005",
+          "intent_en": "Confirm this metro goes to your stop",
+          "text_local": "Ce métro va bien à Châtelet ?",
+          "pronunciation": "suh MAY-troh vah byehn ah SHAH-tleh",
+          "formality": "casual",
+          "cultural_note": "Replace 'Châtelet' with your stop. A nod or 'oui' is all you need. Check the line terminus on platform signs."
+        }
+      ],
+      "vocabulary": [
+        { "word_en": "Line", "word_local": "La ligne", "pronunciation": "lah LEEN-yuh" },
+        { "word_en": "Stop", "word_local": "L'arrêt", "pronunciation": "lah-REH" },
+        { "word_en": "Transfer", "word_local": "La correspondance", "pronunciation": "lah koh-res-pohn-DAHNSS" },
+        { "word_en": "Exit", "word_local": "La sortie", "pronunciation": "lah sor-TEE" },
+        { "word_en": "Direction", "word_local": "La direction", "pronunciation": "lah dee-rek-SYOHN" },
+        { "word_en": "Ticket", "word_local": "Le ticket", "pronunciation": "luh tee-KAY" },
+        { "word_en": "Map", "word_local": "Le plan", "pronunciation": "luh PLAHN" },
+        { "word_en": "Last train", "word_local": "Le dernier métro", "pronunciation": "luh dair-NYAY MAY-troh" }
+      ]
+    },
+    {
+      "id": "hotel",
+      "name_en": "Hotel",
+      "name_local": "Hôtel",
+      "icon": "bed.double.fill",
+      "phrases": [
+        {
+          "id": "hotel_001",
+          "intent_en": "Check in",
+          "text_local": "Bonjour, j'ai une réservation au nom de…",
+          "pronunciation": "bohn-ZHOOR, zhay oon ray-zer-vah-SYOHN oh NOHM duh…",
+          "formality": "polite",
+          "cultural_note": "Have your booking confirmation ready. Most hotels will ask for your passport at check-in."
+        },
+        {
+          "id": "hotel_002",
+          "intent_en": "Ask for the Wi-Fi password",
+          "text_local": "Quel est le mot de passe du Wi-Fi ?",
+          "pronunciation": "kel eh luh MOH duh PASS doo wee-FEE",
+          "formality": "polite",
+          "cultural_note": "Wi-Fi is pronounced 'wee-fee' in French, not 'why-fye'."
+        },
+        {
+          "id": "hotel_003",
+          "intent_en": "Ask for a late checkout",
+          "text_local": "Est-ce qu'un départ tardif est possible ?",
+          "pronunciation": "ess kuh uhn day-PAR tar-DEEF eh poh-SEEBL",
+          "formality": "polite",
+          "cultural_note": "Standard checkout is usually 11:00. Ask politely — many hotels will accommodate if rooms are available."
+        },
+        {
+          "id": "hotel_004",
+          "intent_en": "Ask what time breakfast is",
+          "text_local": "Le petit-déjeuner est à quelle heure ?",
+          "pronunciation": "luh puh-TEE day-zhuh-NAY eh tah kel UHR",
+          "formality": "polite",
+          "cultural_note": "Hotel breakfast is usually 7:00–10:00. 'Petit-déjeuner inclus' means breakfast is included in your rate."
+        },
+        {
+          "id": "hotel_005",
+          "intent_en": "Report a problem in the room",
+          "text_local": "Il y a un problème dans la chambre.",
+          "pronunciation": "eel ee ah uhn prob-LEM dahn lah SHAHMBRUH",
+          "formality": "polite",
+          "cultural_note": "Point or gesture to show the issue. Common problems: 'la climatisation' (AC), 'l'eau chaude' (hot water), 'la serrure' (lock)."
+        }
+      ],
+      "vocabulary": [
+        { "word_en": "Room", "word_local": "La chambre", "pronunciation": "lah SHAHMBRUH" },
+        { "word_en": "Key", "word_local": "La clé", "pronunciation": "lah KLAY" },
+        { "word_en": "Breakfast", "word_local": "Le petit-déjeuner", "pronunciation": "luh puh-TEE day-zhuh-NAY" },
+        { "word_en": "Elevator", "word_local": "L'ascenseur", "pronunciation": "lah-sahn-SUHR" },
+        { "word_en": "Floor (level)", "word_local": "L'étage", "pronunciation": "lay-TAZH" },
+        { "word_en": "Towel", "word_local": "Une serviette", "pronunciation": "oon sair-vee-ET" },
+        { "word_en": "Reception", "word_local": "La réception", "pronunciation": "lah ray-sep-SYOHN" },
+        { "word_en": "Reservation", "word_local": "La réservation", "pronunciation": "lah ray-zer-vah-SYOHN" }
+      ]
+    },
+    {
+      "id": "museum",
+      "name_en": "Museum",
+      "name_local": "Musée",
+      "icon": "building.columns.fill",
+      "phrases": [
+        {
+          "id": "museum_001",
+          "intent_en": "Buy a ticket",
+          "text_local": "Un billet adulte, s'il vous plaît.",
+          "pronunciation": "uhn bee-YEH ah-DOOLT, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "Many French museums offer reduced rates ('tarif réduit') for students, seniors, and EU residents under 26."
+        },
+        {
+          "id": "museum_002",
+          "intent_en": "Ask if photos are allowed",
+          "text_local": "Est-ce qu'on peut prendre des photos ?",
+          "pronunciation": "ess kohn PUH prahndr day FOH-toh",
+          "formality": "polite",
+          "cultural_note": "Most museums allow photos without flash. Look for the crossed-out camera icon. Flash and tripods are usually banned."
+        },
+        {
+          "id": "museum_003",
+          "intent_en": "Ask for an audio guide",
+          "text_local": "Vous avez un audioguide en anglais ?",
+          "pronunciation": "vooz ah-VAY uhn oh-dee-oh-GEED ahn ahn-GLEH",
+          "formality": "polite",
+          "cultural_note": "Most major museums offer audio guides in English. Some now use free apps — ask 'Il y a une application ?' (Is there an app?)"
+        },
+        {
+          "id": "museum_004",
+          "intent_en": "Ask where an exhibit is",
+          "text_local": "Où se trouve la Joconde ?",
+          "pronunciation": "oo suh TROOV lah zhoh-KOHND",
+          "formality": "polite",
+          "cultural_note": "The Mona Lisa is called 'La Joconde' in French. Replace with whatever you're looking for. Staff are usually very helpful."
+        }
+      ],
+      "vocabulary": [
+        { "word_en": "Exhibit", "word_local": "L'exposition", "pronunciation": "lex-poh-zee-SYOHN" },
+        { "word_en": "Painting", "word_local": "Un tableau", "pronunciation": "uhn tah-BLOH" },
+        { "word_en": "Sculpture", "word_local": "Une sculpture", "pronunciation": "oon skoolp-TOOR" },
+        { "word_en": "Audio guide", "word_local": "L'audioguide", "pronunciation": "loh-dee-oh-GEED" },
+        { "word_en": "Gift shop", "word_local": "La boutique", "pronunciation": "lah boo-TEEK" },
+        { "word_en": "Reduced rate", "word_local": "Tarif réduit", "pronunciation": "ta-REEF ray-DWEE" },
+        { "word_en": "Cloakroom", "word_local": "Le vestiaire", "pronunciation": "luh ves-tee-AIR" },
+        { "word_en": "Guided tour", "word_local": "La visite guidée", "pronunciation": "lah vee-ZEET gee-DAY" }
+      ]
+    },
+    {
+      "id": "supermarket",
+      "name_en": "Supermarket",
+      "name_local": "Supermarché",
+      "icon": "cart.fill",
+      "phrases": [
+        {
+          "id": "supermarket_001",
+          "intent_en": "Ask where something is",
+          "text_local": "Excusez-moi, où est le rayon eau ?",
+          "pronunciation": "ex-koo-ZAY mwah, oo eh luh ray-OHN OH",
+          "formality": "polite",
+          "cultural_note": "'Rayon' means aisle/section. Common ones: 'fruits et légumes' (produce), 'boulangerie' (bread), 'boissons' (drinks)."
+        },
+        {
+          "id": "supermarket_002",
+          "intent_en": "Ask if they have bags",
+          "text_local": "Vous avez des sacs ?",
+          "pronunciation": "vooz ah-VAY day SAK",
+          "formality": "casual",
+          "cultural_note": "Plastic bags are banned in France. Bring your own or buy a reusable bag at the register (usually €0.10–€1)."
+        },
+        {
+          "id": "supermarket_003",
+          "intent_en": "Ask if you can pay by card",
+          "text_local": "Je peux payer par carte ?",
+          "pronunciation": "zhuh PUH pay-YAY par KART",
+          "formality": "casual",
+          "cultural_note": "Card is widely accepted. Contactless ('sans contact') works for under €50. Some small shops have a minimum amount."
+        },
+        {
+          "id": "supermarket_004",
+          "intent_en": "Say you're just looking",
+          "text_local": "Je regarde, merci.",
+          "pronunciation": "zhuh ruh-GARD, mair-SEE",
+          "formality": "casual",
+          "cultural_note": "Useful if a shop assistant approaches you. It's polite but clearly signals you don't need help right now."
+        }
+      ],
+      "vocabulary": [
+        { "word_en": "Water", "word_local": "L'eau", "pronunciation": "LOH" },
+        { "word_en": "Milk", "word_local": "Le lait", "pronunciation": "luh LEH" },
+        { "word_en": "Bread", "word_local": "Le pain", "pronunciation": "luh PAHN" },
+        { "word_en": "Cheese", "word_local": "Le fromage", "pronunciation": "luh froh-MAZH" },
+        { "word_en": "Fruit", "word_local": "Les fruits", "pronunciation": "lay FRWEE" },
+        { "word_en": "Vegetables", "word_local": "Les légumes", "pronunciation": "lay lay-GOOM" },
+        { "word_en": "Checkout", "word_local": "La caisse", "pronunciation": "lah KESS" },
+        { "word_en": "Bag", "word_local": "Un sac", "pronunciation": "uhn SAK" }
+      ]
+    },
+    {
+      "id": "pharmacy",
+      "name_en": "Pharmacy",
+      "name_local": "Pharmacie",
+      "icon": "cross.case.fill",
+      "phrases": [
+        {
+          "id": "pharmacy_001",
+          "intent_en": "Say you feel unwell",
+          "text_local": "Je ne me sens pas bien.",
+          "pronunciation": "zhuh nuh muh SAHN pah BYEHN",
+          "formality": "polite",
+          "cultural_note": "French pharmacists are trained to advise on minor ailments. They can often recommend treatment without a prescription."
+        },
+        {
+          "id": "pharmacy_002",
+          "intent_en": "Ask for headache medicine",
+          "text_local": "Vous avez quelque chose contre les maux de tête ?",
+          "pronunciation": "vooz ah-VAY kel-kuh SHOZE kohntr lay MOH duh TET",
+          "formality": "polite",
+          "cultural_note": "Common brands: Doliprane (paracetamol), Nurofen (ibuprofen). Pharmacists will ask about allergies."
+        },
+        {
+          "id": "pharmacy_003",
+          "intent_en": "Ask for sunscreen",
+          "text_local": "Je cherche de la crème solaire.",
+          "pronunciation": "zhuh SHERSH duh lah KREM soh-LAIR",
+          "formality": "polite",
+          "cultural_note": "French pharmacies stock high-quality sunscreens (La Roche-Posay, Avène). They're often cheaper there than in shops."
+        },
+        {
+          "id": "pharmacy_004",
+          "intent_en": "Ask for stomach medicine",
+          "text_local": "J'ai mal au ventre. Vous avez quelque chose ?",
+          "pronunciation": "zhay mal oh VAHNTRUH. vooz ah-VAY kel-kuh SHOZE",
+          "formality": "polite",
+          "cultural_note": "The pharmacist will ask follow-up questions. Point to where it hurts. Smecta and Spasfon are common French remedies."
+        },
+        {
+          "id": "pharmacy_005",
+          "intent_en": "Ask for something for sunburn",
+          "text_local": "J'ai un coup de soleil. Qu'est-ce que vous conseillez ?",
+          "pronunciation": "zhay uhn KOO duh soh-LAY. kess kuh voo kohn-say-YAY",
+          "formality": "polite",
+          "cultural_note": "Biafine is the go-to French sunburn cream — pharmacists will likely recommend it. Available without prescription."
+        }
+      ],
+      "vocabulary": [
+        { "word_en": "Medicine", "word_local": "Le médicament", "pronunciation": "luh may-dee-kah-MAHN" },
+        { "word_en": "Prescription", "word_local": "L'ordonnance", "pronunciation": "lor-doh-NAHNSS" },
+        { "word_en": "Pain", "word_local": "La douleur", "pronunciation": "lah doo-LUHR" },
+        { "word_en": "Fever", "word_local": "La fièvre", "pronunciation": "lah fee-EVRUH" },
+        { "word_en": "Cough", "word_local": "La toux", "pronunciation": "lah TOO" },
+        { "word_en": "Bandage", "word_local": "Un pansement", "pronunciation": "uhn pahn-SMAHN" },
+        { "word_en": "Allergy", "word_local": "Une allergie", "pronunciation": "oon ah-lair-ZHEE" },
+        { "word_en": "Stomach ache", "word_local": "Mal au ventre", "pronunciation": "mal oh VAHNTRUH" }
+      ]
+    },
+    {
+      "id": "taxi",
+      "name_en": "Taxi",
+      "name_local": "Taxi",
+      "icon": "car.fill",
+      "phrases": [
+        {
+          "id": "taxi_001",
+          "intent_en": "Give your destination",
+          "text_local": "À la gare du Nord, s'il vous plaît.",
+          "pronunciation": "ah lah GAR doo NOR, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "Replace 'la gare du Nord' with your destination. Having the address written down helps if pronunciation is tricky."
+        },
+        {
+          "id": "taxi_002",
+          "intent_en": "Ask how long the ride takes",
+          "text_local": "C'est à combien de temps ?",
+          "pronunciation": "seh tah kohm-BYEHN duh TAHN",
+          "formality": "casual",
+          "cultural_note": "Paris taxis use meters by law. Avoid unmarked cars offering rides at airports."
+        },
+        {
+          "id": "taxi_003",
+          "intent_en": "Ask if card payment works",
+          "text_local": "Vous prenez la carte bancaire ?",
+          "pronunciation": "voo pruh-NAY lah KART bahn-KAIR",
+          "formality": "polite",
+          "cultural_note": "Most taxis accept cards, but some smaller-town taxis may prefer cash. Always ask before the ride."
+        },
+        {
+          "id": "taxi_004",
+          "intent_en": "Ask to stop here",
+          "text_local": "Arrêtez-vous ici, s'il vous plaît.",
+          "pronunciation": "ah-reh-TAY voo ee-SEE, seel voo PLEH",
+          "formality": "polite",
+          "cultural_note": "You can also point and say 'Ici, c'est parfait' (here is perfect). Taxis must drop you at a safe spot."
+        }
+      ],
+      "vocabulary": [
+        { "word_en": "Address", "word_local": "L'adresse", "pronunciation": "lah-DRESS" },
+        { "word_en": "Meter", "word_local": "Le compteur", "pronunciation": "luh kohn-TUHR" },
+        { "word_en": "Receipt", "word_local": "Le reçu", "pronunciation": "luh ruh-SOO" },
+        { "word_en": "Trunk (boot)", "word_local": "Le coffre", "pronunciation": "luh KOFR" },
+        { "word_en": "Stop here", "word_local": "Arrêtez-vous ici", "pronunciation": "ah-reh-TAY voo ee-SEE" },
+        { "word_en": "Straight ahead", "word_local": "Tout droit", "pronunciation": "too DRWAH" }
+      ]
+    }
+  ]
+}
