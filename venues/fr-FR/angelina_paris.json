@@ -1,0 +1,58 @@
+{
+  "id": "venue_angelina_paris",
+  "name_en": "📍 Angelina Paris – Rue de Rivoli",
+  "name_local": "📍 Angelina Paris",
+  "icon": "cup.and.saucer.fill",
+  "phrases": [
+    {
+      "id": "venue_angelina_paris_001",
+      "intent_en": "Order the famous African hot chocolate",
+      "text_local": "Un chocolat chaud L'Africain, s'il vous plaît.",
+      "pronunciation": "uhn shoh-koh-LAH SHOH laf-ree-KEHN, seel voo PLEH",
+      "formality": "polite",
+      "cultural_note": "Angelina's 'L'Africain' hot chocolate is made from a blend of three African cocoas — Niger, Ghana, and Côte d'Ivoire. It's served so thick it can barely pour. A separate pot of whipped cream comes alongside. It has been on the menu since Angelina opened in 1903."
+    },
+    {
+      "id": "venue_angelina_paris_002",
+      "intent_en": "Order the Mont-Blanc pastry",
+      "text_local": "Je voudrais un Mont-Blanc, s'il vous plaît.",
+      "pronunciation": "zhuh voo-DREH uhn mohn-BLAHN, seel voo PLEH",
+      "formality": "polite",
+      "cultural_note": "Angelina's Mont-Blanc is their signature pastry — a meringue base topped with whipped cream and thin chestnut-cream vermicelli strings, resembling the snow-covered mountain it's named after. It has been made to the same recipe since the tearoom opened."
+    },
+    {
+      "id": "venue_angelina_paris_003",
+      "intent_en": "Ask if there is a wait for a table inside",
+      "text_local": "Y a-t-il une liste d'attente pour une table à l'intérieur ?",
+      "pronunciation": "ee ah-TEEL oon LEEST dah-TAHNT poor oon TAH-bluh ah lan-tay-RYUR",
+      "formality": "polite",
+      "cultural_note": "Angelina on Rue de Rivoli has a beautiful Belle Époque dining room with high ceilings and painted murals. There is often a queue — you can also buy pastries and hot chocolate to take away from the counter without waiting. The shop is at 226 Rue de Rivoli, near the Tuileries garden."
+    },
+    {
+      "id": "venue_angelina_paris_004",
+      "intent_en": "Ask for a box of pastries to take away",
+      "text_local": "Je voudrais une boîte de gâteaux à emporter, s'il vous plaît.",
+      "pronunciation": "zhuh voo-DREH oon BWAHT duh gah-TOH ah ahm-por-TAY, seel voo PLEH",
+      "formality": "polite",
+      "cultural_note": "Angelina's pastry counter sells individual cakes and gift boxes to take away — a popular choice for picnics in the adjacent Tuileries garden. The millefeuille, éclair, and religieuse are excellent alongside the famous Mont-Blanc."
+    },
+    {
+      "id": "venue_angelina_paris_005",
+      "intent_en": "Ask about the history of the tearoom",
+      "text_local": "Depuis quand cette salon de thé existe-t-il ?",
+      "pronunciation": "duh-PWEE kahn set sah-LOHN duh TAY eg-ZEEST-teel",
+      "formality": "standard",
+      "cultural_note": "Angelina was founded in 1903 by confectioner Antoine Rumpelmayer, who named it after his daughter-in-law. It quickly became a fashionable meeting place — regulars included Coco Chanel, Marcel Proust, and Empress Eugénie. The Rivoli location remains the original flagship."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Tearoom", "word_local": "Salon de thé", "pronunciation": "sah-LOHN duh TAY" },
+    { "word_en": "Hot chocolate", "word_local": "Chocolat chaud", "pronunciation": "shoh-koh-LAH SHOH" },
+    { "word_en": "Whipped cream", "word_local": "Crème chantilly", "pronunciation": "krem shan-tee-YEE" },
+    { "word_en": "Pastry", "word_local": "Gâteau", "pronunciation": "gah-TOH" },
+    { "word_en": "Chestnut", "word_local": "Marron", "pronunciation": "mah-ROHN" },
+    { "word_en": "To take away", "word_local": "À emporter", "pronunciation": "ah ahm-por-TAY" },
+    { "word_en": "Queue / Line", "word_local": "File d'attente", "pronunciation": "feel dah-TAHNT" },
+    { "word_en": "Meringue", "word_local": "Meringue", "pronunciation": "muh-RANG" }
+  ]
+}

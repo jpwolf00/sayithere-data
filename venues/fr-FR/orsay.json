@@ -1,0 +1,56 @@
+{
+  "id": "venue_orsay",
+  "name_en": "📍 Musée d'Orsay",
+  "name_local": "📍 Musée d'Orsay",
+  "icon": "paintpalette.fill",
+  "phrases": [
+    {
+      "id": "venue_orsay_001",
+      "intent_en": "Ask where the Impressionist galleries are",
+      "text_local": "Où se trouvent les salles des impressionnistes ?",
+      "pronunciation": "oo suh TROOV lay sal dayz ehm-preh-syoh-NEEST",
+      "formality": "polite",
+      "cultural_note": "The Impressionist masterpieces are on the top floor (niveau 5). Head straight up to see Monet, Renoir, Degas, and more with beautiful natural light."
+    },
+    {
+      "id": "venue_orsay_002",
+      "intent_en": "Ask where the Van Gogh paintings are",
+      "text_local": "Où sont les tableaux de Van Gogh ?",
+      "pronunciation": "oo sohn lay tah-BLOH duh vahn GOGH",
+      "formality": "standard",
+      "cultural_note": "The French pronounce Van Gogh closer to 'vahn GOGH' (with a soft French 'g'). His self-portraits and Starry Night Over the Rhône are highlights."
+    },
+    {
+      "id": "venue_orsay_003",
+      "intent_en": "Ask about the famous clock windows",
+      "text_local": "Peut-on voir les horloges depuis l'intérieur ?",
+      "pronunciation": "puh-TOHN vwahr layz or-LOHZH duh-PWEE lahn-tay-RYUHR",
+      "formality": "polite",
+      "cultural_note": "The giant clock face on the 5th floor offers a stunning view of Montmartre through the glass. It's one of the most photographed spots in the museum."
+    },
+    {
+      "id": "venue_orsay_004",
+      "intent_en": "Ask about the building's history as a train station",
+      "text_local": "C'était vraiment une gare avant ?",
+      "pronunciation": "seh-TEH vreh-MAHN oon GAHR ah-VAHN",
+      "formality": "casual",
+      "cultural_note": "The Musée d'Orsay was the Gare d'Orsay train station, built for the 1900 World's Fair. It was converted into a museum in 1986."
+    },
+    {
+      "id": "venue_orsay_005",
+      "intent_en": "Ask about Monet's water lilies",
+      "text_local": "Avez-vous des Nymphéas de Monet ici ?",
+      "pronunciation": "ah-VAY voo day nehm-fay-AH duh moh-NEH ee-SEE",
+      "formality": "polite",
+      "cultural_note": "The Orsay has some Monet water lilies, but the most famous large panels are at the Musée de l'Orangerie in the Tuileries Garden — just a short walk away."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Impressionism", "word_local": "Impressionnisme", "pronunciation": "ehm-preh-syoh-NEEZM" },
+    { "word_en": "Train station", "word_local": "Gare", "pronunciation": "gahr" },
+    { "word_en": "Top floor", "word_local": "Dernier étage", "pronunciation": "dehr-NYAY ay-TAHZH" },
+    { "word_en": "Clock", "word_local": "Horloge", "pronunciation": "or-LOHZH" },
+    { "word_en": "Self-portrait", "word_local": "Autoportrait", "pronunciation": "oh-toh-por-TREH" },
+    { "word_en": "Exhibition", "word_local": "Exposition", "pronunciation": "ex-poh-zee-SYOHN" }
+  ]
+}

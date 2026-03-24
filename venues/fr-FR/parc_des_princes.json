@@ -1,0 +1,66 @@
+{
+  "id": "venue_parc_des_princes",
+  "name_en": "📍 Parc des Princes (PSG)",
+  "name_local": "📍 Parc des Princes (PSG)",
+  "icon": "sportscourt.fill",
+  "phrases": [
+    {
+      "id": "venue_pdp_001",
+      "intent_en": "Chant 'This is Paris!' with the fans",
+      "text_local": "Ici c'est Paris !",
+      "pronunciation": "ee-SEE seh pah-REE",
+      "formality": "casual",
+      "cultural_note": "The iconic PSG chant. The Virage Auteuil ultras start it, and the whole stadium joins in. Clap twice after 'Ici c'est Paris!' for the full effect."
+    },
+    {
+      "id": "venue_pdp_002",
+      "intent_en": "Ask where to buy match tickets",
+      "text_local": "Où acheter des billets pour le match ?",
+      "pronunciation": "oo ahsh-TAY day bee-YEH poor luh MATCH",
+      "formality": "standard",
+      "cultural_note": "Buy on the official PSG website or app. Big matches (Marseille, Champions League) sell out fast. Resale sites are expensive — the billetterie at the stadium sometimes has last-minute tickets."
+    },
+    {
+      "id": "venue_pdp_003",
+      "intent_en": "Cheer for a goal",
+      "text_local": "Allez Paris ! Allez les Parisiens !",
+      "pronunciation": "ah-LAY pah-REE! ah-LAY lay pah-ree-ZYEHN",
+      "formality": "casual",
+      "cultural_note": "Shout this when PSG scores. You'll also hear 'But! But! But!' (Goal! Goal! Goal!) echoing through the stands. The atmosphere at Parc des Princes is electric."
+    },
+    {
+      "id": "venue_pdp_004",
+      "intent_en": "Ask about the stadium tour",
+      "text_local": "Est-ce qu'il y a des visites guidées du stade ?",
+      "pronunciation": "ess keel ee ah day vee-ZEET ghee-DAY doo STAHD",
+      "formality": "polite",
+      "cultural_note": "Stadium tours run on non-match days and include the locker rooms, tunnel, and pitch-side access. Book on the PSG website. The club museum showcases PSG's history."
+    },
+    {
+      "id": "venue_pdp_005",
+      "intent_en": "Ask where the PSG merchandise shop is",
+      "text_local": "Où est la boutique officielle du PSG ?",
+      "pronunciation": "oo eh lah boo-TEEK oh-fee-SYEL doo pay-ess-ZHAY",
+      "formality": "standard",
+      "cultural_note": "The main boutique is at the stadium. There's also a megastore on the Champs-Élysées. Match-day prices are the same, but expect long lines after the game."
+    },
+    {
+      "id": "venue_pdp_006",
+      "intent_en": "Sing the rivalry chant against Marseille",
+      "text_local": "Paris est magique ! L'OM est tragique !",
+      "pronunciation": "pah-REE eh mah-ZHEEK! lohm eh trah-ZHEEK",
+      "formality": "casual",
+      "cultural_note": "The PSG-Marseille rivalry (Le Classique) is the biggest in French football. This playful chant is heard at every Classique. Use with caution — only at PSG home matches!"
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Match/Game", "word_local": "Match", "pronunciation": "match" },
+    { "word_en": "Goal!", "word_local": "But !", "pronunciation": "boot" },
+    { "word_en": "Stadium", "word_local": "Stade", "pronunciation": "stahd" },
+    { "word_en": "Team", "word_local": "Équipe", "pronunciation": "ay-KEEP" },
+    { "word_en": "Jersey/Kit", "word_local": "Maillot", "pronunciation": "my-YOH" },
+    { "word_en": "Fans/Supporters", "word_local": "Supporters", "pronunciation": "soo-por-TEHR" },
+    { "word_en": "Scarf", "word_local": "Écharpe", "pronunciation": "ay-SHARP" },
+    { "word_en": "Halftime", "word_local": "Mi-temps", "pronunciation": "mee-TAHN" }
+  ]
+}

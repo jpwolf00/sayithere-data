@@ -1,0 +1,56 @@
+{
+  "id": "hood_saint_germain",
+  "name_en": "📍 Saint-Germain-des-Prés",
+  "name_local": "📍 Saint-Germain-des-Prés",
+  "icon": "book.fill",
+  "phrases": [
+    {
+      "id": "hood_stgermain_001",
+      "intent_en": "Ask about the famous literary cafés",
+      "text_local": "Où est le Café de Flore ? Et Les Deux Magots ?",
+      "pronunciation": "oo eh luh kah-FAY duh FLOHR? ay lay duh mah-GOH",
+      "formality": "standard",
+      "cultural_note": "Both cafés face the church of Saint-Germain-des-Prés on Boulevard Saint-Germain. Sartre and Beauvoir held court at Flore; Hemingway preferred Les Deux Magots. Expect to pay 7+ euros for a coffee."
+    },
+    {
+      "id": "hood_stgermain_002",
+      "intent_en": "Ask about the neighborhood's intellectual history",
+      "text_local": "C'est ici que Sartre et Beauvoir venaient ?",
+      "pronunciation": "seh ee-SEE kuh SARTR ay boh-VWAHR vuh-NEH",
+      "formality": "casual",
+      "cultural_note": "This was the epicenter of existentialism in the 1940s-50s. Sartre, Beauvoir, Camus, and later the jazz scene made this the intellectual heart of Paris."
+    },
+    {
+      "id": "hood_stgermain_003",
+      "intent_en": "Ask for a good bookshop",
+      "text_local": "Connaissez-vous une bonne librairie dans le quartier ?",
+      "pronunciation": "koh-neh-SAY voo oon bohn lee-breh-REE dahn luh kar-TYAY",
+      "formality": "polite",
+      "cultural_note": "La Hune (now closed) was legendary, but try Librairie Gallimard or the many antique book dealers on Rue de Seine. The bouquinistes along the Seine are just steps away."
+    },
+    {
+      "id": "hood_stgermain_004",
+      "intent_en": "Ask about the church of Saint-Germain-des-Prés",
+      "text_local": "L'église de Saint-Germain, c'est la plus vieille de Paris ?",
+      "pronunciation": "lay-GLEEZ duh sahn-zhehr-MAHN, seh lah ploo vyeh-yuh duh pah-REE",
+      "formality": "casual",
+      "cultural_note": "Founded in 558 AD, it's the oldest church in Paris. The current Romanesque structure dates to the 11th century. Free entry — look for the recently restored colorful murals inside."
+    },
+    {
+      "id": "hood_stgermain_005",
+      "intent_en": "Ask about antique galleries on Rue de Seine",
+      "text_local": "Il y a beaucoup de galeries d'art dans cette rue ?",
+      "pronunciation": "eel ee ah boh-KOO duh gah-leh-REE DAR dahn set ROO",
+      "formality": "standard",
+      "cultural_note": "Rue de Seine and surrounding streets have dozens of art galleries — from old masters to contemporary. Window shopping is free and galleries welcome browsers."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Café", "word_local": "Café", "pronunciation": "kah-FAY" },
+    { "word_en": "Bookshop", "word_local": "Librairie", "pronunciation": "lee-breh-REE" },
+    { "word_en": "Church", "word_local": "Église", "pronunciation": "ay-GLEEZ" },
+    { "word_en": "Art gallery", "word_local": "Galerie d'art", "pronunciation": "gah-leh-REE dar" },
+    { "word_en": "Intellectual", "word_local": "Intellectuel(le)", "pronunciation": "ahn-tel-ek-TOO-el" },
+    { "word_en": "Secondhand bookseller", "word_local": "Bouquiniste", "pronunciation": "boo-kee-NEEST" }
+  ]
+}

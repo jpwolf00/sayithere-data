@@ -1,0 +1,66 @@
+{
+  "id": "venue_eiffel_tower",
+  "name_en": "📍 Eiffel Tower",
+  "name_local": "📍 Tour Eiffel",
+  "icon": "building.2.fill",
+  "phrases": [
+    {
+      "id": "venue_eiffel_001",
+      "intent_en": "Ask about tickets to the summit",
+      "text_local": "Je voudrais un billet pour le sommet, s'il vous plaît.",
+      "pronunciation": "zhuh voo-DREH uhn bee-YEH poor luh soh-MEH, seel voo PLEH",
+      "formality": "polite",
+      "cultural_note": "Book summit tickets online weeks in advance — they sell out fast. The summit is accessible only by elevator from the 2nd floor."
+    },
+    {
+      "id": "venue_eiffel_002",
+      "intent_en": "Ask about taking the stairs vs. elevator",
+      "text_local": "Est-ce qu'on peut monter par les escaliers ?",
+      "pronunciation": "ess kohn puh mohn-TAY par layz es-kah-LYAY",
+      "formality": "standard",
+      "cultural_note": "You can climb the stairs to the 1st and 2nd floors (674 steps to the 2nd). Stair tickets are cheaper and the line is usually shorter. The summit requires the elevator."
+    },
+    {
+      "id": "venue_eiffel_003",
+      "intent_en": "Ask about the champagne bar at the top",
+      "text_local": "Où est le bar à champagne au sommet ?",
+      "pronunciation": "oo eh luh BAR ah shahm-PAHN-yuh oh soh-MEH",
+      "formality": "standard",
+      "cultural_note": "The champagne bar is at the very top of the tower. A glass costs around 15-20 euros — expensive, but the view is unbeatable."
+    },
+    {
+      "id": "venue_eiffel_004",
+      "intent_en": "Ask which level has the best view",
+      "text_local": "Quel étage a la plus belle vue ?",
+      "pronunciation": "kel ay-TAHZH ah lah ploo bel VOO",
+      "formality": "standard",
+      "cultural_note": "The 2nd floor (115m) actually offers the best view of Paris for detail. The summit (276m) gives panoramic views but buildings look smaller. Many locals prefer the 2nd floor."
+    },
+    {
+      "id": "venue_eiffel_005",
+      "intent_en": "Ask how long the wait is",
+      "text_local": "C'est combien de temps d'attente environ ?",
+      "pronunciation": "seh kohm-BYEHN duh tahn dah-TAHNT ahn-vee-ROHN",
+      "formality": "standard",
+      "cultural_note": "Wait times can exceed 2 hours in summer without advance tickets. Visit at night for shorter lines and a magical illuminated Paris."
+    },
+    {
+      "id": "venue_eiffel_006",
+      "intent_en": "Decline aggressive souvenir sellers",
+      "text_local": "Non merci, ça ne m'intéresse pas.",
+      "pronunciation": "nohn mair-SEE, sah nuh mehn-tay-RES pah",
+      "formality": "standard",
+      "cultural_note": "Unofficial sellers around the tower sell miniature Eiffel Towers and trinkets. A polite but firm 'Non merci' is the best response. Don't engage further."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Summit/Top", "word_local": "Sommet", "pronunciation": "soh-MEH" },
+    { "word_en": "Stairs", "word_local": "Escaliers", "pronunciation": "es-kah-LYAY" },
+    { "word_en": "Elevator", "word_local": "Ascenseur", "pronunciation": "ah-sahn-SUHR" },
+    { "word_en": "Level/Floor", "word_local": "Étage", "pronunciation": "ay-TAHZH" },
+    { "word_en": "View", "word_local": "Vue", "pronunciation": "voo" },
+    { "word_en": "Ticket", "word_local": "Billet", "pronunciation": "bee-YEH" },
+    { "word_en": "Wait/Line", "word_local": "Attente / File d'attente", "pronunciation": "ah-TAHNT / feel dah-TAHNT" },
+    { "word_en": "Champagne", "word_local": "Champagne", "pronunciation": "shahm-PAHN-yuh" }
+  ]
+}

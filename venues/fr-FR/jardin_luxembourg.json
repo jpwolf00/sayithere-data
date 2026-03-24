@@ -1,0 +1,56 @@
+{
+  "id": "venue_jardin_luxembourg",
+  "name_en": "📍 Luxembourg Gardens",
+  "name_local": "📍 Jardin du Luxembourg",
+  "icon": "leaf.fill",
+  "phrases": [
+    {
+      "id": "venue_luxembourg_001",
+      "intent_en": "Ask about renting toy boats",
+      "text_local": "Où peut-on louer des petits bateaux pour le bassin ?",
+      "pronunciation": "oo puh-TOHN loo-AY day puh-TEE bah-TOH poor luh bah-SAHN",
+      "formality": "standard",
+      "cultural_note": "The toy sailboat rental is at the central octagonal basin. Kids push them with sticks — it's a Parisian tradition since the 1920s. Available spring through fall."
+    },
+    {
+      "id": "venue_luxembourg_002",
+      "intent_en": "Ask if the green chairs are free to use",
+      "text_local": "Les chaises vertes sont gratuites ?",
+      "pronunciation": "lay SHEHZ vehrt sohn grah-TWEET",
+      "formality": "casual",
+      "cultural_note": "Yes! The famous green metal chairs are free. Drag them anywhere you like — to the sun, shade, or near the fountain. It's a beloved Parisian tradition."
+    },
+    {
+      "id": "venue_luxembourg_003",
+      "intent_en": "Ask where the Medici Fountain is",
+      "text_local": "Où est la fontaine de Médicis ?",
+      "pronunciation": "oo eh lah fohn-TEN duh may-dee-SEES",
+      "formality": "standard",
+      "cultural_note": "The Medici Fountain is in the northeast corner, built in 1630 for Marie de Médicis. The long reflecting pool leading to it is one of the most romantic spots in Paris."
+    },
+    {
+      "id": "venue_luxembourg_004",
+      "intent_en": "Ask about the playground",
+      "text_local": "Il y a une aire de jeux pour les enfants ?",
+      "pronunciation": "eel ee ah oon EHR duh ZHUH poor layz ahn-FAHN",
+      "formality": "standard",
+      "cultural_note": "There's a paid playground (a few euros) with slides and swings, and a free puppet theater (Guignol) with shows on Wednesday, Saturday, and Sunday."
+    },
+    {
+      "id": "venue_luxembourg_005",
+      "intent_en": "Ask what time the park closes",
+      "text_local": "Le jardin ferme à quelle heure ce soir ?",
+      "pronunciation": "luh zhar-DAHN FEHRM ah kel UHR suh SWAHR",
+      "formality": "standard",
+      "cultural_note": "Closing time changes with the seasons — check the posted signs at the gates. A bell rings 30 minutes before closing as a warning. Guards will politely usher you out."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Garden/Park", "word_local": "Jardin", "pronunciation": "zhar-DAHN" },
+    { "word_en": "Chair", "word_local": "Chaise", "pronunciation": "shehz" },
+    { "word_en": "Fountain", "word_local": "Fontaine", "pronunciation": "fohn-TEN" },
+    { "word_en": "Pond/Basin", "word_local": "Bassin", "pronunciation": "bah-SAHN" },
+    { "word_en": "Toy boat", "word_local": "Petit bateau", "pronunciation": "puh-TEE bah-TOH" },
+    { "word_en": "Playground", "word_local": "Aire de jeux", "pronunciation": "ehr duh zhuh" }
+  ]
+}

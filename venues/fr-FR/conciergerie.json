@@ -1,0 +1,58 @@
+{
+  "id": "venue_conciergerie",
+  "name_en": "📍 La Conciergerie",
+  "name_local": "📍 La Conciergerie",
+  "icon": "lock.fill",
+  "phrases": [
+    {
+      "id": "venue_conciergerie_001",
+      "intent_en": "Ask where Marie Antoinette's cell is preserved",
+      "text_local": "Où se trouve la cellule reconstituée de Marie-Antoinette ?",
+      "pronunciation": "oo suh TROOV lah seh-LOOL ruh-kohn-stee-TWAY duh mah-REE-ahn-twah-NET",
+      "formality": "polite",
+      "cultural_note": "Marie Antoinette was imprisoned at the Conciergerie from August to October 1793 before her execution. Her cell has been reconstructed as a chapel by Louis XVIII in her memory. A lock of her hair and a crucifix are among the objects on display."
+    },
+    {
+      "id": "venue_conciergerie_002",
+      "intent_en": "Ask about the medieval royal palace history",
+      "text_local": "Pourriez-vous m'expliquer l'histoire du palais royal médiéval ?",
+      "pronunciation": "poo-RYAY voo mex-plee-KAY lee-STWAR doo pah-LEH rwah-YAL may-dee-ay-VAL",
+      "formality": "polite",
+      "cultural_note": "The Conciergerie was built as a royal palace in the 10th century and was the seat of French government until Charles V moved to the Louvre in 1358. It then became a prison, notorious during the Revolution as the last stop before the guillotine."
+    },
+    {
+      "id": "venue_conciergerie_003",
+      "intent_en": "Ask how many people were imprisoned here during the Revolution",
+      "text_local": "Combien de prisonniers ont été détenus ici pendant la Révolution ?",
+      "pronunciation": "kohm-BYEHN duh pree-zoh-NYAY ohn ay-TAY day-tuh-NOO ee-SEE pahn-DAHN lah ray-voh-LOO-syohn",
+      "formality": "standard",
+      "cultural_note": "During the Reign of Terror (1793-94), over 2,700 prisoners passed through the Conciergerie before being guillotined on the Place de la Révolution (now Place de la Concorde). Among them: Marie Antoinette, Robespierre, and the poet André Chénier."
+    },
+    {
+      "id": "venue_conciergerie_004",
+      "intent_en": "Ask if a combined ticket with Sainte-Chapelle is available",
+      "text_local": "Y a-t-il un billet combiné avec la Sainte-Chapelle ?",
+      "pronunciation": "ee ah-TEEL uhn bee-YEH kohm-bee-NAY ah-VEK lah seht shah-PEL",
+      "formality": "polite",
+      "cultural_note": "A combined ticket covering both the Conciergerie and Sainte-Chapelle is available and offers good value. Both sites are managed by the Centre des monuments nationaux and are adjacent to each other on the Île de la Cité."
+    },
+    {
+      "id": "venue_conciergerie_005",
+      "intent_en": "Ask where the medieval kitchens are",
+      "text_local": "Où se trouvent les cuisines médiévales ?",
+      "pronunciation": "oo suh TROOV lay kwee-ZEEN may-dee-ay-VAL",
+      "formality": "standard",
+      "cultural_note": "The four medieval towers and the vast Gothic kitchen hall are among the best-preserved medieval interiors in France. The kitchen could prepare meals for up to 2,000 people at the royal court — it features four enormous fireplaces."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Prison cell", "word_local": "Cellule", "pronunciation": "seh-LOOL" },
+    { "word_en": "Revolution", "word_local": "Révolution", "pronunciation": "ray-voh-LOO-syohn" },
+    { "word_en": "Prisoner", "word_local": "Prisonnier", "pronunciation": "pree-zoh-NYAY" },
+    { "word_en": "Guillotine", "word_local": "Guillotine", "pronunciation": "gee-oh-TEEN" },
+    { "word_en": "Royal palace", "word_local": "Palais royal", "pronunciation": "pah-LEH rwah-YAL" },
+    { "word_en": "Tower", "word_local": "Tour", "pronunciation": "toor" },
+    { "word_en": "Medieval", "word_local": "Médiéval", "pronunciation": "may-dee-ay-VAL" },
+    { "word_en": "Combined ticket", "word_local": "Billet combiné", "pronunciation": "bee-YEH kohm-bee-NAY" }
+  ]
+}

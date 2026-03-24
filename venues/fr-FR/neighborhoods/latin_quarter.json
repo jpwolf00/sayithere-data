@@ -1,0 +1,56 @@
+{
+  "id": "hood_latin_quarter",
+  "name_en": "📍 Latin Quarter",
+  "name_local": "📍 Quartier Latin",
+  "icon": "graduationcap.fill",
+  "phrases": [
+    {
+      "id": "hood_latin_001",
+      "intent_en": "Ask where Shakespeare & Company bookshop is",
+      "text_local": "Où est la librairie Shakespeare and Company ?",
+      "pronunciation": "oo eh lah lee-breh-REE shayks-PEER ahnd KUHM-pah-nee",
+      "formality": "standard",
+      "cultural_note": "At 37 Rue de la Bûcherie, facing Notre-Dame. This legendary English bookshop lets travelers sleep among the books. Browse freely — no photos in the rare book room upstairs."
+    },
+    {
+      "id": "hood_latin_002",
+      "intent_en": "Ask about the Sorbonne university",
+      "text_local": "On peut visiter la Sorbonne ?",
+      "pronunciation": "ohn puh vee-zee-TAY lah sor-BOHN",
+      "formality": "standard",
+      "cultural_note": "The Sorbonne chapel (17th century) is occasionally open for exhibitions. The university itself is not open to tourists, but the surrounding streets are full of student life and cheap eateries."
+    },
+    {
+      "id": "hood_latin_003",
+      "intent_en": "Ask for a cheap restaurant recommendation",
+      "text_local": "Vous connaissez un bon restaurant pas cher dans le coin ?",
+      "pronunciation": "voo koh-neh-SAY uhn bohn res-toh-RAHN pah SHEHR dahn luh KWAHN",
+      "formality": "casual",
+      "cultural_note": "Avoid Rue de la Huchette — it's a tourist trap. Head to Rue Mouffetard for better value. Look for restaurants where locals eat, especially around the market street."
+    },
+    {
+      "id": "hood_latin_004",
+      "intent_en": "Ask about the Rue Mouffetard market street",
+      "text_local": "La rue Mouffetard est par où ?",
+      "pronunciation": "lah roo moo-fuh-TAR eh par OO",
+      "formality": "casual",
+      "cultural_note": "Rue Mouffetard is one of Paris's oldest market streets. The open-air market runs Tuesday-Sunday mornings at the bottom of the street. Great cheese shops, bakeries, and crêpe stands."
+    },
+    {
+      "id": "hood_latin_005",
+      "intent_en": "Ask about the Roman ruins in the area",
+      "text_local": "Il y a des vestiges romains dans le quartier ?",
+      "pronunciation": "eel ee ah day ves-TEEZH roh-MAHN dahn luh kar-TYAY",
+      "formality": "standard",
+      "cultural_note": "The Arènes de Lutèce (a Roman amphitheater) is hidden in a park on Rue Monge. Free to visit and a great picnic spot. The Cluny Museum has Roman baths."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "University", "word_local": "Université", "pronunciation": "oo-nee-vehr-see-TAY" },
+    { "word_en": "Student", "word_local": "Étudiant(e)", "pronunciation": "ay-too-DYAHN(T)" },
+    { "word_en": "Bookshop", "word_local": "Librairie", "pronunciation": "lee-breh-REE" },
+    { "word_en": "Market street", "word_local": "Rue commerçante", "pronunciation": "roo koh-mehr-SAHNT" },
+    { "word_en": "Cheap/Affordable", "word_local": "Pas cher", "pronunciation": "pah SHEHR" },
+    { "word_en": "Roman ruins", "word_local": "Vestiges romains", "pronunciation": "ves-TEEZH roh-MAHN" }
+  ]
+}

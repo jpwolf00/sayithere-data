@@ -1,0 +1,56 @@
+{
+  "id": "venue_arc_de_triomphe",
+  "name_en": "📍 Arc de Triomphe",
+  "name_local": "📍 Arc de Triomphe",
+  "icon": "building.columns.fill",
+  "phrases": [
+    {
+      "id": "venue_arc_001",
+      "intent_en": "Ask about climbing to the top",
+      "text_local": "Est-ce qu'on peut monter en haut de l'Arc ?",
+      "pronunciation": "ess kohn puh mohn-TAY ahn OH duh LARK",
+      "formality": "standard",
+      "cultural_note": "There are 284 steps to the top (no elevator). The panoramic terrace offers one of the best views in Paris — you can see all 12 avenues radiating from the Étoile."
+    },
+    {
+      "id": "venue_arc_002",
+      "intent_en": "Ask about the Tomb of the Unknown Soldier",
+      "text_local": "À quelle heure est le ravivage de la flamme ?",
+      "pronunciation": "ah kel UHR eh luh rah-vee-VAHZH duh lah FLAHM",
+      "formality": "polite",
+      "cultural_note": "The Eternal Flame at the Tomb of the Unknown Soldier is rekindled every evening at 6:30 PM. The ceremony has taken place every day since 1923."
+    },
+    {
+      "id": "venue_arc_003",
+      "intent_en": "Ask how to cross safely to the Arc",
+      "text_local": "Comment traverser pour aller à l'Arc en toute sécurité ?",
+      "pronunciation": "koh-MAHN trah-vehr-SAY poor ah-LAY ah LARK ahn toot say-koo-ree-TAY",
+      "formality": "standard",
+      "cultural_note": "Never try to cross the roundabout on foot — it's extremely dangerous. Use the underground pedestrian tunnel from the Champs-Élysées sidewalk."
+    },
+    {
+      "id": "venue_arc_004",
+      "intent_en": "Ask what is written on the Arc",
+      "text_local": "Qu'est-ce qui est inscrit sur l'Arc ?",
+      "pronunciation": "kess kee eh ahn-SKREE soor LARK",
+      "formality": "standard",
+      "cultural_note": "The Arc bears the names of 558 French generals and major victories. The inner walls list the names of those who died in the French Revolution and Napoleonic Wars."
+    },
+    {
+      "id": "venue_arc_005",
+      "intent_en": "Ask about the view of the Champs-Élysées",
+      "text_local": "On voit les Champs-Élysées d'en haut ?",
+      "pronunciation": "ohn vwah lay shahnz-ay-lee-ZAY dahn OH",
+      "formality": "casual",
+      "cultural_note": "From the top, you can see the entire Champs-Élysées stretching to Place de la Concorde, and in the other direction, La Défense's modern skyline."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Arch", "word_local": "Arc", "pronunciation": "ark" },
+    { "word_en": "Flame", "word_local": "Flamme", "pronunciation": "flahm" },
+    { "word_en": "Unknown Soldier", "word_local": "Soldat inconnu", "pronunciation": "sol-DAH ahn-koh-NOO" },
+    { "word_en": "Roundabout", "word_local": "Rond-point", "pronunciation": "rohn-PWAHN" },
+    { "word_en": "Underground passage", "word_local": "Passage souterrain", "pronunciation": "pah-SAHZH soo-teh-RAHN" },
+    { "word_en": "Panoramic view", "word_local": "Vue panoramique", "pronunciation": "voo pah-noh-rah-MEEK" }
+  ]
+}

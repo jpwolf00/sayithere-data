@@ -1,0 +1,58 @@
+{
+  "id": "venue_la_samaritaine",
+  "name_en": "📍 La Samaritaine",
+  "name_local": "📍 La Samaritaine",
+  "icon": "bag.fill",
+  "phrases": [
+    {
+      "id": "venue_la_samaritaine_001",
+      "intent_en": "Ask where the rooftop terrace is",
+      "text_local": "Où se trouve la terrasse panoramique sur le toit ?",
+      "pronunciation": "oo suh TROOV lah teh-RAHS pah-noh-rah-MEEK soor luh TWAH",
+      "formality": "polite",
+      "cultural_note": "La Samaritaine has a public rooftop terrace accessible from the upper floors, offering views over the Seine, Notre-Dame, and central Paris. The terrace is associated with the Cheval Blanc hotel at the top of the building, but the viewing platform is accessible to shoppers during store hours."
+    },
+    {
+      "id": "venue_la_samaritaine_002",
+      "intent_en": "Ask about the history of the Art Nouveau building",
+      "text_local": "Pourriez-vous me parler de l'histoire de ce bâtiment Art Nouveau ?",
+      "pronunciation": "poo-RYAY voo muh par-LAY duh lee-STWAR duh suh bah-tee-MAHN ar noo-VOH",
+      "formality": "polite",
+      "cultural_note": "La Samaritaine was founded in 1870 by Ernest Cognacq. The main building dates from 1905 and is a masterpiece of Art Nouveau design by Frantz Jourdain, with a distinctive peacock mosaic facade. A second building added in the 1920s is Art Deco. After a 15-year closure for restoration, the store reopened in 2021 under LVMH ownership."
+    },
+    {
+      "id": "venue_la_samaritaine_003",
+      "intent_en": "Ask where the DFS duty-free section is",
+      "text_local": "Où se trouve l'espace DFS détaxe ?",
+      "pronunciation": "oo suh TROOV less-PAHS day-ef-ESS day-TAKS",
+      "formality": "polite",
+      "cultural_note": "La Samaritaine houses a DFS (Duty Free Stores) section, which is LVMH's international luxury duty-free brand. Non-EU visitors can take advantage of tax refunds and in some cases duty-free pricing on luxury goods including perfume, cosmetics, leather goods, and watches."
+    },
+    {
+      "id": "venue_la_samaritaine_004",
+      "intent_en": "Ask where the perfume and beauty section is",
+      "text_local": "Où se trouve le rayon parfums et beauté ?",
+      "pronunciation": "oo suh TROOV luh ray-YOHN par-FAN ay boh-TAY",
+      "formality": "polite",
+      "cultural_note": "The beauty and fragrance floors at La Samaritaine carry the full range of LVMH brands (Dior, Givenchy, Guerlain) alongside other luxury perfumers. The store's central atrium with its original Art Nouveau glass roof is most visible from the beauty floor levels — look up."
+    },
+    {
+      "id": "venue_la_samaritaine_005",
+      "intent_en": "Ask how to get to Pont-Neuf from the store",
+      "text_local": "Comment rejoindre le Pont-Neuf depuis le magasin ?",
+      "pronunciation": "koh-MAHN ruh-ZHWAHN-druh luh pohn-NUF duh-PWEE luh mah-gah-ZEHN",
+      "formality": "standard",
+      "cultural_note": "La Samaritaine is located at 9 Rue de la Monnaie, directly beside Pont-Neuf — Paris's oldest bridge, completed in 1607. Exit the store toward the Seine and you're immediately on the bridge. A view of the store's striking glass-and-metal facade from Pont-Neuf is one of the best architectural photo spots in central Paris."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Art Nouveau", "word_local": "Art Nouveau", "pronunciation": "ar noo-VOH" },
+    { "word_en": "Art Deco", "word_local": "Art Déco", "pronunciation": "ar day-KOH" },
+    { "word_en": "Rooftop terrace", "word_local": "Terrasse sur le toit", "pronunciation": "teh-RAHS soor luh TWAH" },
+    { "word_en": "Duty-free", "word_local": "Détaxe / Hors taxe", "pronunciation": "day-TAKS / or TAKS" },
+    { "word_en": "Atrium", "word_local": "Atrium", "pronunciation": "ah-TREE-om" },
+    { "word_en": "Perfume", "word_local": "Parfum", "pronunciation": "par-FAN" },
+    { "word_en": "Heritage building", "word_local": "Bâtiment classé", "pronunciation": "bah-tee-MAHN klah-SAY" },
+    { "word_en": "Renovation", "word_local": "Rénovation", "pronunciation": "ray-noh-vah-SYOHN" }
+  ]
+}

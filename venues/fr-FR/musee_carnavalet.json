@@ -1,0 +1,66 @@
+{
+  "id": "venue_musee_carnavalet",
+  "name_en": "📍 Musée Carnavalet – History of Paris",
+  "name_local": "📍 Musée Carnavalet",
+  "icon": "building.2.fill",
+  "phrases": [
+    {
+      "id": "venue_musee_carnavalet_001",
+      "intent_en": "Confirm that admission is free",
+      "text_local": "L'entrée est bien gratuite pour tout le monde ?",
+      "pronunciation": "lahn-TRAY eh byehn grah-TWEET poor too luh MOHND",
+      "formality": "standard",
+      "cultural_note": "The Musée Carnavalet has free permanent collection admission for all visitors — one of the best deals in Paris. Temporary exhibitions have a separate ticket. Located in two connected 16th-century mansions in Le Marais."
+    },
+    {
+      "id": "venue_musee_carnavalet_002",
+      "intent_en": "Ask where the French Revolution rooms are",
+      "text_local": "Où sont les salles sur la Révolution française ?",
+      "pronunciation": "oo sohn lay sal soor lah ray-voh-LOO-syohn frahn-SEZ",
+      "formality": "standard",
+      "cultural_note": "The French Revolution rooms contain one of the world's richest collections of Revolution-era objects, including personal effects of Louis XVI and Marie Antoinette, guillotine-related artifacts, and revolutionary pamphlets."
+    },
+    {
+      "id": "venue_musee_carnavalet_003",
+      "intent_en": "Ask about Marcel Proust's reconstructed bedroom",
+      "text_local": "Où se trouve la chambre reconstituée de Marcel Proust ?",
+      "pronunciation": "oo suh TROOV lah SHAHM-bruh ruh-kohn-stee-TWAY duh mar-SEL PROOST",
+      "formality": "standard",
+      "cultural_note": "The museum contains Marcel Proust's cork-lined bedroom, reconstructed exactly as it was at 102 Boulevard Haussmann where he wrote 'In Search of Lost Time'. Proust lined the walls with cork to block out noise."
+    },
+    {
+      "id": "venue_musee_carnavalet_004",
+      "intent_en": "Ask for a map of both mansions",
+      "text_local": "Pourriez-vous me donner un plan des deux hôtels particuliers ?",
+      "pronunciation": "poo-RYAY voo muh doh-NAY uhn plahn day duh oh-TEL par-tee-koo-LYAY",
+      "formality": "polite",
+      "cultural_note": "The museum occupies two interconnected Renaissance mansions: the Hôtel Carnavalet (where Madame de Sévigné lived from 1677-1696) and the Hôtel Le Peletier de Saint-Fargeau. A map is essential to navigate the 100+ rooms."
+    },
+    {
+      "id": "venue_musee_carnavalet_005",
+      "intent_en": "Ask where the prehistoric Paris exhibits are",
+      "text_local": "Où se trouvent les expositions sur la préhistoire de Paris ?",
+      "pronunciation": "oo suh TROOV layz ex-poh-zee-SYOHN soor lah pray-ee-STWAR duh pah-REE",
+      "formality": "standard",
+      "cultural_note": "The museum's chronological journey begins with prehistoric Paris — dugout canoes from the Seine dating to around 4600 BCE are among the oldest objects on display. The full sweep covers Paris from Lutetia to the 21st century."
+    },
+    {
+      "id": "venue_musee_carnavalet_006",
+      "intent_en": "Ask if the garden courtyard is open to the public",
+      "text_local": "La cour-jardin est-elle accessible au public ?",
+      "pronunciation": "lah koor-zhar-DEHN eh-TEL ak-seh-SEE-bluh oh poo-BLEEK",
+      "formality": "polite",
+      "cultural_note": "The museum's courtyard garden is one of Le Marais's hidden pleasures and is free to enter. The courtyard features an equestrian statue of Louis XIV and is a peaceful escape from the busy streets outside."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "History", "word_local": "Histoire", "pronunciation": "ee-STWAR" },
+    { "word_en": "Free admission", "word_local": "Entrée gratuite", "pronunciation": "ahn-TRAY grah-TWEET" },
+    { "word_en": "Revolution", "word_local": "Révolution", "pronunciation": "ray-voh-LOO-syohn" },
+    { "word_en": "Mansion", "word_local": "Hôtel particulier", "pronunciation": "oh-TEL par-tee-koo-LYAY" },
+    { "word_en": "Courtyard", "word_local": "Cour", "pronunciation": "koor" },
+    { "word_en": "Room (museum)", "word_local": "Salle", "pronunciation": "sal" },
+    { "word_en": "Artifact", "word_local": "Objet historique", "pronunciation": "ohb-ZHEH ee-stoh-REEK" },
+    { "word_en": "Temporary exhibition", "word_local": "Exposition temporaire", "pronunciation": "ex-poh-zee-SYOHN tahm-poh-REHR" }
+  ]
+}

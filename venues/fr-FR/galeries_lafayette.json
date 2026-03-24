@@ -1,0 +1,57 @@
+{
+  "id": "venue_galeries_lafayette",
+  "name_en": "📍 Galeries Lafayette",
+  "name_local": "📍 Galeries Lafayette",
+  "icon": "bag.fill",
+  "phrases": [
+    {
+      "id": "venue_lafayette_001",
+      "intent_en": "Ask about the tax refund (détaxe)",
+      "text_local": "Je suis touriste. Comment faire la détaxe ?",
+      "pronunciation": "zhuh swee too-REEST. koh-MAHN FEHR lah day-TAHKS",
+      "formality": "polite",
+      "cultural_note": "Non-EU residents can get 12% VAT refund on purchases over 100 euros from the same store. The détaxe counter is on the ground floor. Bring your passport."
+    },
+    {
+      "id": "venue_lafayette_002",
+      "intent_en": "Ask about the personal shopper service",
+      "text_local": "Avez-vous un service de personal shopper ?",
+      "pronunciation": "ah-VAY voo uhn sehr-VEES duh per-soh-NAL SHOH-pair",
+      "formality": "polite",
+      "cultural_note": "Galeries Lafayette offers free personal shopping appointments in multiple languages. Book in advance online or ask at the welcome desk on the ground floor."
+    },
+    {
+      "id": "venue_lafayette_003",
+      "intent_en": "Ask how to get to the rooftop terrace",
+      "text_local": "Comment accéder à la terrasse panoramique ?",
+      "pronunciation": "koh-MAHN ahk-say-DAY ah lah teh-RAHS pah-noh-rah-MEEK",
+      "formality": "standard",
+      "cultural_note": "The rooftop terrace is free and open to the public. Take the elevator to the top floor. It has a stunning view of the Opéra Garnier and the Paris skyline."
+    },
+    {
+      "id": "venue_lafayette_004",
+      "intent_en": "Ask where a specific brand is located",
+      "text_local": "À quel étage se trouve la marque Chanel ?",
+      "pronunciation": "ah kel ay-TAHZH suh TROOV lah MARK shah-NEL",
+      "formality": "polite",
+      "cultural_note": "The store has three buildings: Coupole (women's fashion), Homme (men's), and Maison (home/gourmet). Ask at the welcome desk for a store map."
+    },
+    {
+      "id": "venue_lafayette_005",
+      "intent_en": "Ask to see the famous glass dome",
+      "text_local": "Où peut-on voir la coupole en verre ?",
+      "pronunciation": "oo puh-TOHN vwahr lah koo-POL ahn VEHR",
+      "formality": "standard",
+      "cultural_note": "The stunning Art Nouveau stained-glass dome (1912) is in the main Coupole building. Look up from the ground floor or view it from the upper balconies for the best effect."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Tax refund", "word_local": "Détaxe", "pronunciation": "day-TAHKS" },
+    { "word_en": "Brand", "word_local": "Marque", "pronunciation": "mark" },
+    { "word_en": "Floor/Level", "word_local": "Étage", "pronunciation": "ay-TAHZH" },
+    { "word_en": "Glass dome", "word_local": "Coupole", "pronunciation": "koo-POL" },
+    { "word_en": "Rooftop terrace", "word_local": "Terrasse panoramique", "pronunciation": "teh-RAHS pah-noh-rah-MEEK" },
+    { "word_en": "Passport", "word_local": "Passeport", "pronunciation": "pahs-POR" },
+    { "word_en": "Receipt", "word_local": "Ticket de caisse", "pronunciation": "tee-KEH duh KESS" }
+  ]
+}

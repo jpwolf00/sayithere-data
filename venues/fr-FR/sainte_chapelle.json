@@ -1,0 +1,58 @@
+{
+  "id": "venue_sainte_chapelle",
+  "name_en": "📍 Sainte-Chapelle",
+  "name_local": "📍 Sainte-Chapelle",
+  "icon": "sun.max.trianglebadge.exclamationmark",
+  "phrases": [
+    {
+      "id": "venue_sainte_chapelle_001",
+      "intent_en": "Ask if there is a shorter queue for ticket holders",
+      "text_local": "Y a-t-il une entrée réservée aux personnes avec des billets déjà achetés ?",
+      "pronunciation": "ee ah-TEEL oon ahn-TRAY ray-zur-VAY oh per-SOHN ah-VEK day bee-YEH day-zhah ash-TAY",
+      "formality": "polite",
+      "cultural_note": "Sainte-Chapelle shares an entrance with the Conciergerie and the Palais de Justice complex. The queue can be very long due to security checks. Booking online in advance skips the ticket line but not the security queue."
+    },
+    {
+      "id": "venue_sainte_chapelle_002",
+      "intent_en": "Ask how to get to the upper chapel",
+      "text_local": "Comment accède-t-on à la chapelle haute ?",
+      "pronunciation": "koh-MAHN ak-SEHD-tohn ah lah shah-PEL oht",
+      "formality": "standard",
+      "cultural_note": "The upper chapel (chapelle haute) is the main event — its 15 floor-to-ceiling Gothic windows from the 13th century depict over 1,000 biblical scenes. The lower chapel (chapelle basse) was for palace servants. A narrow staircase connects the two levels."
+    },
+    {
+      "id": "venue_sainte_chapelle_003",
+      "intent_en": "Ask about the classical music concerts held here",
+      "text_local": "Y a-t-il des concerts de musique classique prévus ici prochainement ?",
+      "pronunciation": "ee ah-TEEL day kohn-SEHR duh moo-ZEEK klah-SEEK pray-VOO ee-SEE prosh-EN-mahn",
+      "formality": "polite",
+      "cultural_note": "Sainte-Chapelle hosts regular classical music concerts, and attending one is an unforgettable experience — Vivaldi's Four Seasons played beneath medieval stained glass is special. Tickets sell out weeks in advance; book online."
+    },
+    {
+      "id": "venue_sainte_chapelle_004",
+      "intent_en": "Ask when the best light comes through the windows",
+      "text_local": "À quelle heure la lumière traverse-t-elle le mieux les vitraux ?",
+      "pronunciation": "ah kel UR lah loom-YEHR trah-VEHR-suh-TEL luh MYUH lay vee-TROH",
+      "formality": "standard",
+      "cultural_note": "The stained glass is most spectacular in afternoon light when the sun is on the south and west sides. Visit between 2pm and 5pm on a sunny day for the most vivid colors. Overcast days still look stunning but less dramatic."
+    },
+    {
+      "id": "venue_sainte_chapelle_005",
+      "intent_en": "Ask about the history of the Crown of Thorns relic",
+      "text_local": "Pourriez-vous m'expliquer l'histoire de la Sainte Couronne qui était conservée ici ?",
+      "pronunciation": "poo-RYAY voo mex-plee-KAY lee-STWAR duh lah seht koo-RON kee ay-TEH kohn-sur-VAY ee-SEE",
+      "formality": "polite",
+      "cultural_note": "King Louis IX (Saint Louis) built Sainte-Chapelle in 1248 specifically to house the Crown of Thorns, purchased from the Byzantine Emperor for more than it cost to build the chapel itself. The relic is now kept in Notre-Dame."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Stained glass", "word_local": "Vitrail / Vitraux", "pronunciation": "vee-TRY / vee-TROH" },
+    { "word_en": "Upper chapel", "word_local": "Chapelle haute", "pronunciation": "shah-PEL oht" },
+    { "word_en": "Lower chapel", "word_local": "Chapelle basse", "pronunciation": "shah-PEL bahs" },
+    { "word_en": "Gothic", "word_local": "Gothique", "pronunciation": "goh-TEEK" },
+    { "word_en": "Concert", "word_local": "Concert", "pronunciation": "kohn-SEHR" },
+    { "word_en": "Relic", "word_local": "Relique", "pronunciation": "ruh-LEEK" },
+    { "word_en": "Medieval", "word_local": "Médiéval", "pronunciation": "may-dee-ay-VAL" },
+    { "word_en": "Light", "word_local": "Lumière", "pronunciation": "loom-YEHR" }
+  ]
+}

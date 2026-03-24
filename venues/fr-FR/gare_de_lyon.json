@@ -1,0 +1,66 @@
+{
+  "id": "venue_gare_de_lyon",
+  "name_en": "📍 Gare de Lyon",
+  "name_local": "📍 Gare de Lyon",
+  "icon": "train.side.front.car",
+  "phrases": [
+    {
+      "id": "venue_gare_de_lyon_001",
+      "intent_en": "Ask which platform my TGV departs from",
+      "text_local": "De quelle voie part mon TGV, s'il vous plaît ?",
+      "pronunciation": "duh kel VWAH par mohn tay-zhay-VAY, seel voo PLEH",
+      "formality": "polite",
+      "cultural_note": "TGV platforms at Gare de Lyon are often not announced until 10-15 minutes before departure — a common surprise for first-time travelers. Wait in the main hall and watch the departure boards (panneaux). For TGVs, you must validate (composter) your ticket before boarding."
+    },
+    {
+      "id": "venue_gare_de_lyon_002",
+      "intent_en": "Ask where to validate (stamp) the train ticket",
+      "text_local": "Où se trouvent les composteurs pour valider mon billet ?",
+      "pronunciation": "oo suh TROOV lay kohm-poh-TUR poor vah-lee-DAY mohn bee-YEH",
+      "formality": "polite",
+      "cultural_note": "In France, you must 'composter' (validate/stamp) your paper train ticket in the yellow machines near the platforms before boarding. Failure to do so can result in a fine from the inspector, even if you bought a valid ticket. E-tickets on your phone do not need composting."
+    },
+    {
+      "id": "venue_gare_de_lyon_003",
+      "intent_en": "Ask where the luggage storage lockers are",
+      "text_local": "Où se trouvent les consignes à bagages ?",
+      "pronunciation": "oo suh TROOV lay kohn-SEEN-yuh ah bah-GAHZH",
+      "formality": "polite",
+      "cultural_note": "Luggage storage (consigne) is available at Gare de Lyon — both automated lockers and a staffed left-luggage office. The service is useful if you want to explore Paris before catching an evening TGV. Location is in the main hall near the side entrances."
+    },
+    {
+      "id": "venue_gare_de_lyon_004",
+      "intent_en": "Ask about the first train to Marseille tomorrow morning",
+      "text_local": "À quelle heure part le premier train pour Marseille demain matin ?",
+      "pronunciation": "ah kel UR par luh pruh-MYAY trehn poor mar-SAY duh-MEHN mah-TEHN",
+      "formality": "polite",
+      "cultural_note": "Gare de Lyon serves destinations in southeast France (Lyon, Marseille, Nice, Cannes, Avignon), as well as Switzerland (Geneva, Lausanne), and Italy (Turin, Milan). TGV trains to Lyon take around 2 hours; to Marseille about 3 hours."
+    },
+    {
+      "id": "venue_gare_de_lyon_005",
+      "intent_en": "Ask a fellow passenger if this is the right platform",
+      "text_local": "Excusez-moi, c'est bien le quai pour le train de Lyon ?",
+      "pronunciation": "ex-koo-ZAY mwah, seh byehn luh KEH poor luh trehn duh lee-OHN",
+      "formality": "polite",
+      "cultural_note": "French passengers are generally helpful when asked for directions. At large stations, other travelers are often a faster source of information than finding an official. The destination on the front of the train and on platform signs will confirm the route."
+    },
+    {
+      "id": "venue_gare_de_lyon_006",
+      "intent_en": "Ask where the Le Train Bleu restaurant is",
+      "text_local": "Où se trouve le restaurant Le Train Bleu dans la gare ?",
+      "pronunciation": "oo suh TROOV luh reh-stoh-RAHN luh trehn BLUH dahn lah GAR",
+      "formality": "standard",
+      "cultural_note": "Le Train Bleu restaurant is on the first floor of Gare de Lyon, accessed by the grand staircase from the main hall. It's a classified historic monument with magnificent Belle Époque décor and has operated since 1901. Even a coffee at the bar is a worthwhile experience."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Platform / Track", "word_local": "Voie / Quai", "pronunciation": "VWAH / KEH" },
+    { "word_en": "TGV (high-speed train)", "word_local": "TGV", "pronunciation": "tay-zhay-VAY" },
+    { "word_en": "To validate ticket", "word_local": "Composter", "pronunciation": "kohm-poh-STAY" },
+    { "word_en": "Ticket stamping machine", "word_local": "Composteur", "pronunciation": "kohm-poh-TUR" },
+    { "word_en": "Luggage storage", "word_local": "Consigne", "pronunciation": "kohn-SEEN-yuh" },
+    { "word_en": "Departure board", "word_local": "Panneau des départs", "pronunciation": "pah-NOH day day-PAR" },
+    { "word_en": "Delay", "word_local": "Retard", "pronunciation": "ruh-TAR" },
+    { "word_en": "Reservation", "word_local": "Réservation", "pronunciation": "ray-zur-vah-SYOHN" }
+  ]
+}

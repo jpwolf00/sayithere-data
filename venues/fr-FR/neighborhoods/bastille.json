@@ -1,0 +1,66 @@
+{
+  "id": "hood_bastille",
+  "name_en": "📍 Bastille",
+  "name_local": "📍 Bastille",
+  "icon": "building.columns",
+  "phrases": [
+    {
+      "id": "hood_bastille_001",
+      "intent_en": "Ask where the Bastille prison actually stood",
+      "text_local": "Où se trouvait exactement la prison de la Bastille ?",
+      "pronunciation": "oo suh troo-VEH eg-ZAK-tuh-mahn lah pree-ZOHN duh lah bah-STEEL",
+      "formality": "standard",
+      "cultural_note": "The Bastille fortress-prison was stormed on July 14, 1789, marking the start of the French Revolution. The outline of its foundations is traced in the paving stones of Place de la Bastille — look for the line of cobblestones with a different color. The July Column (Colonne de Juillet) in the center of the square commemorates a different revolution: 1830."
+    },
+    {
+      "id": "hood_bastille_002",
+      "intent_en": "Ask about the Bastille Day celebrations here on July 14th",
+      "text_local": "Comment se passe la fête du 14 Juillet ici à la Bastille ?",
+      "pronunciation": "koh-MAHN suh PAHS lah FET doo kah-TOR-zuhn zhwee-YEH ee-SEE ah lah bah-STEEL",
+      "formality": "casual",
+      "cultural_note": "Place de la Bastille is one of the focal points of July 14th (Bastille Day) celebrations. The Bal des Pompiers (Firefighters' Ball) is held at the local fire station the night before, a beloved Paris tradition open to the public. Fireworks over the Seine can be watched from nearby bridges."
+    },
+    {
+      "id": "hood_bastille_003",
+      "intent_en": "Ask where the Opéra Bastille is",
+      "text_local": "Où se trouve l'Opéra Bastille ?",
+      "pronunciation": "oo suh TROOV loh-PAY-rah bah-STEEL",
+      "formality": "standard",
+      "cultural_note": "The Opéra Bastille (officially Opéra National de Paris – Bastille) opened in 1989 on the bicentennial of the Revolution. It faces Place de la Bastille and seats 2,700. It's the main opera venue in Paris for new productions, while the Palais Garnier hosts ballet and classic operas."
+    },
+    {
+      "id": "hood_bastille_004",
+      "intent_en": "Ask where the Port de l'Arsenal marina is",
+      "text_local": "Où se trouve le port de plaisance de l'Arsenal ?",
+      "pronunciation": "oo suh TROOV luh por duh pleh-ZAHNS duh lar-suh-NAL",
+      "formality": "standard",
+      "cultural_note": "The Port de l'Arsenal is a pleasure-boat marina just south of Place de la Bastille, connecting the Canal Saint-Martin underground section to the Seine. Over 200 private boats are moored here. The canal-side walk along Boulevard de la Bastille is scenic and leads to Bercy."
+    },
+    {
+      "id": "hood_bastille_005",
+      "intent_en": "Ask for a bar or restaurant recommendation on Rue de Lappe",
+      "text_local": "Pouvez-vous me recommander un endroit sympa rue de Lappe ?",
+      "pronunciation": "poo-VAY voo muh ruh-koh-mahn-DAY uhn ahn-DRWAH sim-PAH roo duh LAP",
+      "formality": "casual",
+      "cultural_note": "Rue de Lappe, running off Place de la Bastille, is one of the liveliest bar streets in Paris. It was famous for its accordion-music dance halls (bals musette) in the 1930s-50s. Today it's packed with bars, tapas restaurants, and clubs. The nearby Rue de la Roquette and Rue de Charonne also have excellent options."
+    },
+    {
+      "id": "hood_bastille_006",
+      "intent_en": "Ask which arrondissement Bastille falls in",
+      "text_local": "La place de la Bastille est dans quel arrondissement ?",
+      "pronunciation": "lah plahs duh lah bah-STEEL eh dahn kel ah-rohn-dee-suh-MAHN",
+      "formality": "casual",
+      "cultural_note": "Place de la Bastille sits at the junction of three arrondissements: the 4th, 11th, and 12th. The Opéra Bastille is technically in the 12th. This crossroads location makes Bastille a major transit hub — three métro lines (1, 5, 8) and RER all converge here."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Prison / Fortress", "word_local": "Forteresse", "pronunciation": "for-tuh-RES" },
+    { "word_en": "Revolution", "word_local": "Révolution", "pronunciation": "ray-voh-LOO-syohn" },
+    { "word_en": "Column", "word_local": "Colonne", "pronunciation": "koh-LON" },
+    { "word_en": "Marina", "word_local": "Port de plaisance", "pronunciation": "por duh pleh-ZAHNS" },
+    { "word_en": "National holiday", "word_local": "Fête nationale", "pronunciation": "FET nah-syoh-NAL" },
+    { "word_en": "Dance hall", "word_local": "Bal musette", "pronunciation": "bal moo-ZET" },
+    { "word_en": "District", "word_local": "Arrondissement", "pronunciation": "ah-rohn-dee-suh-MAHN" },
+    { "word_en": "Fireworks", "word_local": "Feu d'artifice", "pronunciation": "fuh dar-tee-FEES" }
+  ]
+}

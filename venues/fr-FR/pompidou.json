@@ -1,0 +1,56 @@
+{
+  "id": "venue_pompidou",
+  "name_en": "📍 Centre Pompidou",
+  "name_local": "📍 Centre Pompidou",
+  "icon": "paintpalette.fill",
+  "phrases": [
+    {
+      "id": "venue_pompidou_001",
+      "intent_en": "Ask about the rooftop view",
+      "text_local": "Est-ce qu'on peut accéder au toit sans billet ?",
+      "pronunciation": "ess kohn puh ahk-say-DAY oh TWAH sahn bee-YEH",
+      "formality": "standard",
+      "cultural_note": "The rooftop terrace and restaurant are accessible with a museum ticket. The view from the 6th floor is one of the best free panoramas in Paris — you can see the Eiffel Tower and Sacré-Cœur."
+    },
+    {
+      "id": "venue_pompidou_002",
+      "intent_en": "Ask what's in the permanent collection",
+      "text_local": "Qu'est-ce qu'il y a dans la collection permanente ?",
+      "pronunciation": "kess keel ee ah dahn lah koh-lek-SYOHN pair-mah-NAHNT",
+      "formality": "standard",
+      "cultural_note": "The Pompidou holds Europe's largest modern art collection: Picasso, Kandinsky, Matisse, Duchamp, and major contemporary works. Over 100,000 pieces total."
+    },
+    {
+      "id": "venue_pompidou_003",
+      "intent_en": "Ask why the building looks like this",
+      "text_local": "Pourquoi le bâtiment est construit comme ça ?",
+      "pronunciation": "poor-KWAH luh bah-tee-MAHN eh kohn-STRWEE kohm SAH",
+      "formality": "casual",
+      "cultural_note": "Designed by Renzo Piano and Richard Rogers in 1977, the inside-out design puts all pipes and structure on the exterior. Each color means something: blue for air, green for water, yellow for electricity."
+    },
+    {
+      "id": "venue_pompidou_004",
+      "intent_en": "Ask about the escalators on the outside",
+      "text_local": "On peut monter par les escalators extérieurs ?",
+      "pronunciation": "ohn puh mohn-TAY par layz es-kah-lah-TOHR ex-tay-RYUHR",
+      "formality": "casual",
+      "cultural_note": "The famous transparent escalator tubes on the façade give progressively better views of Paris as you ascend. They're part of the museum visit experience."
+    },
+    {
+      "id": "venue_pompidou_005",
+      "intent_en": "Ask about the library",
+      "text_local": "La bibliothèque est ouverte à tous ?",
+      "pronunciation": "lah bee-blee-oh-TEK eh oo-VEHRT ah TOOSS",
+      "formality": "standard",
+      "cultural_note": "The BPI (Bibliothèque publique d'information) is free and open to everyone — no card needed. It's separate from the museum and has its own entrance."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Modern art", "word_local": "Art moderne", "pronunciation": "ar moh-DEHRN" },
+    { "word_en": "Contemporary art", "word_local": "Art contemporain", "pronunciation": "ar kohn-tahm-poh-RAHN" },
+    { "word_en": "Escalator", "word_local": "Escalator", "pronunciation": "es-kah-lah-TOHR" },
+    { "word_en": "Rooftop", "word_local": "Toit-terrasse", "pronunciation": "twah teh-RAHS" },
+    { "word_en": "Library", "word_local": "Bibliothèque", "pronunciation": "bee-blee-oh-TEK" },
+    { "word_en": "Pipe/Tube", "word_local": "Tuyau", "pronunciation": "twee-YOH" }
+  ]
+}

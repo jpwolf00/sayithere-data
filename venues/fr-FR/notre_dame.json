@@ -1,0 +1,57 @@
+{
+  "id": "venue_notre_dame",
+  "name_en": "📍 Notre-Dame Cathedral",
+  "name_local": "📍 Cathédrale Notre-Dame",
+  "icon": "building.fill",
+  "phrases": [
+    {
+      "id": "venue_notre_dame_001",
+      "intent_en": "Ask about the reconstruction status",
+      "text_local": "Est-ce que la cathédrale est ouverte au public ?",
+      "pronunciation": "ess kuh lah kah-tay-DRAHL eh oo-VEHRT oh poo-BLEEK",
+      "formality": "polite",
+      "cultural_note": "Notre-Dame reopened in December 2024 after the devastating 2019 fire. The restored interior features a stunning new look. Entry is free but timed tickets may be required."
+    },
+    {
+      "id": "venue_notre_dame_002",
+      "intent_en": "Ask about the history of the cathedral",
+      "text_local": "Quand est-ce que la cathédrale a été construite ?",
+      "pronunciation": "kahn ess kuh lah kah-tay-DRAHL ah ay-TAY kohn-STRWEET",
+      "formality": "standard",
+      "cultural_note": "Construction began in 1163 and took nearly 200 years to complete. It's a masterpiece of French Gothic architecture located on the Île de la Cité."
+    },
+    {
+      "id": "venue_notre_dame_003",
+      "intent_en": "Ask if you can visit the towers",
+      "text_local": "Est-ce qu'on peut monter dans les tours ?",
+      "pronunciation": "ess kohn puh mohn-TAY dahn lay TOOR",
+      "formality": "standard",
+      "cultural_note": "The tower climb offers close-up views of the gargoyles and a panorama of Paris. Check current availability as access may be limited during ongoing restoration work."
+    },
+    {
+      "id": "venue_notre_dame_004",
+      "intent_en": "Ask what was damaged in the fire",
+      "text_local": "Qu'est-ce qui a été endommagé par l'incendie ?",
+      "pronunciation": "kess kee ah ay-TAY ahn-doh-mah-ZHAY par lahn-SAHN-dee",
+      "formality": "standard",
+      "cultural_note": "The 2019 fire destroyed the spire and most of the roof. The rose windows and main structure survived. The restoration was a remarkable feat of craftsmanship."
+    },
+    {
+      "id": "venue_notre_dame_005",
+      "intent_en": "Ask about mass times",
+      "text_local": "À quelle heure sont les messes ?",
+      "pronunciation": "ah kel UHR sohn lay MESS",
+      "formality": "polite",
+      "cultural_note": "Notre-Dame is a working cathedral. Mass services are open to all. Respectful silence and appropriate dress are expected inside."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Cathedral", "word_local": "Cathédrale", "pronunciation": "kah-tay-DRAHL" },
+    { "word_en": "Fire", "word_local": "Incendie", "pronunciation": "ahn-SAHN-dee" },
+    { "word_en": "Restoration", "word_local": "Restauration", "pronunciation": "res-toh-rah-SYOHN" },
+    { "word_en": "Gargoyle", "word_local": "Gargouille", "pronunciation": "gar-GOO-yuh" },
+    { "word_en": "Rose window", "word_local": "Rosace", "pronunciation": "roh-ZAHS" },
+    { "word_en": "Tower", "word_local": "Tour", "pronunciation": "toor" },
+    { "word_en": "Spire", "word_local": "Flèche", "pronunciation": "flesh" }
+  ]
+}

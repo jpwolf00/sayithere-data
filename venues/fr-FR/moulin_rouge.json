@@ -1,0 +1,48 @@
+{
+  "id": "venue_moulin_rouge",
+  "name_en": "📍 Moulin Rouge",
+  "name_local": "📍 Moulin Rouge",
+  "icon": "star.fill",
+  "phrases": [
+    {
+      "id": "venue_moulin_rouge_001",
+      "intent_en": "Ask about show tickets for tonight",
+      "text_local": "Est-ce qu'il reste des places pour le spectacle de ce soir ?",
+      "pronunciation": "ess keel REST day PLAHS poor luh spek-TAHKL duh suh SWAHR",
+      "formality": "polite",
+      "cultural_note": "The Moulin Rouge often sells out weeks ahead. Book online in advance. The 9 PM show is most popular; the 11 PM show is sometimes easier to get."
+    },
+    {
+      "id": "venue_moulin_rouge_002",
+      "intent_en": "Ask about the dinner-show package",
+      "text_local": "Quelle est la différence entre le dîner-spectacle et le spectacle seul ?",
+      "pronunciation": "kel eh lah dee-fay-RAHNSS ahntr luh dee-NAY spek-TAHKL ay luh spek-TAHKL SUHL",
+      "formality": "polite",
+      "cultural_note": "The dinner-show includes a French meal before the 9 PM revue. Show-only tickets (champagne included) are less expensive. Both see the same spectacular 'Féerie' show."
+    },
+    {
+      "id": "venue_moulin_rouge_003",
+      "intent_en": "Ask about the dress code",
+      "text_local": "Comment faut-il s'habiller pour le Moulin Rouge ?",
+      "pronunciation": "koh-MAHN foh-TEEL sah-bee-YAY poor luh moo-LAHN ROOZH",
+      "formality": "polite",
+      "cultural_note": "Smart elegant dress is required. No sportswear, shorts, or sneakers. Men should wear a jacket. Think 'Parisian night out' — it's part of the experience."
+    },
+    {
+      "id": "venue_moulin_rouge_004",
+      "intent_en": "Ask what time the show starts",
+      "text_local": "Le spectacle commence à quelle heure ?",
+      "pronunciation": "luh spek-TAHKL koh-MAHNSS ah kel UHR",
+      "formality": "standard",
+      "cultural_note": "There are typically two shows: 9 PM and 11 PM. Arrive 30 minutes early for seating. The show lasts about 2 hours with an intermission."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Show/Revue", "word_local": "Spectacle / Revue", "pronunciation": "spek-TAHKL / ruh-VOO" },
+    { "word_en": "Dinner-show", "word_local": "Dîner-spectacle", "pronunciation": "dee-NAY spek-TAHKL" },
+    { "word_en": "Windmill", "word_local": "Moulin", "pronunciation": "moo-LAHN" },
+    { "word_en": "Can-can", "word_local": "French cancan", "pronunciation": "frehnch kahn-KAHN" },
+    { "word_en": "Champagne", "word_local": "Champagne", "pronunciation": "shahm-PAHN-yuh" },
+    { "word_en": "Seat", "word_local": "Place", "pronunciation": "plahs" }
+  ]
+}

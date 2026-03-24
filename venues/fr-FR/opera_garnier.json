@@ -1,0 +1,56 @@
+{
+  "id": "venue_opera_garnier",
+  "name_en": "📍 Opéra Garnier",
+  "name_local": "📍 Opéra Garnier",
+  "icon": "theatermasks.fill",
+  "phrases": [
+    {
+      "id": "venue_opera_001",
+      "intent_en": "Ask about self-guided tours",
+      "text_local": "Est-ce qu'on peut visiter l'Opéra sans spectacle ?",
+      "pronunciation": "ess kohn puh vee-zee-TAY loh-pay-RAH sahn spek-TAHKL",
+      "formality": "polite",
+      "cultural_note": "Self-guided visits are available daily (except during matinee performances). You'll see the grand staircase, auditorium, and the stunning Grand Foyer."
+    },
+    {
+      "id": "venue_opera_002",
+      "intent_en": "Ask about the Chagall ceiling",
+      "text_local": "On peut voir le plafond de Chagall ?",
+      "pronunciation": "ohn puh VWAHR luh plah-FOHN duh shah-GAHL",
+      "formality": "standard",
+      "cultural_note": "Marc Chagall painted the auditorium ceiling in 1964, depicting scenes from famous operas. It was controversial because it replaced the original 1872 ceiling."
+    },
+    {
+      "id": "venue_opera_003",
+      "intent_en": "Ask about the Phantom of the Opera connection",
+      "text_local": "C'est ici le vrai Opéra du Fantôme ?",
+      "pronunciation": "seh ee-SEE luh vreh oh-pay-RAH doo fahn-TOHM",
+      "formality": "casual",
+      "cultural_note": "Gaston Leroux's 1910 novel was set here. The underground lake is real — it's beneath the building and is used by firefighters for training. Box 5 exists too."
+    },
+    {
+      "id": "venue_opera_004",
+      "intent_en": "Ask about tonight's performance",
+      "text_local": "Qu'est-ce qui se joue ce soir ?",
+      "pronunciation": "kess kee suh ZHOO suh SWAHR",
+      "formality": "standard",
+      "cultural_note": "The Opéra Garnier hosts ballet and smaller operas. Larger operas are at Opéra Bastille. Last-minute tickets are sometimes available at the box office."
+    },
+    {
+      "id": "venue_opera_005",
+      "intent_en": "Ask about the dress code for performances",
+      "text_local": "Il y a un code vestimentaire pour le spectacle ?",
+      "pronunciation": "eel ee ah uhn KOHD ves-tee-mahn-TEHR poor luh spek-TAHKL",
+      "formality": "polite",
+      "cultural_note": "There's no strict dress code, but Parisians dress elegantly for the opera. Smart casual is the minimum. Jeans and sneakers are technically allowed but you'll stand out."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Opera", "word_local": "Opéra", "pronunciation": "oh-pay-RAH" },
+    { "word_en": "Ballet", "word_local": "Ballet", "pronunciation": "bah-LEH" },
+    { "word_en": "Performance", "word_local": "Spectacle", "pronunciation": "spek-TAHKL" },
+    { "word_en": "Ceiling", "word_local": "Plafond", "pronunciation": "plah-FOHN" },
+    { "word_en": "Grand staircase", "word_local": "Grand escalier", "pronunciation": "grahn es-kah-LYAY" },
+    { "word_en": "Box office", "word_local": "Billetterie", "pronunciation": "bee-yet-REE" }
+  ]
+}

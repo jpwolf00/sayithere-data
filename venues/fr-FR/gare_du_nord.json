@@ -1,0 +1,57 @@
+{
+  "id": "venue_gare_du_nord",
+  "name_en": "📍 Gare du Nord",
+  "name_local": "📍 Gare du Nord",
+  "icon": "tram.fill",
+  "phrases": [
+    {
+      "id": "venue_gare_nord_001",
+      "intent_en": "Ask where the Eurostar terminal is",
+      "text_local": "Où est le terminal Eurostar, s'il vous plaît ?",
+      "pronunciation": "oo eh luh tehr-mee-NAL uh-roh-STAR, seel voo PLEH",
+      "formality": "polite",
+      "cultural_note": "The Eurostar terminal is on the upper level. Arrive at least 90 minutes before departure for passport control and security. It's like an airport within the station."
+    },
+    {
+      "id": "venue_gare_nord_002",
+      "intent_en": "Ask where to find the RER B to CDG airport",
+      "text_local": "Où prendre le RER B pour l'aéroport Charles de Gaulle ?",
+      "pronunciation": "oo PRAHNDR luh air-uh-AIR BEH poor lah-ay-roh-POR sharl duh GOHL",
+      "formality": "standard",
+      "cultural_note": "Follow signs to 'RER B — Direction CDG Airport'. The trip takes about 35 minutes. Buy tickets at the machines — a regular metro ticket won't work for the airport."
+    },
+    {
+      "id": "venue_gare_nord_003",
+      "intent_en": "Ask where to store luggage",
+      "text_local": "Y a-t-il une consigne à bagages ?",
+      "pronunciation": "ee ah-TEEL oon kohn-SEEN-yuh ah bah-GAHZH",
+      "formality": "polite",
+      "cultural_note": "There's a luggage storage service (consigne) in the station. You can also use services like Nannybag at nearby shops for cheaper storage."
+    },
+    {
+      "id": "venue_gare_nord_004",
+      "intent_en": "Ask which platform your train leaves from",
+      "text_local": "Mon train part de quelle voie ?",
+      "pronunciation": "mohn TRAHN par duh kel VWAH",
+      "formality": "standard",
+      "cultural_note": "Platform numbers are announced on departure boards about 20 minutes before departure. The French say 'voie' (track/platform), not 'quai' for departure platforms."
+    },
+    {
+      "id": "venue_gare_nord_005",
+      "intent_en": "Warn about pickpockets in the area",
+      "text_local": "Faites attention aux pickpockets dans la gare.",
+      "pronunciation": "FET ah-tahn-SYOHN oh peek-poh-KET dahn lah GAHR",
+      "formality": "standard",
+      "cultural_note": "Gare du Nord is a known hotspot for pickpockets. Keep bags zipped and in front of you. Be wary of people offering to 'help' with ticket machines or carrying bags."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Train station", "word_local": "Gare", "pronunciation": "gahr" },
+    { "word_en": "Platform/Track", "word_local": "Voie", "pronunciation": "vwah" },
+    { "word_en": "Luggage storage", "word_local": "Consigne", "pronunciation": "kohn-SEEN-yuh" },
+    { "word_en": "Departure", "word_local": "Départ", "pronunciation": "day-PAR" },
+    { "word_en": "Arrival", "word_local": "Arrivée", "pronunciation": "ah-ree-VAY" },
+    { "word_en": "Ticket machine", "word_local": "Distributeur", "pronunciation": "dees-tree-boo-TUHR" },
+    { "word_en": "Pickpocket", "word_local": "Pickpocket", "pronunciation": "peek-poh-KET" }
+  ]
+}

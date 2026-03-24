@@ -1,0 +1,58 @@
+{
+  "id": "venue_merci_paris",
+  "name_en": "📍 Merci Concept Store",
+  "name_local": "📍 Merci",
+  "icon": "heart.fill",
+  "phrases": [
+    {
+      "id": "venue_merci_paris_001",
+      "intent_en": "Ask what cause the store supports",
+      "text_local": "À quelle cause caritative le magasin reverse ses bénéfices ?",
+      "pronunciation": "ah kel kohz kah-ree-tah-TEEV luh mah-gah-ZEHN ruh-VEHR seh bay-nay-FEES",
+      "formality": "polite",
+      "cultural_note": "Merci was founded in 2009 by Marie-France and Bernard Cohen, who also founded Bonpoint children's clothing. Profits go to children's education projects in Madagascar. The concept store model — where shopping is charitable — was innovative at the time and has inspired many imitators."
+    },
+    {
+      "id": "venue_merci_paris_002",
+      "intent_en": "Ask where the café inside the store is",
+      "text_local": "Où se trouve le café à l'intérieur du magasin ?",
+      "pronunciation": "oo suh TROOV luh kah-FAY ah lan-tay-RYUR doo mah-gah-ZEHN",
+      "formality": "standard",
+      "cultural_note": "Merci has three distinct café spaces: a ground-floor café with a bookshop feel, a basement bistro serving simple French lunches, and a salad bar. The basement Used Book Café is especially popular and filled with second-hand books for sale. All three are open to non-shoppers."
+    },
+    {
+      "id": "venue_merci_paris_003",
+      "intent_en": "Ask if a specific item can be gift-wrapped",
+      "text_local": "Est-ce que vous pouvez faire un emballage cadeau pour cet article ?",
+      "pronunciation": "ess kuh voo poo-VAY fehr uhn ahm-bah-LAHZH kah-DOH poor seh tar-TEEKL",
+      "formality": "polite",
+      "cultural_note": "Merci's gift wrapping uses its signature brown paper and red ribbon — minimal and chic. The store stocks an eclectic mix of fashion, design objects, stationery, home goods, and books. Each floor has a different curator-like feel, and the selection rotates frequently."
+    },
+    {
+      "id": "venue_merci_paris_004",
+      "intent_en": "Ask a staff member for a gift recommendation under a budget",
+      "text_local": "Je cherche un cadeau original pour environ cinquante euros — qu'est-ce que vous me conseilleriez ?",
+      "pronunciation": "zhuh shehrsh uhn kah-DOH oh-ree-zhee-NAL poor ahn-vee-ROHN sahn-KAHNT uh-ROH — kess kuh voo muh kohn-seh-yuh-RYAY",
+      "formality": "polite",
+      "cultural_note": "Staff at Merci are knowledgeable and enjoy making tailored recommendations — the store's ethos is personal and considered rather than mass-market. The stationery, candles, and design objects sections are good for gifts in the €30-80 range."
+    },
+    {
+      "id": "venue_merci_paris_005",
+      "intent_en": "Ask where the vintage car at the entrance comes from",
+      "text_local": "D'où vient la voiture ancienne à l'entrée du magasin ?",
+      "pronunciation": "doo VYEHN lah vwah-TOOR ahn-SYEHN ah lahn-TRAY doo mah-gah-ZEHN",
+      "formality": "casual",
+      "cultural_note": "The rotating vintage car displayed in the courtyard entrance of Merci is a signature design element that has changed periodically since the store's opening. It's become an informal Instagram landmark. The address is 111 Boulevard Beaumarchais in Le Marais."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Concept store", "word_local": "Concept store", "pronunciation": "kohn-SEPT stor" },
+    { "word_en": "Charity", "word_local": "Association caritative", "pronunciation": "ah-soh-syah-SYOHN kah-ree-tah-TEEV" },
+    { "word_en": "Gift", "word_local": "Cadeau", "pronunciation": "kah-DOH" },
+    { "word_en": "Design object", "word_local": "Objet de design", "pronunciation": "ohb-ZHEH duh deh-ZINE" },
+    { "word_en": "Second-hand book", "word_local": "Livre d'occasion", "pronunciation": "LEEVR doh-kah-ZYOHN" },
+    { "word_en": "Home goods", "word_local": "Articles de maison", "pronunciation": "ar-TEEKL duh meh-ZOHN" },
+    { "word_en": "Profit", "word_local": "Bénéfice", "pronunciation": "bay-nay-FEES" },
+    { "word_en": "Unique / Original", "word_local": "Original", "pronunciation": "oh-ree-zhee-NAL" }
+  ]
+}

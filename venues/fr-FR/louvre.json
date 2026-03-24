@@ -1,0 +1,66 @@
+{
+  "id": "venue_louvre",
+  "name_en": "📍 Musée du Louvre",
+  "name_local": "📍 Musée du Louvre",
+  "icon": "building.columns.fill",
+  "phrases": [
+    {
+      "id": "venue_louvre_001",
+      "intent_en": "Ask where the Mona Lisa is",
+      "text_local": "Excusez-moi, où se trouve La Joconde ?",
+      "pronunciation": "ex-koo-ZAY mwah, oo suh TROOV lah zhoh-KOHND",
+      "formality": "polite",
+      "cultural_note": "The French call the Mona Lisa 'La Joconde'. Follow the signs for 'La Joconde' in the Denon wing. Expect large crowds — visit early morning or Wednesday/Friday evenings."
+    },
+    {
+      "id": "venue_louvre_002",
+      "intent_en": "Ask how to get to the Venus de Milo",
+      "text_local": "Pour aller à la Vénus de Milo, s'il vous plaît ?",
+      "pronunciation": "poor ah-LAY ah lah vay-NOOS duh MEE-loh, seel voo PLEH",
+      "formality": "polite",
+      "cultural_note": "The Venus de Milo is on the ground floor of the Sully wing. It's less crowded than the Mona Lisa and well worth the visit."
+    },
+    {
+      "id": "venue_louvre_003",
+      "intent_en": "Ask which wing to visit for Egyptian antiquities",
+      "text_local": "Les antiquités égyptiennes sont dans quelle aile ?",
+      "pronunciation": "layz ahn-tee-kee-TAY ay-zheep-SYEHN sohn dahn kel EL",
+      "formality": "standard",
+      "cultural_note": "The Egyptian collection is in the Sully wing. Don't miss the Great Sphinx and the Seated Scribe — the Louvre has one of the world's best Egyptian collections."
+    },
+    {
+      "id": "venue_louvre_004",
+      "intent_en": "Ask about the audio guide",
+      "text_local": "Est-ce qu'il y a un audioguide en anglais ?",
+      "pronunciation": "ess keel ee ah uhn oh-dee-oh-GHEED ahn ahn-GLEH",
+      "formality": "polite",
+      "cultural_note": "The Louvre offers a Nintendo 3DS audio guide in several languages. You can also download the free Louvre app before your visit."
+    },
+    {
+      "id": "venue_louvre_005",
+      "intent_en": "Ask about the Winged Victory of Samothrace",
+      "text_local": "Où est la Victoire de Samothrace ?",
+      "pronunciation": "oo eh lah veek-TWAHR duh sah-moh-TRAHS",
+      "formality": "standard",
+      "cultural_note": "The Winged Victory sits atop the grand Daru staircase in the Denon wing. It's one of the most dramatic presentations of any artwork in the world."
+    },
+    {
+      "id": "venue_louvre_006",
+      "intent_en": "Ask if there's a faster entrance",
+      "text_local": "Y a-t-il une entrée avec moins d'attente ?",
+      "pronunciation": "ee ah-TEEL oon ahn-TRAY ah-VEK mwehn dah-TAHNT",
+      "formality": "polite",
+      "cultural_note": "Skip the pyramid line by entering through the Carrousel du Louvre (underground mall), the Passage Richelieu, or the Porte des Lions. Museum Pass holders have a separate fast lane."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Wing (of museum)", "word_local": "Aile", "pronunciation": "el" },
+    { "word_en": "Painting", "word_local": "Tableau", "pronunciation": "tah-BLOH" },
+    { "word_en": "Sculpture", "word_local": "Sculpture", "pronunciation": "skoolp-TOOR" },
+    { "word_en": "Floor/Level", "word_local": "Étage", "pronunciation": "ay-TAHZH" },
+    { "word_en": "Audio guide", "word_local": "Audioguide", "pronunciation": "oh-dee-oh-GHEED" },
+    { "word_en": "Masterpiece", "word_local": "Chef-d'œuvre", "pronunciation": "sheh-DUHVR" },
+    { "word_en": "Entrance", "word_local": "Entrée", "pronunciation": "ahn-TRAY" },
+    { "word_en": "Map/Floor plan", "word_local": "Plan", "pronunciation": "plahn" }
+  ]
+}

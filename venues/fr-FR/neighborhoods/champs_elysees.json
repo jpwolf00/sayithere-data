@@ -1,0 +1,56 @@
+{
+  "id": "hood_champs_elysees",
+  "name_en": "📍 Champs-Élysées",
+  "name_local": "📍 Champs-Élysées",
+  "icon": "cart.fill",
+  "phrases": [
+    {
+      "id": "hood_champs_001",
+      "intent_en": "Ask about luxury shopping on the avenue",
+      "text_local": "Où sont les boutiques de luxe sur les Champs ?",
+      "pronunciation": "oo sohn lay boo-TEEK duh LOOKS soor lay SHAHNZ",
+      "formality": "standard",
+      "cultural_note": "Louis Vuitton's flagship is at number 101. Cartier, Guerlain, and Tiffany's are also here. Most luxury shops are between Rond-Point and the Arc de Triomphe."
+    },
+    {
+      "id": "hood_champs_002",
+      "intent_en": "Warn about pickpockets on the avenue",
+      "text_local": "Faites attention à vos affaires ici, il y a des pickpockets.",
+      "pronunciation": "FET ah-tahn-SYOHN ah vohz ah-FEHR ee-SEE, eel ee ah day peek-poh-KET",
+      "formality": "standard",
+      "cultural_note": "The Champs-Élysées is the top pickpocket zone in Paris. Keep bags closed and in front. Be wary of clipboard petitions and people offering 'found' rings — all are scams."
+    },
+    {
+      "id": "hood_champs_003",
+      "intent_en": "Ask for a reasonably priced café",
+      "text_local": "Il y a un café avec des prix raisonnables dans le coin ?",
+      "pronunciation": "eel ee ah uhn kah-FAY ah-VEK day PREE reh-zoh-NAHBL dahn luh KWAHN",
+      "formality": "casual",
+      "cultural_note": "Cafés on the avenue itself are notoriously overpriced (8-10 euros for an espresso). Walk one block to a side street for normal Parisian prices. Or try the Publicis Drugstore for a middle ground."
+    },
+    {
+      "id": "hood_champs_004",
+      "intent_en": "Ask about the Grand Palais nearby",
+      "text_local": "Le Grand Palais est loin d'ici ?",
+      "pronunciation": "luh grahn pah-LEH eh lwahn dee-SEE",
+      "formality": "standard",
+      "cultural_note": "The Grand Palais is just off the Champs at Avenue Winston Churchill. Check for major exhibitions — it hosts world-class art shows, fashion events, and the annual ice rink."
+    },
+    {
+      "id": "hood_champs_005",
+      "intent_en": "Ask about the Christmas market season",
+      "text_local": "Le marché de Noël est quand sur les Champs ?",
+      "pronunciation": "luh mar-SHAY duh noh-EL eh kahn soor lay SHAHNZ",
+      "formality": "standard",
+      "cultural_note": "The Christmas illuminations on the Champs-Élysées run from late November to early January. The lights are switched on in a ceremony — the avenue becomes magical at night."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Avenue", "word_local": "Avenue", "pronunciation": "ah-vuh-NOO" },
+    { "word_en": "Luxury", "word_local": "Luxe", "pronunciation": "looks" },
+    { "word_en": "Pickpocket", "word_local": "Pickpocket", "pronunciation": "peek-poh-KET" },
+    { "word_en": "Overpriced", "word_local": "Hors de prix", "pronunciation": "or duh PREE" },
+    { "word_en": "Christmas lights", "word_local": "Illuminations de Noël", "pronunciation": "ee-loo-mee-nah-SYOHN duh noh-EL" },
+    { "word_en": "Flagship store", "word_local": "Boutique phare", "pronunciation": "boo-TEEK FAR" }
+  ]
+}

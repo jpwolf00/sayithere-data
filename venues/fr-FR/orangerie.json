@@ -1,0 +1,57 @@
+{
+  "id": "venue_orangerie",
+  "name_en": "📍 Musée de l'Orangerie",
+  "name_local": "📍 Musée de l'Orangerie",
+  "icon": "waterlily",
+  "phrases": [
+    {
+      "id": "venue_orangerie_001",
+      "intent_en": "Ask where the Water Lilies rooms are",
+      "text_local": "Où sont les salles des Nymphéas, s'il vous plaît ?",
+      "pronunciation": "oo sohn lay sal day nim-FAY-ah, seel voo PLEH",
+      "formality": "polite",
+      "cultural_note": "Monet's Nymphéas (Water Lilies) occupy two large oval rooms on the ground floor, designed by the artist himself. The paintings are 2 meters high and 91 meters long in total. Monet donated them to the French state in 1922 as 'a gift of peace'."
+    },
+    {
+      "id": "venue_orangerie_002",
+      "intent_en": "Ask if timed entry to the oval rooms is required",
+      "text_local": "Faut-il réserver une entrée à heure fixe pour les salles ovales ?",
+      "pronunciation": "foh-TEEL ray-zur-VAY oon ahn-TRAY ah ur FEEX poor lay sal oh-VAL",
+      "formality": "polite",
+      "cultural_note": "Entry to the Nymphéas oval rooms is managed by timed slots to avoid overcrowding. The rooms are best experienced with few people — try to visit early on a weekday morning."
+    },
+    {
+      "id": "venue_orangerie_003",
+      "intent_en": "Ask where the Picasso and Matisse collection is",
+      "text_local": "Où se trouve la collection Picasso et Matisse ?",
+      "pronunciation": "oo suh TROOV lah koh-lek-SYOHN pee-KAH-soh ay mah-TEES",
+      "formality": "standard",
+      "cultural_note": "The lower level (niveau inférieur) houses the Walter-Guillaume collection featuring works by Picasso, Matisse, Renoir, Cézanne, and Modigliani. This is a separate and often overlooked gem within the museum."
+    },
+    {
+      "id": "venue_orangerie_004",
+      "intent_en": "Ask for a museum map",
+      "text_local": "Pourriez-vous me donner un plan du musée ?",
+      "pronunciation": "poo-RYAY voo muh doh-NAY uhn plahn doo moo-ZAY",
+      "formality": "polite",
+      "cultural_note": "The museum is compact — two floors with only a handful of rooms — so a map helps orient you quickly. The ground floor has the Nymphéas; the lower level has the rest of the permanent collection."
+    },
+    {
+      "id": "venue_orangerie_005",
+      "intent_en": "Ask how long the visit usually takes",
+      "text_local": "Combien de temps dure généralement la visite ?",
+      "pronunciation": "kohm-BYEHN duh tahn DOOR zhay-nay-ral-MAHN lah vee-ZEET",
+      "formality": "standard",
+      "cultural_note": "Most visitors spend 1-2 hours at the Orangerie. The Nymphéas rooms invite you to sit and contemplate — benches are placed in each oval room for exactly this purpose."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Water Lilies", "word_local": "Nymphéas", "pronunciation": "nim-FAY-ah" },
+    { "word_en": "Oval room", "word_local": "Salle ovale", "pronunciation": "sal oh-VAL" },
+    { "word_en": "Painting", "word_local": "Tableau", "pronunciation": "tah-BLOH" },
+    { "word_en": "Ground floor", "word_local": "Rez-de-chaussée", "pronunciation": "reh-duh-shoh-SAY" },
+    { "word_en": "Lower level", "word_local": "Niveau inférieur", "pronunciation": "nee-VOH an-fay-RYUR" },
+    { "word_en": "Timed entry", "word_local": "Entrée à heure fixe", "pronunciation": "ahn-TRAY ah ur FEEX" },
+    { "word_en": "Impressionism", "word_local": "Impressionnisme", "pronunciation": "am-preh-syoh-NEEZM" }
+  ]
+}

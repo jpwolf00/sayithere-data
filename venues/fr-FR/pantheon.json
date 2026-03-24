@@ -1,0 +1,56 @@
+{
+  "id": "venue_pantheon",
+  "name_en": "📍 Panthéon",
+  "name_local": "📍 Panthéon",
+  "icon": "building.columns.fill",
+  "phrases": [
+    {
+      "id": "venue_pantheon_001",
+      "intent_en": "Ask who is buried here",
+      "text_local": "Quelles personnalités sont enterrées ici ?",
+      "pronunciation": "kel pair-soh-nah-lee-TAY sohn ahn-teh-RAY ee-SEE",
+      "formality": "polite",
+      "cultural_note": "The crypt houses Victor Hugo, Marie Curie, Alexandre Dumas, Voltaire, Rousseau, Émile Zola, and other 'great men and women' of France."
+    },
+    {
+      "id": "venue_pantheon_002",
+      "intent_en": "Ask about Foucault's Pendulum",
+      "text_local": "Où est le pendule de Foucault ?",
+      "pronunciation": "oo eh luh pahn-DOOL duh foo-KOH",
+      "formality": "standard",
+      "cultural_note": "Foucault demonstrated Earth's rotation here in 1851 with his famous pendulum. A replica still swings from the dome — watch the sand trail shift over time."
+    },
+    {
+      "id": "venue_pantheon_003",
+      "intent_en": "Ask about access to the dome",
+      "text_local": "Peut-on visiter la colonnade en haut ?",
+      "pronunciation": "puh-TOHN vee-zee-TAY lah koh-loh-NAD ahn OH",
+      "formality": "polite",
+      "cultural_note": "The colonnade gallery at the top is open seasonally (April to October). It offers a stunning view of the Latin Quarter and all of Paris."
+    },
+    {
+      "id": "venue_pantheon_004",
+      "intent_en": "Ask about the crypt",
+      "text_local": "Comment descendre dans la crypte ?",
+      "pronunciation": "koh-MAHN deh-SAHNDR dahn lah KREEPT",
+      "formality": "standard",
+      "cultural_note": "The crypt is included in the admission ticket. The tombs are simple and dignified. Marie Curie's tomb is lined with lead due to her radioactive research."
+    },
+    {
+      "id": "venue_pantheon_005",
+      "intent_en": "Ask what this building was originally",
+      "text_local": "C'était quoi à l'origine, ce bâtiment ?",
+      "pronunciation": "seh-TEH kwah ah loh-ree-ZHEEN, suh bah-tee-MAHN",
+      "formality": "casual",
+      "cultural_note": "Originally built as a church dedicated to Saint Geneviève, it was converted during the Revolution to honor France's greatest citizens."
+    }
+  ],
+  "vocabulary": [
+    { "word_en": "Crypt", "word_local": "Crypte", "pronunciation": "kreept" },
+    { "word_en": "Pendulum", "word_local": "Pendule", "pronunciation": "pahn-DOOL" },
+    { "word_en": "Buried", "word_local": "Enterré(e)", "pronunciation": "ahn-teh-RAY" },
+    { "word_en": "Dome", "word_local": "Dôme", "pronunciation": "dohm" },
+    { "word_en": "Great men/women", "word_local": "Grands hommes", "pronunciation": "grahnz OHM" },
+    { "word_en": "Colonnade", "word_local": "Colonnade", "pronunciation": "koh-loh-NAD" }
+  ]
+}
