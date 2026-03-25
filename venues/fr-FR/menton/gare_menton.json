@@ -1,0 +1,55 @@
+{
+  "id": "menton_gare",
+  "name_en": "Menton Train Station",
+  "name_local": "Gare de Menton",
+  "icon": "tram",
+  "category": "transit",
+  "phrases": [
+    {
+      "id": "gare_nice",
+      "french": "Un billet pour Nice, s'il vous plaît.",
+      "english": "A ticket to Nice, please.",
+      "phonetic": "un bee-YEH poor NEES, seel voo PLAY",
+      "context": "Menton is on the main Marseille–Ventimiglia line. Nice is about 35 minutes by regional train (TER)."
+    },
+    {
+      "id": "gare_italie",
+      "french": "Ce train va jusqu'en Italie ?",
+      "english": "Does this train go to Italy?",
+      "phonetic": "suh TRAN vah zhews-KON ee-TAH-lee",
+      "context": "Some regional trains continue to Ventimiglia (Italy), just across the border. You don't need a separate ticket — just a valid EU rail pass or ticket."
+    },
+    {
+      "id": "gare_prochain",
+      "french": "Quel est le prochain train pour Monaco ?",
+      "english": "What is the next train to Monaco?",
+      "phonetic": "kel eh luh pro-SHAN tran poor moh-nah-KOH",
+      "context": "Monaco is about 20 minutes by train from Menton. Trains run frequently throughout the day."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "gare_v1",
+      "french": "le quai",
+      "english": "platform",
+      "phonetic": "luh KAY"
+    },
+    {
+      "id": "gare_v2",
+      "french": "le TER",
+      "english": "regional train (Train Express Régional)",
+      "phonetic": "luh tay-uh-AIR"
+    },
+    {
+      "id": "gare_v3",
+      "french": "composter",
+      "english": "to validate (your ticket)",
+      "phonetic": "kom-pos-TAY"
+    }
+  ],
+  "tips": [
+    "Always validate (composter) your ticket before boarding — yellow machines on the platform",
+    "Nice is 35 min, Monaco is 20 min, Ventimiglia (Italy) is 10 min",
+    "The station is a short walk from the old town and beach"
+  ]
+}

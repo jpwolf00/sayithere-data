@@ -1,0 +1,48 @@
+{
+  "id": "menton_promenade_soleil",
+  "name_en": "Promenade du Soleil",
+  "name_local": "Promenade du Soleil",
+  "icon": "leaf",
+  "category": "park",
+  "phrases": [
+    {
+      "id": "soleil_plage",
+      "french": "La plage est-elle accessible ici ?",
+      "english": "Is the beach accessible here?",
+      "phonetic": "lah PLAHZH eh-TEL ak-ses-EEBL ee-SEE",
+      "context": "The Promenade du Soleil runs along the seafront with beaches below. Most are public — some sections are reserved for restaurants."
+    },
+    {
+      "id": "soleil_galets",
+      "french": "C'est une plage de galets, pas de sable ?",
+      "english": "It's a pebble beach, not sand?",
+      "phonetic": "say-ewn PLAHZH duh gah-LAY, pah duh SAH-bluh",
+      "context": "Like most Riviera beaches, Menton's beaches are pebble (galets). Bring water shoes for comfort."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "soleil_v1",
+      "french": "les galets",
+      "english": "pebbles",
+      "phonetic": "lay gah-LAY"
+    },
+    {
+      "id": "soleil_v2",
+      "french": "la mer calme",
+      "english": "calm sea",
+      "phonetic": "lah MAIR KALM"
+    },
+    {
+      "id": "soleil_v3",
+      "french": "le bain de soleil",
+      "english": "sunbathing",
+      "phonetic": "luh ban duh soh-LAY"
+    }
+  ],
+  "tips": [
+    "Menton gets more sunshine than anywhere else in France — nearly 316 days per year",
+    "Bring water shoes — all beaches here are pebble, not sand",
+    "The view of the old town from the promenade, especially at golden hour, is one of the finest on the Riviera"
+  ]
+}

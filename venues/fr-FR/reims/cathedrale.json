@@ -1,0 +1,69 @@
+{
+  "id": "reims_cathedrale",
+  "name_en": "Reims Cathedral (Notre-Dame de Reims)",
+  "name_local": "Cathédrale Notre-Dame de Reims",
+  "icon": "building.columns.fill",
+  "category": "church",
+  "phrases": [
+    {
+      "id": "cathedrale_entree",
+      "french": "L'entrée de la cathédrale est-elle gratuite ?",
+      "english": "Is entry to the cathedral free?",
+      "phonetic": "lon-TRAY duh lah kah-tay-DRAL eh-TEL grah-TWEET",
+      "context": "Entry to the cathedral itself is free. The towers (tours) require a ticket and advance booking. UNESCO World Heritage Site since 1991."
+    },
+    {
+      "id": "cathedrale_sacres",
+      "french": "C'est ici que les rois de France étaient sacrés ?",
+      "english": "This is where the Kings of France were crowned?",
+      "phonetic": "say ee-SEE kuh lay rwah duh FRONS ay-TAY sah-KRAY",
+      "context": "33 French kings were crowned here, from Louis VIII in 1223 to Charles X in 1825. Joan of Arc stood here when Charles VII was crowned in 1429."
+    },
+    {
+      "id": "cathedrale_vitraux",
+      "french": "Où sont les vitraux de Chagall ?",
+      "english": "Where are the Chagall stained glass windows?",
+      "phonetic": "oo son lay vee-TROH duh shah-GAL",
+      "context": "Marc Chagall designed three stunning windows for the apse chapel in 1974. They are in the east end of the cathedral, behind the main altar."
+    },
+    {
+      "id": "cathedrale_tours",
+      "french": "Je voudrais monter dans les tours.",
+      "english": "I would like to go up the towers.",
+      "phonetic": "zhuh voo-DRAY mon-TAY don lay TOOR",
+      "context": "Tower visits require advance booking at the Palais du Tau next door. The climb offers views over Reims and the champagne vineyards beyond."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "cathedrale_v1",
+      "french": "le vitrail / les vitraux",
+      "english": "stained glass window(s)",
+      "phonetic": "luh vee-TRY / lay vee-TROH"
+    },
+    {
+      "id": "cathedrale_v2",
+      "french": "le sacre",
+      "english": "coronation / crowning",
+      "phonetic": "luh SAH-kruh"
+    },
+    {
+      "id": "cathedrale_v3",
+      "french": "la nef",
+      "english": "nave (central aisle of a church)",
+      "phonetic": "lah NEF"
+    },
+    {
+      "id": "cathedrale_v4",
+      "french": "le portail",
+      "english": "main doorway / portal",
+      "phonetic": "luh por-TY"
+    }
+  ],
+  "tips": [
+    "Book tower visits in advance at the Palais du Tau — they fill up quickly in summer",
+    "The west facade's three doorways feature over 2,300 sculpted figures — study them before entering",
+    "Chagall's blue stained glass windows are in the apse chapel — easily missed, but unmissable",
+    "The cathedral was 80% destroyed in WWI and took until 1938 to fully restore — remarkable story"
+  ]
+}

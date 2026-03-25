@@ -1,0 +1,42 @@
+{
+  "id": "menton_garavan",
+  "name_en": "Garavan",
+  "name_local": "Garavan",
+  "icon": "building.2",
+  "category": "neighborhood",
+  "phrases": [
+    {
+      "id": "garavan_jardin",
+      "french": "Y a-t-il des jardins à visiter dans ce quartier ?",
+      "english": "Are there gardens to visit in this neighbourhood?",
+      "phonetic": "ee-ah-TEEL day zhar-DAN ah vee-zee-TAY don suh kar-TYAY",
+      "context": "Garavan is home to several Belle Époque villas and exotic gardens including Serre de la Madone and Val Rahmeh botanical garden."
+    },
+    {
+      "id": "garavan_frontiere",
+      "french": "La frontière italienne est loin d'ici ?",
+      "english": "Is the Italian border far from here?",
+      "phonetic": "lah fron-TYAIR ee-tah-LYEN eh LWAN dee-SEE",
+      "context": "Garavan is the easternmost district of Menton, just 2km from the Italian border at Ventimiglia."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "garavan_v1",
+      "french": "le quartier résidentiel",
+      "english": "residential neighbourhood",
+      "phonetic": "luh kar-TYAY ray-zee-don-SYEL"
+    },
+    {
+      "id": "garavan_v2",
+      "french": "la villa",
+      "english": "villa (large private house)",
+      "phonetic": "lah VEE-lah"
+    }
+  ],
+  "tips": [
+    "Val Rahmeh botanical garden in Garavan is run by the Natural History Museum of Paris — excellent and often uncrowded",
+    "The harbour of Garavan has a pleasant marina — good for a morning coffee with boat views",
+    "Many Belle Époque villas in this area were built for British and Russian aristocrats who wintered here in the 19th century"
+  ]
+}

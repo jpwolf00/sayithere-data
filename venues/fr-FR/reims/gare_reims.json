@@ -1,0 +1,48 @@
+{
+  "id": "reims_gare",
+  "name_en": "Reims Train Station",
+  "name_local": "Gare de Reims",
+  "icon": "tram",
+  "category": "transit",
+  "phrases": [
+    {
+      "id": "gare_paris",
+      "french": "Un billet pour Paris, s'il vous plaît.",
+      "english": "A ticket to Paris, please.",
+      "phonetic": "un bee-YEH poor pah-REE, seel voo PLAY",
+      "context": "Reims is 45 minutes from Paris by TGV (high-speed train). The TGV station is Reims Champagne-Ardenne, which is separate from the central Reims station — confirm which station your train uses."
+    },
+    {
+      "id": "gare_champagne",
+      "french": "Est-ce que ce train s'arrête à Reims Champagne-Ardenne ?",
+      "english": "Does this train stop at Reims Champagne-Ardenne?",
+      "phonetic": "es-kuh suh TRAN sah-RET ah RANS shom-PAH-nyuh ar-DEN",
+      "context": "Reims has two stations: the central city station and the out-of-town TGV station (Reims Champagne-Ardenne). Most Paris TGVs use the out-of-town station — check before boarding."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "gare_v1",
+      "french": "le TGV",
+      "english": "high-speed train (Train à Grande Vitesse)",
+      "phonetic": "luh tay-zhay-VAY"
+    },
+    {
+      "id": "gare_v2",
+      "french": "composter",
+      "english": "to validate (your ticket before boarding)",
+      "phonetic": "kom-pos-TAY"
+    },
+    {
+      "id": "gare_v3",
+      "french": "la correspondance",
+      "english": "connection (to another train)",
+      "phonetic": "lah koh-res-pon-DONCE"
+    }
+  ],
+  "tips": [
+    "Paris is just 45 minutes by TGV — Reims makes an excellent day trip from Paris",
+    "Watch out: Reims has TWO stations. TGVs use Reims Champagne-Ardenne (out of town), local trains use central Reims",
+    "Always validate (composter) your ticket before boarding — yellow machines on the platform"
+  ]
+}

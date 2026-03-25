@@ -1,0 +1,42 @@
+{
+  "id": "reims_mumm",
+  "name_en": "Champagne G.H. Mumm",
+  "name_local": "Champagne G.H. Mumm",
+  "icon": "wineglass",
+  "category": "entertainment",
+  "phrases": [
+    {
+      "id": "mumm_visite",
+      "french": "À quelle heure commence la prochaine visite ?",
+      "english": "What time does the next tour start?",
+      "phonetic": "ah kel UR koh-MONCE lah pro-SHEN vee-ZEET",
+      "context": "Mumm runs regular cellar tours throughout the day. The Cordon Rouge is their flagship cuvée — recognisable by the red sash on the bottle."
+    },
+    {
+      "id": "mumm_cordon",
+      "french": "Je voudrais goûter le Cordon Rouge.",
+      "english": "I would like to taste the Cordon Rouge.",
+      "phonetic": "zhuh voo-DRAY goo-TAY luh kor-DON ROOZH",
+      "context": "Cordon Rouge is Mumm's iconic non-vintage champagne. Named for the red ribbon (cordon rouge) of the Légion d'honneur."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "mumm_v1",
+      "french": "le prestige",
+      "english": "prestige (top-tier cuvée)",
+      "phonetic": "luh pres-TEEZH"
+    },
+    {
+      "id": "mumm_v2",
+      "french": "la cuvée",
+      "english": "blend / specific champagne bottling",
+      "phonetic": "lah kew-VAY"
+    }
+  ],
+  "tips": [
+    "Mumm is one of the most visitor-friendly houses — no need to book far in advance",
+    "Their cellars are more modern than Taittinger but the tasting experience is excellent",
+    "Mumm is the official champagne of Formula 1 — hence the podium celebrations"
+  ]
+}

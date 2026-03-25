@@ -1,0 +1,55 @@
+{
+  "id": "menton_musee_cocteau",
+  "name_en": "Jean Cocteau Museum – Séverin Wunderman Collection",
+  "name_local": "Musée Jean Cocteau – Collection Séverin Wunderman",
+  "icon": "building.columns",
+  "category": "museum",
+  "phrases": [
+    {
+      "id": "cocteau_billet",
+      "french": "Un billet adulte, s'il vous plaît.",
+      "english": "One adult ticket, please.",
+      "phonetic": "un bee-YEH ad-ULT, seel voo PLAY",
+      "context": "The museum holds the world's largest Cocteau collection — over 1,800 works donated by American collector Séverin Wunderman."
+    },
+    {
+      "id": "cocteau_collection",
+      "french": "Où sont les œuvres de Cocteau lui-même ?",
+      "english": "Where are Cocteau's own works?",
+      "phonetic": "oo son lay UH-vruh duh kok-TOH lwee-MEM",
+      "context": "The permanent collection spans paintings, drawings, ceramics, and tapestries made by Cocteau during his time in Menton."
+    },
+    {
+      "id": "cocteau_bastion",
+      "french": "Est-ce que le Bastion est inclus dans le billet ?",
+      "english": "Is the Bastion included in the ticket?",
+      "phonetic": "es-kuh luh bas-TYON eh an-KLOO don luh bee-YEH",
+      "context": "The old harbour Bastion — decorated by Cocteau himself — is a separate annex of the museum, worth visiting for the mosaics."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "cocteau_v1",
+      "french": "une œuvre",
+      "english": "a work (of art)",
+      "phonetic": "ewn UH-vruh"
+    },
+    {
+      "id": "cocteau_v2",
+      "french": "la collection permanente",
+      "english": "permanent collection",
+      "phonetic": "lah co-lec-SYON pair-mah-NAHNT"
+    },
+    {
+      "id": "cocteau_v3",
+      "french": "le dessin",
+      "english": "drawing",
+      "phonetic": "luh des-AN"
+    }
+  ],
+  "tips": [
+    "Also visit the Bastion du Vieux Port — a small harbour fort Cocteau decorated with mosaics, included with some ticket types",
+    "Closed on Tuesdays",
+    "Jean Cocteau lived in Menton and decorated the Salle des Mariages in the town hall — also worth a visit (small fee)"
+  ]
+}

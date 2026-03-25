@@ -1,0 +1,42 @@
+{
+  "id": "reims_veuve_clicquot",
+  "name_en": "Champagne Veuve Clicquot",
+  "name_local": "Champagne Veuve Clicquot",
+  "icon": "wineglass",
+  "category": "entertainment",
+  "phrases": [
+    {
+      "id": "clicquot_visite",
+      "french": "J'ai une réservation pour la visite des caves.",
+      "english": "I have a reservation for the cellar tour.",
+      "phonetic": "zhay ewn ray-zair-vah-SYON poor lah vee-ZEET day KAV",
+      "context": "Veuve Clicquot's historic cellars in Reims span 24km of tunnels. The house was founded in 1772 and became famous under the Widow (Veuve) Clicquot's leadership."
+    },
+    {
+      "id": "clicquot_etiquette",
+      "french": "La célèbre étiquette jaune, c'est la marque de fabrique ?",
+      "english": "The famous yellow label — that's the trademark?",
+      "phonetic": "lah say-LEB-ruh ay-tee-KET ZHON, say lah mark duh fah-BREEK",
+      "context": "The Yellow Label (étiquette jaune) non-vintage is Veuve Clicquot's signature. Madame Clicquot also invented the riddling rack (pupitre) for clarifying champagne."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "clicquot_v1",
+      "french": "la veuve",
+      "english": "widow (the brand name means 'The Widow Clicquot')",
+      "phonetic": "lah VUV"
+    },
+    {
+      "id": "clicquot_v2",
+      "french": "le pupitre",
+      "english": "riddling rack (used to clarify champagne)",
+      "phonetic": "luh pew-PEE-truh"
+    }
+  ],
+  "tips": [
+    "Booking is essential — Veuve Clicquot tours are among the most popular in Reims",
+    "Madame Clicquot took over the house at 27 after her husband died and invented the riddling process still used today",
+    "The La Grande Dame cuvée is named in her honour — worth asking about in the tasting room"
+  ]
+}

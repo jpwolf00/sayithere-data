@@ -1,0 +1,61 @@
+{
+  "id": "menton_marche_couvert",
+  "name_en": "Menton Covered Market",
+  "name_local": "Marché Couvert de Menton",
+  "icon": "basket",
+  "category": "market",
+  "phrases": [
+    {
+      "id": "marche_citron",
+      "french": "Vous avez des citrons de Menton ?",
+      "english": "Do you have Menton lemons?",
+      "phonetic": "voo-zah-VAY day see-TRON duh men-TON",
+      "context": "Menton lemons (citrons de Menton) are IGP-protected and famously sweeter and less acidic than regular lemons. Ask specifically for local ones."
+    },
+    {
+      "id": "marche_combien",
+      "french": "C'est combien le kilo ?",
+      "english": "How much is it per kilo?",
+      "phonetic": "say kom-BYAN luh kee-LOH",
+      "context": "Prices are usually displayed but it's normal to ask. Market open mornings only, closed Mondays."
+    },
+    {
+      "id": "marche_specialite",
+      "french": "Quelle est la spécialité locale ?",
+      "english": "What is the local speciality?",
+      "phonetic": "kel eh lah spay-syah-lee-TAY loh-KAL",
+      "context": "Besides lemons, look for barba giuan (fried parcels), socca, and pissaladière on the Riviera. Menton also has excellent olive oil."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "marche_v1",
+      "french": "le citron",
+      "english": "lemon",
+      "phonetic": "luh see-TRON"
+    },
+    {
+      "id": "marche_v2",
+      "french": "les agrumes",
+      "english": "citrus fruits",
+      "phonetic": "lay-zah-GROOM"
+    },
+    {
+      "id": "marche_v3",
+      "french": "le producteur local",
+      "english": "local producer",
+      "phonetic": "luh pro-duc-TUR loh-KAL"
+    },
+    {
+      "id": "marche_v4",
+      "french": "bio",
+      "english": "organic",
+      "phonetic": "BEE-oh"
+    }
+  ],
+  "tips": [
+    "Menton lemons are IGP-protected — among the finest in the world, used by top Parisian chefs and parfumeurs",
+    "Market is open mornings only (typically 7am–1pm), closed Mondays",
+    "The Fête du Citron (Lemon Festival) takes place in February — the town fills with enormous citrus sculptures"
+  ]
+}

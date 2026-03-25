@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "city": "Reims",
+  "city_slug": "reims",
+  "language": "fr-FR",
+  "venues": [
+    {
+      "venue_id": "reims_cathedrale",
+      "name": "Cathédrale Notre-Dame de Reims",
+      "lat": 49.2534,
+      "lon": 4.0337,
+      "radius_m": 150,
+      "base_scenario": "church",
+      "file": "fr-FR/reims/cathedrale.json"
+    },
+    {
+      "venue_id": "reims_palais_tau",
+      "name": "Palais du Tau",
+      "lat": 49.2530,
+      "lon": 4.0349,
+      "radius_m": 100,
+      "base_scenario": "museum",
+      "file": "fr-FR/reims/palais_tau.json"
+    },
+    {
+      "venue_id": "reims_basilique_saint_remi",
+      "name": "Basilique Saint-Remi",
+      "lat": 49.2436,
+      "lon": 4.0393,
+      "radius_m": 120,
+      "base_scenario": "church",
+      "file": "fr-FR/reims/basilique_saint_remi.json"
+    },
+    {
+      "venue_id": "reims_taittinger",
+      "name": "Champagne Taittinger",
+      "lat": 49.2489,
+      "lon": 4.0289,
+      "radius_m": 100,
+      "base_scenario": "restaurant",
+      "file": "fr-FR/reims/taittinger.json"
+    },
+    {
+      "venue_id": "reims_mumm",
+      "name": "Champagne G.H. Mumm",
+      "lat": 49.2582,
+      "lon": 4.0268,
+      "radius_m": 100,
+      "base_scenario": "restaurant",
+      "file": "fr-FR/reims/mumm.json"
+    },
+    {
+      "venue_id": "reims_pommery",
+      "name": "Champagne Pommery",
+      "lat": 49.2584,
+      "lon": 4.0182,
+      "radius_m": 120,
+      "base_scenario": "restaurant",
+      "file": "fr-FR/reims/pommery.json"
+    },
+    {
+      "venue_id": "reims_veuve_clicquot",
+      "name": "Champagne Veuve Clicquot",
+      "lat": 49.2559,
+      "lon": 4.0299,
+      "radius_m": 100,
+      "base_scenario": "restaurant",
+      "file": "fr-FR/reims/veuve_clicquot.json"
+    },
+    {
+      "venue_id": "reims_musee_beaux_arts",
+      "name": "Musée des Beaux-Arts de Reims",
+      "lat": 49.2546,
+      "lon": 4.0298,
+      "radius_m": 100,
+      "base_scenario": "museum",
+      "file": "fr-FR/reims/musee_beaux_arts.json"
+    },
+    {
+      "venue_id": "reims_musee_reddition",
+      "name": "Musée de la Reddition",
+      "lat": 49.2604,
+      "lon": 4.0213,
+      "radius_m": 80,
+      "base_scenario": "museum",
+      "file": "fr-FR/reims/musee_reddition.json"
+    },
+    {
+      "venue_id": "reims_place_drouet_erlon",
+      "name": "Place Drouet d'Erlon",
+      "lat": 49.2574,
+      "lon": 4.0319,
+      "radius_m": 150,
+      "base_scenario": "restaurant",
+      "file": "fr-FR/reims/place_drouet_erlon.json"
+    },
+    {
+      "venue_id": "reims_gare",
+      "name": "Gare de Reims",
+      "lat": 49.2598,
+      "lon": 4.0237,
+      "radius_m": 120,
+      "base_scenario": "transit",
+      "file": "fr-FR/reims/gare_reims.json"
+    },
+    {
+      "venue_id": "reims_cryptoportique",
+      "name": "Cryptoportique Gallo-Romain",
+      "lat": 49.2558,
+      "lon": 4.0317,
+      "radius_m": 80,
+      "base_scenario": "museum",
+      "file": "fr-FR/reims/cryptoportique.json"
+    }
+  ],
+  "neighborhoods": [
+    {
+      "neighborhood_id": "reims_centre",
+      "name": "Centre-Ville de Reims",
+      "lat": 49.2561,
+      "lon": 4.0317,
+      "radius_m": 600,
+      "file": "fr-FR/reims/neighborhoods/centre_ville.json"
+    },
+    {
+      "neighborhood_id": "reims_boulingrin",
+      "name": "Boulingrin",
+      "lat": 49.2589,
+      "lon": 4.0243,
+      "radius_m": 400,
+      "file": "fr-FR/reims/neighborhoods/boulingrin.json"
+    }
+  ]
+}

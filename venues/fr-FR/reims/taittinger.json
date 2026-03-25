@@ -1,0 +1,74 @@
+{
+  "id": "reims_taittinger",
+  "name_en": "Champagne Taittinger",
+  "name_local": "Champagne Taittinger",
+  "icon": "wineglass",
+  "category": "entertainment",
+  "phrases": [
+    {
+      "id": "taittinger_visite",
+      "french": "J'ai réservé une visite des caves.",
+      "english": "I have booked a cellar tour.",
+      "phonetic": "zhay ray-zair-VAY ewn vee-ZEET day KAV",
+      "context": "Taittinger's cellars are former Gallo-Roman chalk quarries and Saint-Nicaise Abbey crypts — some of the most spectacular in Reims. Booking essential."
+    },
+    {
+      "id": "taittinger_degustation",
+      "french": "La dégustation est incluse dans le billet ?",
+      "english": "Is the tasting included in the ticket?",
+      "phonetic": "lah day-gews-tah-SYON eh an-KLOO don luh bee-YEH",
+      "context": "Most cellar tours include a tasting of 1–2 champagnes at the end. Premium tastings with aged vintages cost more."
+    },
+    {
+      "id": "taittinger_bouteille",
+      "french": "Je voudrais acheter une bouteille.",
+      "english": "I would like to buy a bottle.",
+      "phonetic": "zhuh voo-DRAY ash-TAY ewn boo-TAY",
+      "context": "Buying direct from the house is often slightly cheaper than retail and you can get bottles not widely available elsewhere."
+    },
+    {
+      "id": "taittinger_millesime",
+      "french": "Quel est votre millésime recommandé ?",
+      "english": "Which is your recommended vintage?",
+      "phonetic": "kel eh voh-truh mee-lay-ZEEM ruh-koh-mon-DAY",
+      "context": "Taittinger is known for its elegant, Chardonnay-dominant style. The Comtes de Champagne blanc de blancs is their prestige cuvée."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "taittinger_v1",
+      "french": "la cave",
+      "english": "cellar / cave",
+      "phonetic": "lah KAV"
+    },
+    {
+      "id": "taittinger_v2",
+      "french": "la dégustation",
+      "english": "tasting",
+      "phonetic": "lah day-gews-tah-SYON"
+    },
+    {
+      "id": "taittinger_v3",
+      "french": "le millésime",
+      "english": "vintage (year)",
+      "phonetic": "luh mee-lay-ZEEM"
+    },
+    {
+      "id": "taittinger_v4",
+      "french": "le blanc de blancs",
+      "english": "champagne made entirely from white grapes (Chardonnay)",
+      "phonetic": "luh blon duh BLON"
+    },
+    {
+      "id": "taittinger_v5",
+      "french": "brut",
+      "english": "dry (most common champagne style)",
+      "phonetic": "BROOT"
+    }
+  ],
+  "tips": [
+    "Book online in advance — Taittinger tours sell out weeks ahead in summer",
+    "The cellars extend 18 metres underground into Gallo-Roman chalk quarries — bring a light layer, it's 10°C year-round",
+    "Taittinger is one of the few major houses still family-owned — the Taittinger family bought it back in 2006"
+  ]
+}

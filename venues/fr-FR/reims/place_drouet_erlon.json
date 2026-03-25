@@ -1,0 +1,55 @@
+{
+  "id": "reims_place_drouet_erlon",
+  "name_en": "Place Drouet d'Erlon",
+  "name_local": "Place Drouet d'Erlon",
+  "icon": "fork.knife",
+  "category": "restaurant",
+  "phrases": [
+    {
+      "id": "drouet_terrasse",
+      "french": "Une table en terrasse, s'il vous plaît.",
+      "english": "A table on the terrace, please.",
+      "phonetic": "ewn TAH-bluh on teh-RAS, seel voo PLAY",
+      "context": "The pedestrianised Place Drouet d'Erlon is Reims's main social square — lined with cafés, brasseries, and restaurants. Lively day and night."
+    },
+    {
+      "id": "drouet_specialite",
+      "french": "Quelles sont vos spécialités champenoises ?",
+      "english": "What are your Champagne region specialities?",
+      "phonetic": "kel son voh spay-syah-lee-TAY shom-puh-NWAZ",
+      "context": "Look for: potée champenoise (hearty stew), andouillette (pork sausage), biscuits roses de Reims (pink biscuits traditionally dipped in champagne), and local cheeses like Langres."
+    },
+    {
+      "id": "drouet_biscuits",
+      "french": "Vous avez des biscuits roses de Reims ?",
+      "english": "Do you have the pink biscuits of Reims?",
+      "phonetic": "voo-zah-VAY day bees-KWEE ROHZ duh RANS",
+      "context": "Biscuits roses de Reims are the city's most famous edible souvenir — light pink finger biscuits made since the 18th century, traditionally dipped in champagne or rosé."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "drouet_v1",
+      "french": "la brasserie",
+      "english": "brasserie (casual French restaurant)",
+      "phonetic": "lah bras-REE"
+    },
+    {
+      "id": "drouet_v2",
+      "french": "champenois / champenoise",
+      "english": "from the Champagne region",
+      "phonetic": "shom-puh-NWA / shom-puh-NWAZ"
+    },
+    {
+      "id": "drouet_v3",
+      "french": "le biscuit rose",
+      "english": "pink finger biscuit (Reims speciality)",
+      "phonetic": "luh bees-KWEE ROHZ"
+    }
+  ],
+  "tips": [
+    "Biscuits roses de Reims are the edible souvenir of the city — available in most shops and cafés",
+    "The place is at its best on warm evenings when all the terraces fill up",
+    "Try the local Langres cheese — a washed-rind cheese from nearby Haute-Marne, sometimes served with champagne poured into the dimple on top"
+  ]
+}

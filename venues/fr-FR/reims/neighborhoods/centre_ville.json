@@ -1,0 +1,42 @@
+{
+  "id": "reims_centre",
+  "name_en": "Reims City Centre",
+  "name_local": "Centre-Ville de Reims",
+  "icon": "building.2",
+  "category": "neighborhood",
+  "phrases": [
+    {
+      "id": "centre_cathedrale",
+      "french": "La cathédrale est dans quelle direction ?",
+      "english": "Which direction is the cathedral?",
+      "phonetic": "lah kah-tay-DRAL eh don kel dee-rec-SYON",
+      "context": "The cathedral towers are visible from most of the centre — they serve as a natural landmark for orientation."
+    },
+    {
+      "id": "centre_champagne",
+      "french": "Quelle maison de champagne recommandez-vous pour un débutant ?",
+      "english": "Which champagne house do you recommend for a first-timer?",
+      "phonetic": "kel may-ZON duh shom-PAH-nyuh ruh-koh-mon-DAY voo poor un day-bew-TON",
+      "context": "For first-timers, Mumm is accessible and central. Taittinger has the most spectacular historical cellars. Pommery is best for art lovers."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "centre_v1",
+      "french": "la maison de champagne",
+      "english": "champagne house",
+      "phonetic": "lah may-ZON duh shom-PAH-nyuh"
+    },
+    {
+      "id": "centre_v2",
+      "french": "le vignoble",
+      "english": "vineyard",
+      "phonetic": "luh veen-YO-bluh"
+    }
+  ],
+  "tips": [
+    "Allow a full day minimum — cathedral, one or two champagne houses, and dinner is a satisfying itinerary",
+    "Reims is 45 minutes by TGV from Paris — works well as a day trip but better as an overnight",
+    "The Art Deco architecture throughout the centre dates from the city's rapid rebuilding after WWI — look up as you walk"
+  ]
+}

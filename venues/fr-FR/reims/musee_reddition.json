@@ -1,0 +1,42 @@
+{
+  "id": "reims_musee_reddition",
+  "name_en": "Museum of the Surrender",
+  "name_local": "Musée de la Reddition",
+  "icon": "building.columns",
+  "category": "museum",
+  "phrases": [
+    {
+      "id": "reddition_acte",
+      "french": "C'est ici que l'Allemagne a signé la capitulation ?",
+      "english": "Is this where Germany signed the surrender?",
+      "phonetic": "say ee-SEE kuh lal-MAHN ah seen-YAY lah kah-pee-tew-lah-SYON",
+      "context": "On 7 May 1945, Germany signed the unconditional surrender of WWII in this building — then a schoolhouse used as Eisenhower's HQ. The room is preserved exactly as it was."
+    },
+    {
+      "id": "reddition_salle",
+      "french": "Est-ce que la salle de la capitulation est visible ?",
+      "english": "Can we see the surrender room?",
+      "phonetic": "es-kuh lah SAL duh lah kah-pee-tew-lah-SYON eh vee-ZEE-bluh",
+      "context": "The war room where the surrender was signed is preserved intact with original maps, furniture, and equipment."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "reddition_v1",
+      "french": "la capitulation",
+      "english": "surrender",
+      "phonetic": "lah kah-pee-tew-lah-SYON"
+    },
+    {
+      "id": "reddition_v2",
+      "french": "l'armistice",
+      "english": "armistice / ceasefire agreement",
+      "phonetic": "lar-mees-TEES"
+    }
+  ],
+  "tips": [
+    "One of WWII's most significant sites — the actual room where the war in Europe ended on 7 May 1945",
+    "The room is preserved exactly as it was on that day, including Eisenhower's maps and original furniture",
+    "Small entrance fee; closed Tuesdays"
+  ]
+}

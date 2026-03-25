@@ -746,6 +746,94 @@
         { "word_en": "Stop here", "word_local": "Arrêtez-vous ici", "pronunciation": "ah-reh-TAY voo ee-SEE" },
         { "word_en": "Straight ahead", "word_local": "Tout droit", "pronunciation": "too DRWAH" }
       ]
+    },
+    {
+      "id": "winery",
+      "name_en": "Winery / Champagne House",
+      "name_local": "Cave / Maison de Champagne",
+      "icon": "wineglass",
+      "phrases": [
+        {
+          "id": "winery_001",
+          "intent_en": "Check in for a booked tour",
+          "text_local": "Bonjour, j'ai une réservation pour la visite.",
+          "pronunciation": "bon-ZHOOR, zhay ewn ray-zair-vah-SYON poor lah vee-ZEET",
+          "formality": "polite",
+          "cultural_note": "Most major champagne houses and wineries require advance booking — don't show up without one in peak season."
+        },
+        {
+          "id": "winery_002",
+          "intent_en": "Ask what the tour includes",
+          "text_local": "La visite comprend une dégustation ?",
+          "pronunciation": "lah vee-ZEET kom-PRON ewn day-gews-tah-SYON",
+          "formality": "polite",
+          "cultural_note": "Most house tours include 1–2 glasses at the end. Premium tastings cost extra. Always confirm what's included before paying."
+        },
+        {
+          "id": "winery_003",
+          "intent_en": "Ask about the cellar temperature",
+          "text_local": "Il fait quelle température dans les caves ?",
+          "pronunciation": "eel fay kel tem-pay-rah-TOOR don lay KAV",
+          "formality": "polite",
+          "cultural_note": "Champagne cellars stay at around 10–12°C year-round. Bring a light layer even in summer — guides will often warn you, but it's easy to forget."
+        },
+        {
+          "id": "winery_004",
+          "intent_en": "Ask to taste a specific style",
+          "text_local": "Est-ce que je peux goûter un blanc de blancs ?",
+          "pronunciation": "es-kuh zhuh puh goo-TAY un blon duh BLON",
+          "formality": "polite",
+          "cultural_note": "Blanc de blancs = 100% Chardonnay (lighter, crisper). Blanc de noirs = made from red grapes Pinot Noir and/or Pinot Meunier (richer). Rosé = either blended or saignée method."
+        },
+        {
+          "id": "winery_005",
+          "intent_en": "Ask about buying bottles",
+          "text_local": "Est-ce que vous vendez à la propriété ?",
+          "pronunciation": "es-kuh voo von-DAY ah lah proh-pree-ay-TAY",
+          "formality": "polite",
+          "cultural_note": "Buying direct from the producer (à la propriété) is often cheaper and gives access to limited or older vintages not available in shops."
+        },
+        {
+          "id": "winery_006",
+          "intent_en": "Ask about vintage vs. non-vintage",
+          "text_local": "C'est un millésimé ou un assemblage ?",
+          "pronunciation": "say tun mee-lay-zee-MAY oo un ah-som-BLAHZH",
+          "formality": "polite",
+          "cultural_note": "Millésimé = vintage (from a single exceptional year). Assemblage / non-vintage = a blend of multiple years for consistent style. Most champagne is non-vintage."
+        },
+        {
+          "id": "winery_007",
+          "intent_en": "Ask how to store a bottle",
+          "text_local": "Comment conserver cette bouteille à la maison ?",
+          "pronunciation": "koh-MON kon-sair-VAY set boo-TAY ah lah may-ZON",
+          "formality": "polite",
+          "cultural_note": "Keep champagne horizontal in a cool dark place (10–15°C). Non-vintage should be drunk within 3–5 years; vintage can age 10–20+ years."
+        },
+        {
+          "id": "winery_008",
+          "intent_en": "Compliment the wine",
+          "text_local": "C'est vraiment excellent. Félicitations à toute l'équipe.",
+          "pronunciation": "say vray-MON ek-sel-LON. fay-lee-see-tah-SYON ah toot lay-KEEP",
+          "formality": "polite",
+          "cultural_note": "French winemakers and cellar guides appreciate genuine enthusiasm. A heartfelt compliment goes a long way and often leads to a bonus pour."
+        }
+      ],
+      "vocabulary": [
+        { "word_en": "Cellar / cave", "word_local": "La cave", "pronunciation": "lah KAV" },
+        { "word_en": "Tasting", "word_local": "La dégustation", "pronunciation": "lah day-gews-tah-SYON" },
+        { "word_en": "Vintage (year)", "word_local": "Le millésime", "pronunciation": "luh mee-lay-ZEEM" },
+        { "word_en": "Blend / non-vintage", "word_local": "L'assemblage", "pronunciation": "lah-som-BLAHZH" },
+        { "word_en": "Dry", "word_local": "Brut", "pronunciation": "BROOT" },
+        { "word_en": "Extra dry (sweeter than brut)", "word_local": "Extra dry", "pronunciation": "eks-trah DREE" },
+        { "word_en": "Sweet", "word_local": "Doux", "pronunciation": "DOO" },
+        { "word_en": "Sparkling", "word_local": "Pétillant / effervescent", "pronunciation": "pay-tee-YON / ef-fair-ves-ON" },
+        { "word_en": "Riddling rack", "word_local": "Le pupitre", "pronunciation": "luh pew-PEE-truh" },
+        { "word_en": "White grapes only", "word_local": "Blanc de blancs", "pronunciation": "blon duh BLON" },
+        { "word_en": "Red grapes only", "word_local": "Blanc de noirs", "pronunciation": "blon duh NWAHR" },
+        { "word_en": "The bottle", "word_local": "La bouteille", "pronunciation": "lah boo-TAY" },
+        { "word_en": "Cork", "word_local": "Le bouchon", "pronunciation": "luh boo-SHON" },
+        { "word_en": "Champagne flute", "word_local": "La flûte", "pronunciation": "lah FLEWT" }
+      ]
     }
   ]
 }

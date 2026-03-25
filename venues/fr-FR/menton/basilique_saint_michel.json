@@ -1,0 +1,55 @@
+{
+  "id": "menton_basilique_saint_michel",
+  "name_en": "Basilica of Saint Michael the Archangel",
+  "name_local": "Basilique Saint-Michel-Archange",
+  "icon": "building.columns.fill",
+  "category": "church",
+  "phrases": [
+    {
+      "id": "michel_open",
+      "french": "Est-ce que la basilique est ouverte aujourd'hui ?",
+      "english": "Is the basilica open today?",
+      "phonetic": "es-kuh lah bah-ZEEK eh oo-VAIR-tuh oh-zhoor-DWEE",
+      "context": "Hours vary by season. The baroque façade visible from the sea is one of Menton's most iconic views."
+    },
+    {
+      "id": "michel_parvis",
+      "french": "Le parvis est magnifique — c'est la meilleure vue sur la mer ?",
+      "english": "The square is magnificent — is this the best view of the sea?",
+      "phonetic": "luh par-VEE eh mah-nyee-FEEK — say lah may-YUR vew syr lah MAIR",
+      "context": "The mosaic forecourt (parvis) in front of the basilica is a famous viewpoint over the rooftops and sea."
+    },
+    {
+      "id": "michel_messe",
+      "french": "À quelle heure est la messe ?",
+      "english": "What time is Mass?",
+      "phonetic": "ah kel UR eh lah MES",
+      "context": "The basilica holds regular services. Visitors are welcome outside of service times."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "michel_v1",
+      "french": "le parvis",
+      "english": "church forecourt / square",
+      "phonetic": "luh par-VEE"
+    },
+    {
+      "id": "michel_v2",
+      "french": "le clocher",
+      "english": "bell tower",
+      "phonetic": "luh kloh-SHAY"
+    },
+    {
+      "id": "michel_v3",
+      "french": "baroque",
+      "english": "baroque (architectural style)",
+      "phonetic": "bah-ROK"
+    }
+  ],
+  "tips": [
+    "The yellow and orange baroque façade is best photographed from the harbour or beach below",
+    "The mosaic forecourt is free to visit anytime and offers one of Menton's best sea views",
+    "Dress modestly — shoulders and knees covered — to enter the basilica"
+  ]
+}

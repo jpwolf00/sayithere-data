@@ -1,0 +1,55 @@
+{
+  "id": "reims_palais_tau",
+  "name_en": "Palais du Tau",
+  "name_local": "Palais du Tau",
+  "icon": "building.columns",
+  "category": "museum",
+  "phrases": [
+    {
+      "id": "tau_billet",
+      "french": "Un billet pour le Palais du Tau, s'il vous plaît.",
+      "english": "One ticket for the Palais du Tau, please.",
+      "phonetic": "un bee-YEH poor luh pah-LAY dew TOH, seel voo PLAY",
+      "context": "The Palais du Tau was the Archbishop's palace and where kings feasted after their coronation. Now a museum with original cathedral sculptures and coronation treasures."
+    },
+    {
+      "id": "tau_talisman",
+      "french": "Où est le talisman de Charlemagne ?",
+      "english": "Where is the talisman of Charlemagne?",
+      "phonetic": "oo eh luh tah-lees-MON duh shar-luh-MAHN",
+      "context": "The museum holds the famous Talisman of Charlemagne — a reliquary pendant said to have contained a fragment of the True Cross, worn around his neck."
+    },
+    {
+      "id": "tau_tours",
+      "french": "On peut réserver la visite des tours ici ?",
+      "english": "Can we book the tower visit here?",
+      "phonetic": "on puh ray-zair-VAY lah vee-ZEET day TOOR ee-SEE",
+      "context": "Tower visits to the cathedral are organised through the Palais du Tau. Book here or in advance online."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "tau_v1",
+      "french": "le trésor",
+      "english": "treasury (collection of precious objects)",
+      "phonetic": "luh tray-ZOR"
+    },
+    {
+      "id": "tau_v2",
+      "french": "le reliquaire",
+      "english": "reliquary (container for holy relics)",
+      "phonetic": "luh ruh-lee-KAIR"
+    },
+    {
+      "id": "tau_v3",
+      "french": "la salle du festin",
+      "english": "banquet hall",
+      "phonetic": "lah SAL dew fes-TAN"
+    }
+  ],
+  "tips": [
+    "A combined ticket covers both the Palais du Tau and cathedral tower access",
+    "The Salle du Tau (banquet hall) is where French kings celebrated their coronation feasts — extraordinary Gothic architecture",
+    "Don't miss the original cathedral statues on display inside — replaced by copies on the facade due to pollution damage"
+  ]
+}

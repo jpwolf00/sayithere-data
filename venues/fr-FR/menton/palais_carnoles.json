@@ -1,0 +1,42 @@
+{
+  "id": "menton_palais_carnoles",
+  "name_en": "Palais Carnolès – Museum of Fine Arts",
+  "name_local": "Palais Carnolès – Musée des Beaux-Arts",
+  "icon": "building.columns",
+  "category": "museum",
+  "phrases": [
+    {
+      "id": "carnoles_entree",
+      "french": "L'entrée est-elle gratuite ?",
+      "english": "Is entry free?",
+      "phonetic": "lon-TRAY eh-TEL grah-TWEET",
+      "context": "The permanent collection is free. The palace was the summer residence of the Princes of Monaco and sits in a citrus garden."
+    },
+    {
+      "id": "carnoles_jardin",
+      "french": "Le jardin d'agrumes est magnifique.",
+      "english": "The citrus garden is magnificent.",
+      "phonetic": "luh zhar-DAN dah-GROOM eh mah-nyee-FEEK",
+      "context": "The surrounding citrus grove is one of the largest in Europe and is free to walk through year-round."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "carnoles_v1",
+      "french": "le palais",
+      "english": "palace",
+      "phonetic": "luh pah-LAY"
+    },
+    {
+      "id": "carnoles_v2",
+      "french": "gratuit / gratuite",
+      "english": "free (of charge)",
+      "phonetic": "grah-TWEE / grah-TWEET"
+    }
+  ],
+  "tips": [
+    "Permanent collection is free — one of the few free museums on the Riviera",
+    "The citrus grove around the palace has over 100 varieties of citrus — beautiful and fragrant in winter",
+    "Closed Tuesdays"
+  ]
+}

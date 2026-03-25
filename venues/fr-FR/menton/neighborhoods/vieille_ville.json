@@ -1,0 +1,55 @@
+{
+  "id": "menton_vieille_ville",
+  "name_en": "Menton Old Town",
+  "name_local": "Vieille Ville de Menton",
+  "icon": "building.2",
+  "category": "neighborhood",
+  "phrases": [
+    {
+      "id": "vieille_couleurs",
+      "french": "Les couleurs des façades sont incroyables !",
+      "english": "The colours of the facades are incredible!",
+      "phonetic": "lay koo-LUR day fah-SAHD son an-krwah-YAH-bluh",
+      "context": "Menton's old town is famous for its pastel-coloured buildings — ochre, coral, yellow and terracotta. Italians call this style Ligurian baroque."
+    },
+    {
+      "id": "vieille_ruelle",
+      "french": "Est-ce que je peux me promener dans les ruelles ?",
+      "english": "Can I walk around the narrow streets?",
+      "phonetic": "es-kuh zhuh puh muh proh-muh-NAY don lay roo-EL",
+      "context": "The old town is entirely pedestrianised and free to explore. The steep lanes (ruelles) lead up to the basilica and offer sea views."
+    },
+    {
+      "id": "vieille_cimetiere",
+      "french": "Où est le cimetière du Vieux Château ?",
+      "english": "Where is the Old Castle Cemetery?",
+      "phonetic": "oo eh luh seem-TYAIR dew vyuh sha-TOH",
+      "context": "The cemetery at the top of the old town has extraordinary panoramic views and is the burial site of many European aristocrats who came to Menton for the climate."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "vieille_v1",
+      "french": "la ruelle",
+      "english": "narrow alley / lane",
+      "phonetic": "lah roo-EL"
+    },
+    {
+      "id": "vieille_v2",
+      "french": "la façade",
+      "english": "building facade",
+      "phonetic": "lah fah-SAHD"
+    },
+    {
+      "id": "vieille_v3",
+      "french": "le cimetière",
+      "english": "cemetery",
+      "phonetic": "luh seem-TYAIR"
+    }
+  ],
+  "tips": [
+    "Menton's old town was part of the Principality of Monaco until 1848 — the Italian influence shows in every street",
+    "The Old Castle Cemetery at the top is free and has one of the best panoramic views of the Riviera",
+    "The Salle des Mariages in the town hall was decorated by Jean Cocteau — visit for a small fee"
+  ]
+}

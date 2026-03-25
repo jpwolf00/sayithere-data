@@ -1,0 +1,42 @@
+{
+  "id": "reims_boulingrin",
+  "name_en": "Boulingrin Market District",
+  "name_local": "Boulingrin",
+  "icon": "building.2",
+  "category": "neighborhood",
+  "phrases": [
+    {
+      "id": "boulingrin_marche",
+      "french": "Le marché du Boulingrin, c'est quand ?",
+      "english": "When is the Boulingrin market?",
+      "phonetic": "luh mar-SHAY dew boo-lan-GRAN, say KON",
+      "context": "The Marché du Boulingrin is held Saturday mornings in and around the famous Art Deco covered market hall — one of the finest in France."
+    },
+    {
+      "id": "boulingrin_halle",
+      "french": "La halle est classée monument historique ?",
+      "english": "Is the market hall a listed historic monument?",
+      "phonetic": "lah AL eh klas-SAY moh-new-MON ees-toh-REEK",
+      "context": "The Halle du Boulingrin (1929) is an Art Deco masterpiece — a vast concrete shell structure listed as a historic monument. Worth visiting even when the market isn't on."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "boulingrin_v1",
+      "french": "la halle",
+      "english": "covered market hall",
+      "phonetic": "lah AL"
+    },
+    {
+      "id": "boulingrin_v2",
+      "french": "Art Déco",
+      "english": "Art Deco (architectural style of the 1920s–30s)",
+      "phonetic": "ar day-KOH"
+    }
+  ],
+  "tips": [
+    "Saturday morning market is the best time to visit Boulingrin — local producers, cheese, charcuterie, and champagne",
+    "The market hall itself (1929) is an architectural gem — a massive Art Deco concrete vault",
+    "Reims has one of the finest concentrations of Art Deco buildings in France, built during rapid post-WWI reconstruction"
+  ]
+}

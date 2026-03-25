@@ -1,0 +1,55 @@
+{
+  "id": "menton_jardin_serre_madone",
+  "name_en": "Serre de la Madone Garden",
+  "name_local": "Jardin Serre de la Madone",
+  "icon": "leaf",
+  "category": "park",
+  "phrases": [
+    {
+      "id": "serre_billet",
+      "french": "Je voudrais visiter le jardin, s'il vous plaît.",
+      "english": "I would like to visit the garden, please.",
+      "phonetic": "zhuh voo-DRAY vee-zee-TAY luh zhar-DAN, seel voo PLAY",
+      "context": "Created by Lawrence Johnston (who also made Hidcote in England), Serre de la Madone is one of the finest gardens on the Riviera. Booking ahead is recommended."
+    },
+    {
+      "id": "serre_guide",
+      "french": "Est-ce qu'il y a une visite guidée ?",
+      "english": "Is there a guided tour?",
+      "phonetic": "es-keel ee-AH ewn vee-ZEET ghee-DAY",
+      "context": "Guided tours are available and highly recommended — the garden's history and plant collection are fascinating."
+    },
+    {
+      "id": "serre_plantes",
+      "french": "Quelles plantes sont en fleur en ce moment ?",
+      "english": "Which plants are in bloom right now?",
+      "phonetic": "kel PLONT son on FLUR on suh moh-MON",
+      "context": "The garden has year-round interest but spring (March–May) is spectacular for wisteria, roses, and rare perennials."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "serre_v1",
+      "french": "la serre",
+      "english": "greenhouse",
+      "phonetic": "lah SAIR"
+    },
+    {
+      "id": "serre_v2",
+      "french": "en fleur",
+      "english": "in bloom",
+      "phonetic": "on FLUR"
+    },
+    {
+      "id": "serre_v3",
+      "french": "le jardinier",
+      "english": "gardener",
+      "phonetic": "luh zhar-dee-NYAY"
+    }
+  ],
+  "tips": [
+    "Book in advance — entry is limited and often sells out in spring",
+    "Closed in summer (usually July–August) and Mondays/Tuesdays — check current schedule",
+    "Lawrence Johnston, the creator, also designed Hidcote Manor Garden in the English Cotswolds"
+  ]
+}

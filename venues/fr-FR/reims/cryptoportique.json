@@ -1,0 +1,42 @@
+{
+  "id": "reims_cryptoportique",
+  "name_en": "Gallo-Roman Cryptoporticus",
+  "name_local": "Cryptoportique Gallo-Romain",
+  "icon": "building.columns",
+  "category": "museum",
+  "phrases": [
+    {
+      "id": "crypto_entree",
+      "french": "C'est quoi exactement le cryptoportique ?",
+      "english": "What exactly is the cryptoporticus?",
+      "phonetic": "say kwah eg-zak-tuh-MON luh kreep-toh-por-TEEK",
+      "context": "An underground gallery from the 3rd century AD, built by the Romans as a substructure for a public forum above. One of the best-preserved Roman monuments in northern France."
+    },
+    {
+      "id": "crypto_visite",
+      "french": "On peut descendre visiter les galeries ?",
+      "english": "Can we go down to visit the galleries?",
+      "phonetic": "on puh day-SOND-ruh vee-zee-TAY lay gah-luh-REE",
+      "context": "Yes — the underground galleries are accessible and free to enter. Entrance is beneath the Place du Forum in the city centre."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "crypto_v1",
+      "french": "gallo-romain",
+      "english": "Gallo-Roman (Roman era in ancient Gaul/France)",
+      "phonetic": "gah-loh roh-MAN"
+    },
+    {
+      "id": "crypto_v2",
+      "french": "les galeries souterraines",
+      "english": "underground galleries",
+      "phonetic": "lay gah-luh-REE soo-tuh-REN"
+    }
+  ],
+  "tips": [
+    "Free entry — one of Reims's most underrated sights",
+    "Reims was an important Roman city called Durocortorum — capital of Belgica province",
+    "The galleries are cool year-round — a welcome escape in summer heat"
+  ]
+}

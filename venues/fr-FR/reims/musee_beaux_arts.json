@@ -1,0 +1,42 @@
+{
+  "id": "reims_musee_beaux_arts",
+  "name_en": "Museum of Fine Arts of Reims",
+  "name_local": "Musée des Beaux-Arts de Reims",
+  "icon": "building.columns",
+  "category": "museum",
+  "phrases": [
+    {
+      "id": "beaux_arts_entree",
+      "french": "L'entrée est-elle gratuite ?",
+      "english": "Is entry free?",
+      "phonetic": "lon-TRAY eh-TEL grah-TWEET",
+      "context": "Entry is free for permanent collections. The museum is housed in a former abbey and has an excellent collection of 13th–20th century works."
+    },
+    {
+      "id": "beaux_arts_cranach",
+      "french": "Où sont les portraits de Cranach ?",
+      "english": "Where are the Cranach portraits?",
+      "phonetic": "oo son lay por-TRAY duh KRAH-nak",
+      "context": "The museum holds a remarkable series of 27 portraits by Lucas Cranach the Elder and Younger — one of the finest Cranach collections in the world."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "beaux_arts_v1",
+      "french": "le portrait",
+      "english": "portrait",
+      "phonetic": "luh por-TRAY"
+    },
+    {
+      "id": "beaux_arts_v2",
+      "french": "la peinture",
+      "english": "painting",
+      "phonetic": "lah pan-TOOR"
+    }
+  ],
+  "tips": [
+    "Free permanent collection — a genuine hidden gem often skipped by visitors focused only on champagne and cathedral",
+    "27 Cranach portraits — one of the finest collections outside Germany",
+    "Closed Tuesdays"
+  ]
+}

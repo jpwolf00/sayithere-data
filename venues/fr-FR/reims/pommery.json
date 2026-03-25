@@ -1,0 +1,42 @@
+{
+  "id": "reims_pommery",
+  "name_en": "Champagne Pommery",
+  "name_local": "Champagne Pommery",
+  "icon": "wineglass",
+  "category": "entertainment",
+  "phrases": [
+    {
+      "id": "pommery_art",
+      "french": "Les caves abritent une exposition d'art contemporain ?",
+      "english": "The cellars host a contemporary art exhibition?",
+      "phonetic": "lay KAV ah-BREET ewn eks-poh-zee-SYON dar kon-tom-poh-RAN",
+      "context": "Pommery's cellars are remarkable — 18km of tunnels, 30 metres underground, with major contemporary art installations. A unique cultural as well as wine experience."
+    },
+    {
+      "id": "pommery_brut",
+      "french": "Qui a inventé le champagne brut ?",
+      "english": "Who invented brut champagne?",
+      "phonetic": "kee ah an-von-TAY luh shom-PAH-nyuh BROOT",
+      "context": "Madame Pommery invented the first commercially sold brut champagne in 1874. Before that, champagne was sweet. Most of the world now drinks brut style."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "pommery_v1",
+      "french": "le souterrain",
+      "english": "underground / subterranean",
+      "phonetic": "luh soo-tuh-RAN"
+    },
+    {
+      "id": "pommery_v2",
+      "french": "la craie",
+      "english": "chalk (the rock of the Champagne caves)",
+      "phonetic": "lah KRAY"
+    }
+  ],
+  "tips": [
+    "Pommery has the most spectacular cellars in Reims — 18km of tunnels with contemporary art installations",
+    "Madame Pommery invented brut champagne in 1874 — a fact worth mentioning during any tasting",
+    "The Victorian red-brick buildings above ground are also architecturally striking — modelled on Elizabethan style"
+  ]
+}

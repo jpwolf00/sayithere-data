@@ -1,0 +1,48 @@
+{
+  "id": "reims_basilique_saint_remi",
+  "name_en": "Basilica of Saint-Remi",
+  "name_local": "Basilique Saint-Remi",
+  "icon": "building.columns.fill",
+  "category": "church",
+  "phrases": [
+    {
+      "id": "remi_entree",
+      "french": "La basilique est-elle ouverte à la visite ?",
+      "english": "Is the basilica open for visitors?",
+      "phonetic": "lah bah-ZEEK eh-TEL oo-VAIR-tuh ah lah vee-ZEET",
+      "context": "Saint-Remi is the oldest church in Reims and a UNESCO World Heritage Site alongside the cathedral. It contains the tomb of Saint Remi, who baptised Clovis in 498."
+    },
+    {
+      "id": "remi_tombeau",
+      "french": "Où est le tombeau de Saint Remi ?",
+      "english": "Where is the tomb of Saint Remi?",
+      "phonetic": "oo eh luh tom-BOH duh san ruh-MEE",
+      "context": "The elaborate 19th-century tomb of Saint Remi is in the choir — the saint who baptised the first Christian King of France, Clovis, in 498 AD."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "remi_v1",
+      "french": "le tombeau",
+      "english": "tomb",
+      "phonetic": "luh tom-BOH"
+    },
+    {
+      "id": "remi_v2",
+      "french": "le baptême",
+      "english": "baptism",
+      "phonetic": "luh bap-TEM"
+    },
+    {
+      "id": "remi_v3",
+      "french": "roman / romane",
+      "english": "Romanesque (architectural style)",
+      "phonetic": "roh-MON / roh-MAN"
+    }
+  ],
+  "tips": [
+    "Often less crowded than the cathedral — a more peaceful and equally impressive visit",
+    "The basilica dates to 1049, making it older than Notre-Dame de Paris",
+    "The attached museum (Musée Saint-Remi) covers Gallo-Roman Reims and is worth an hour"
+  ]
+}

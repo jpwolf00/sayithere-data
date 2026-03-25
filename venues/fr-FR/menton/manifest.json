@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "city": "Menton",
+  "city_slug": "menton",
+  "language": "fr-FR",
+  "venues": [
+    {
+      "venue_id": "menton_basilique_saint_michel",
+      "name": "Basilique Saint-Michel-Archange",
+      "lat": 43.7756,
+      "lon": 7.5042,
+      "radius_m": 100,
+      "base_scenario": "church",
+      "file": "fr-FR/menton/basilique_saint_michel.json"
+    },
+    {
+      "venue_id": "menton_musee_cocteau",
+      "name": "Musée Jean Cocteau",
+      "lat": 43.7739,
+      "lon": 7.5063,
+      "radius_m": 100,
+      "base_scenario": "museum",
+      "file": "fr-FR/menton/musee_cocteau.json"
+    },
+    {
+      "venue_id": "menton_marche_couvert",
+      "name": "Marché Couvert de Menton",
+      "lat": 43.7748,
+      "lon": 7.5021,
+      "radius_m": 80,
+      "base_scenario": "market",
+      "file": "fr-FR/menton/marche_couvert.json"
+    },
+    {
+      "venue_id": "menton_jardin_serre_madone",
+      "name": "Jardin Serre de la Madone",
+      "lat": 43.7728,
+      "lon": 7.4921,
+      "radius_m": 120,
+      "base_scenario": "park",
+      "file": "fr-FR/menton/jardin_serre_madone.json"
+    },
+    {
+      "venue_id": "menton_palais_carnoles",
+      "name": "Palais Carnolès – Musée des Beaux-Arts",
+      "lat": 43.7742,
+      "lon": 7.4958,
+      "radius_m": 100,
+      "base_scenario": "museum",
+      "file": "fr-FR/menton/palais_carnoles.json"
+    },
+    {
+      "venue_id": "menton_promenade_soleil",
+      "name": "Promenade du Soleil",
+      "lat": 43.7731,
+      "lon": 7.5005,
+      "radius_m": 200,
+      "base_scenario": "park",
+      "file": "fr-FR/menton/promenade_soleil.json"
+    },
+    {
+      "venue_id": "menton_gare",
+      "name": "Gare de Menton",
+      "lat": 43.7767,
+      "lon": 7.4988,
+      "radius_m": 100,
+      "base_scenario": "transit",
+      "file": "fr-FR/menton/gare_menton.json"
+    },
+    {
+      "venue_id": "menton_frontiere_italie",
+      "name": "Frontière Franco-Italienne (Ventimiglia)",
+      "lat": 43.7795,
+      "lon": 7.5243,
+      "radius_m": 200,
+      "base_scenario": "transit",
+      "file": "fr-FR/menton/frontiere_italie.json"
+    }
+  ],
+  "neighborhoods": [
+    {
+      "neighborhood_id": "menton_vieille_ville",
+      "name": "Vieille Ville de Menton",
+      "lat": 43.7752,
+      "lon": 7.5038,
+      "radius_m": 400,
+      "file": "fr-FR/menton/neighborhoods/vieille_ville.json"
+    },
+    {
+      "neighborhood_id": "menton_garavan",
+      "name": "Garavan",
+      "lat": 43.7765,
+      "lon": 7.5145,
+      "radius_m": 400,
+      "file": "fr-FR/menton/neighborhoods/garavan.json"
+    }
+  ]
+}

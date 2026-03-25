@@ -1,0 +1,55 @@
+{
+  "id": "menton_frontiere_italie",
+  "name_en": "French-Italian Border (Ventimiglia)",
+  "name_local": "Frontière Franco-Italienne",
+  "icon": "mappin.and.ellipse",
+  "category": "transit",
+  "phrases": [
+    {
+      "id": "frontiere_passeport",
+      "french": "Voici mon passeport.",
+      "english": "Here is my passport.",
+      "phonetic": "vwah-SEE mon pas-POR",
+      "context": "France and Italy are both in the Schengen Area, so passport checks are rare but can occur. Border agents may stop vehicles — simply present your document."
+    },
+    {
+      "id": "frontiere_touriste",
+      "french": "Je suis touriste — je visite l'Italie pour la journée.",
+      "english": "I am a tourist — I am visiting Italy for the day.",
+      "phonetic": "zhuh swee too-REEST — zhuh vee-ZEET lee-TAH-lee poor lah zhoor-NAY",
+      "context": "Day trips to Ventimiglia market (Fridays) are very popular from Menton. The border is 4km east of Menton old town."
+    },
+    {
+      "id": "frontiere_marche",
+      "french": "Où est le marché de Vintimille ?",
+      "english": "Where is the Ventimiglia market?",
+      "phonetic": "oo eh luh mar-SHAY duh van-tee-MEE",
+      "context": "The famous Friday market in Ventimiglia is one of the largest outdoor markets on the Riviera — great for Italian produce, clothing, and leather goods."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "frontiere_v1",
+      "french": "la frontière",
+      "english": "border",
+      "phonetic": "lah fron-TYAIR"
+    },
+    {
+      "id": "frontiere_v2",
+      "french": "Vintimille",
+      "english": "Ventimiglia (French name for the Italian border town)",
+      "phonetic": "van-tee-MEE"
+    },
+    {
+      "id": "frontiere_v3",
+      "french": "l'espace Schengen",
+      "english": "the Schengen Area (passport-free travel zone)",
+      "phonetic": "les-PAS SHENG-en"
+    }
+  ],
+  "tips": [
+    "Ventimiglia's Friday market is unmissable — huge outdoor market with Italian food, leather, clothing, and produce",
+    "The border crossing is open 24/7; spot checks do occur so carry ID or passport",
+    "Walking across the border is easy — the old town of Ventimiglia is about 1km from the French side"
+  ]
+}
