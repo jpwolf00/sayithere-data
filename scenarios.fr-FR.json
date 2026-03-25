@@ -12,7 +12,24 @@
           "text_local": "Excusez-moi, vous parlez anglais ?",
           "pronunciation": "ex-koo-ZAY mwah, voo par-LAY ahn-GLEH",
           "formality": "polite",
-          "cultural_note": "Always start with 'Excusez-moi'. Many French people speak some English but appreciate you trying French first."
+          "cultural_note": "Always start with 'Excusez-moi'. Many French people speak some English but appreciate you trying French first.",
+          "responses": [
+            {
+              "french": "Oui, je parle un peu anglais.",
+              "english": "Yes, I speak a little English.",
+              "phonetic": "wee, zhuh PARL uhn PUH ahn-GLEH"
+            },
+            {
+              "french": "Désolé, je ne parle pas anglais.",
+              "english": "Sorry, I don't speak English.",
+              "phonetic": "day-zoh-LAY, zhuh nuh PARL pah ahn-GLEH"
+            },
+            {
+              "french": "Un peu, qu'est-ce que vous voulez ?",
+              "english": "A little — what do you need?",
+              "phonetic": "uhn PUH, kess kuh voo voo-LAY"
+            }
+          ]
         },
         {
           "id": "general_002",
@@ -20,7 +37,19 @@
           "text_local": "Je ne comprends pas.",
           "pronunciation": "zhuh nuh kohm-PRAHN pah",
           "formality": "standard",
-          "cultural_note": "Follow up with 'Pouvez-vous répéter ?' (Could you repeat that?) if you want them to try again more slowly."
+          "cultural_note": "Follow up with 'Pouvez-vous répéter ?' (Could you repeat that?) if you want them to try again more slowly.",
+          "responses": [
+            {
+              "french": "Je vais répéter plus lentement.",
+              "english": "I'll repeat it more slowly.",
+              "phonetic": "zhuh veh ray-pay-TAY ploo lahn-tuh-MAHN"
+            },
+            {
+              "french": "Vous voulez que j'écrive ?",
+              "english": "Would you like me to write it down?",
+              "phonetic": "voo voo-LAY kuh zhay-KREEV"
+            }
+          ]
         },
         {
           "id": "general_003",
@@ -28,7 +57,24 @@
           "text_local": "Où sont les toilettes, s'il vous plaît ?",
           "pronunciation": "oo sohn lay twah-LET, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "In France, say 'les toilettes' — never 'la salle de bain' (that's the room with a bathtub). Cafés usually let customers use theirs."
+          "cultural_note": "In France, say 'les toilettes' — never 'la salle de bain' (that's the room with a bathtub). Cafés usually let customers use theirs.",
+          "responses": [
+            {
+              "french": "C'est au fond à gauche.",
+              "english": "It's at the back on the left.",
+              "phonetic": "seh oh FOHN ah GOHSH"
+            },
+            {
+              "french": "Là-bas, passez la porte.",
+              "english": "Over there, go through the door.",
+              "phonetic": "lah-BAH, pah-SAY lah PORT"
+            },
+            {
+              "french": "Désolé, les toilettes sont réservées aux clients.",
+              "english": "Sorry, the toilets are for customers only.",
+              "phonetic": "day-zoh-LAY, lay twah-LET sohn ray-zair-VAY oh klee-AHN"
+            }
+          ]
         },
         {
           "id": "general_004",
@@ -36,7 +82,19 @@
           "text_local": "S'il vous plaît. Merci beaucoup.",
           "pronunciation": "seel voo PLEH. mair-SEE boh-KOO",
           "formality": "polite",
-          "cultural_note": "These two phrases will get you very far. The French highly value politeness — use them liberally."
+          "cultural_note": "These two phrases will get you very far. The French highly value politeness — use them liberally.",
+          "responses": [
+            {
+              "french": "De rien !",
+              "english": "You're welcome!",
+              "phonetic": "duh RYEHN"
+            },
+            {
+              "french": "Avec plaisir.",
+              "english": "With pleasure.",
+              "phonetic": "ah-VEK play-ZEER"
+            }
+          ]
         },
         {
           "id": "general_005",
@@ -44,18 +102,62 @@
           "text_local": "Aidez-moi, s'il vous plaît ! C'est urgent.",
           "pronunciation": "ay-DAY mwah, seel voo PLEH! seh tur-ZHAHN",
           "formality": "urgent",
-          "cultural_note": "Emergency number in France is 112 (European) or 15 (medical), 17 (police), 18 (fire). All work from any phone."
+          "cultural_note": "Emergency number in France is 112 (European) or 15 (medical), 17 (police), 18 (fire). All work from any phone.",
+          "responses": [
+            {
+              "french": "J'appelle les secours tout de suite !",
+              "english": "I'm calling for help right away!",
+              "phonetic": "zhah-PEL lay suh-KOOR too duh SWEET"
+            },
+            {
+              "french": "Qu'est-ce qui s'est passé ?",
+              "english": "What happened?",
+              "phonetic": "kess kee seh pah-SAY"
+            }
+          ]
         }
       ],
       "vocabulary": [
-        { "word_en": "Yes", "word_local": "Oui", "pronunciation": "wee" },
-        { "word_en": "No", "word_local": "Non", "pronunciation": "nohn" },
-        { "word_en": "Hello", "word_local": "Bonjour", "pronunciation": "bohn-ZHOOR" },
-        { "word_en": "Goodbye", "word_local": "Au revoir", "pronunciation": "oh ruh-VWAHR" },
-        { "word_en": "Sorry", "word_local": "Pardon", "pronunciation": "par-DOHN" },
-        { "word_en": "How much?", "word_local": "Combien ?", "pronunciation": "kohm-BYEHN" },
-        { "word_en": "Left", "word_local": "À gauche", "pronunciation": "ah GOHSH" },
-        { "word_en": "Right", "word_local": "À droite", "pronunciation": "ah DRWAHT" }
+        {
+          "word_en": "Yes",
+          "word_local": "Oui",
+          "pronunciation": "wee"
+        },
+        {
+          "word_en": "No",
+          "word_local": "Non",
+          "pronunciation": "nohn"
+        },
+        {
+          "word_en": "Hello",
+          "word_local": "Bonjour",
+          "pronunciation": "bohn-ZHOOR"
+        },
+        {
+          "word_en": "Goodbye",
+          "word_local": "Au revoir",
+          "pronunciation": "oh ruh-VWAHR"
+        },
+        {
+          "word_en": "Sorry",
+          "word_local": "Pardon",
+          "pronunciation": "par-DOHN"
+        },
+        {
+          "word_en": "How much?",
+          "word_local": "Combien ?",
+          "pronunciation": "kohm-BYEHN"
+        },
+        {
+          "word_en": "Left",
+          "word_local": "À gauche",
+          "pronunciation": "ah GOHSH"
+        },
+        {
+          "word_en": "Right",
+          "word_local": "À droite",
+          "pronunciation": "ah DRWAHT"
+        }
       ]
     },
     {
@@ -70,7 +172,24 @@
           "text_local": "Un café, s'il vous plaît.",
           "pronunciation": "uhn ka-FAY, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "In France, 'un café' means an espresso by default. Ask for 'un café allongé' if you want a longer coffee."
+          "cultural_note": "In France, 'un café' means an espresso by default. Ask for 'un café allongé' if you want a longer coffee.",
+          "responses": [
+            {
+              "french": "Tout de suite !",
+              "english": "Right away!",
+              "phonetic": "too duh SWEET"
+            },
+            {
+              "french": "Avec du sucre ?",
+              "english": "With sugar?",
+              "phonetic": "ah-VEK doo SOO-kruh"
+            },
+            {
+              "french": "Vous prenez autre chose ?",
+              "english": "Would you like anything else?",
+              "phonetic": "voo pruh-NAY oh-truh SHOZE"
+            }
+          ]
         },
         {
           "id": "cafe_002",
@@ -78,7 +197,19 @@
           "text_local": "L'addition, s'il vous plaît.",
           "pronunciation": "la-dee-SYOHN, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "In French cafés, the server will never bring the bill unless you ask. It's not rude — they're giving you space to enjoy your time."
+          "cultural_note": "In French cafés, the server will never bring the bill unless you ask. It's not rude — they're giving you space to enjoy your time.",
+          "responses": [
+            {
+              "french": "Bien sûr, je vous l'apporte tout de suite.",
+              "english": "Of course, I'll bring it right away.",
+              "phonetic": "byan SOOR, zhuh voo lah-PORT too duh SWEET"
+            },
+            {
+              "french": "Vous payez par carte ou en espèces ?",
+              "english": "Are you paying by card or cash?",
+              "phonetic": "voo pay-YAY par KART oo on es-PES"
+            }
+          ]
         },
         {
           "id": "cafe_003",
@@ -86,7 +217,19 @@
           "text_local": "Excusez-moi, cette table est libre ?",
           "pronunciation": "ex-koo-ZAY mwah, set TAHBL eh LEEBR",
           "formality": "polite",
-          "cultural_note": "Always greet or excuse yourself before asking. Jumping straight to a question is considered impolite."
+          "cultural_note": "Always greet or excuse yourself before asking. Jumping straight to a question is considered impolite.",
+          "responses": [
+            {
+              "french": "Oui, elle est libre, installez-vous.",
+              "english": "Yes, it's free — make yourself comfortable.",
+              "phonetic": "wee, el eh LEEBR, ahn-stah-LAY voo"
+            },
+            {
+              "french": "Désolé, elle est réservée.",
+              "english": "Sorry, it's reserved.",
+              "phonetic": "day-zoh-LAY, el eh ray-zair-VAY"
+            }
+          ]
         },
         {
           "id": "cafe_004",
@@ -94,7 +237,19 @@
           "text_local": "Un café crème, s'il vous plaît.",
           "pronunciation": "uhn ka-FAY KREM, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "A 'café crème' is the closest to a latte. Ordering a 'café au lait' is fine too but sounds more old-fashioned."
+          "cultural_note": "A 'café crème' is the closest to a latte. Ordering a 'café au lait' is fine too but sounds more old-fashioned.",
+          "responses": [
+            {
+              "french": "Grand ou petit ?",
+              "english": "Large or small?",
+              "phonetic": "grahn oo puh-TEE"
+            },
+            {
+              "french": "Tout de suite, voilà.",
+              "english": "Right away, here you go.",
+              "phonetic": "too duh SWEET, vwah-LAH"
+            }
+          ]
         },
         {
           "id": "cafe_005",
@@ -102,18 +257,62 @@
           "text_local": "Un verre d'eau, s'il vous plaît.",
           "pronunciation": "uhn VAIR DOH, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "Tap water is free by law in France when you order something. Just ask — no need to buy bottled water."
+          "cultural_note": "Tap water is free by law in France when you order something. Just ask — no need to buy bottled water.",
+          "responses": [
+            {
+              "french": "Du robinet, ça vous va ?",
+              "english": "Tap water, is that OK?",
+              "phonetic": "doo roh-bee-NEH, sah voo VAH"
+            },
+            {
+              "french": "Vous préférez plate ou gazeuse ?",
+              "english": "Do you prefer still or sparkling?",
+              "phonetic": "voo pray-fay-RAY PLAHT oo gah-ZUHZ"
+            }
+          ]
         }
       ],
       "vocabulary": [
-        { "word_en": "Espresso", "word_local": "Un café", "pronunciation": "uhn ka-FAY" },
-        { "word_en": "Tea", "word_local": "Un thé", "pronunciation": "uhn TAY" },
-        { "word_en": "Hot chocolate", "word_local": "Un chocolat chaud", "pronunciation": "uhn shoh-koh-LAH SHOH" },
-        { "word_en": "Water", "word_local": "De l'eau", "pronunciation": "duh LOH" },
-        { "word_en": "Beer", "word_local": "Une bière", "pronunciation": "oon bee-AIR" },
-        { "word_en": "White wine", "word_local": "Un vin blanc", "pronunciation": "uhn vahn BLAHN" },
-        { "word_en": "Red wine", "word_local": "Un vin rouge", "pronunciation": "uhn vahn ROOZH" },
-        { "word_en": "The bill", "word_local": "L'addition", "pronunciation": "la-dee-SYOHN" }
+        {
+          "word_en": "Espresso",
+          "word_local": "Un café",
+          "pronunciation": "uhn ka-FAY"
+        },
+        {
+          "word_en": "Tea",
+          "word_local": "Un thé",
+          "pronunciation": "uhn TAY"
+        },
+        {
+          "word_en": "Hot chocolate",
+          "word_local": "Un chocolat chaud",
+          "pronunciation": "uhn shoh-koh-LAH SHOH"
+        },
+        {
+          "word_en": "Water",
+          "word_local": "De l'eau",
+          "pronunciation": "duh LOH"
+        },
+        {
+          "word_en": "Beer",
+          "word_local": "Une bière",
+          "pronunciation": "oon bee-AIR"
+        },
+        {
+          "word_en": "White wine",
+          "word_local": "Un vin blanc",
+          "pronunciation": "uhn vahn BLAHN"
+        },
+        {
+          "word_en": "Red wine",
+          "word_local": "Un vin rouge",
+          "pronunciation": "uhn vahn ROOZH"
+        },
+        {
+          "word_en": "The bill",
+          "word_local": "L'addition",
+          "pronunciation": "la-dee-SYOHN"
+        }
       ]
     },
     {
@@ -128,7 +327,24 @@
           "text_local": "Une bière pression, s'il vous plaît.",
           "pronunciation": "oon bee-AIR preh-SYOHN, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "'Pression' means draft beer. You can also say 'un demi' for a standard half-pint glass."
+          "cultural_note": "'Pression' means draft beer. You can also say 'un demi' for a standard half-pint glass.",
+          "responses": [
+            {
+              "french": "Un demi ou une pinte ?",
+              "english": "A half or a pint?",
+              "phonetic": "uhn duh-MEE oo oon PENT"
+            },
+            {
+              "french": "On a la Kronenbourg et la Heineken en pression.",
+              "english": "We have Kronenbourg and Heineken on tap.",
+              "phonetic": "ohn ah lah kroh-nahn-BOOR ay lah ay-neh-KEN ahn preh-SYOHN"
+            },
+            {
+              "french": "Voilà, bonne dégustation !",
+              "english": "Here you go, enjoy!",
+              "phonetic": "vwah-LAH, bon day-gews-tah-SYOHN"
+            }
+          ]
         },
         {
           "id": "bar_002",
@@ -136,7 +352,19 @@
           "text_local": "Un verre de vin rouge, s'il vous plaît.",
           "pronunciation": "uhn VAIR duh vahn ROOZH, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "Replace 'rouge' with 'blanc' (white) or 'rosé'. Ordering by the glass ('au verre') is common and affordable."
+          "cultural_note": "Replace 'rouge' with 'blanc' (white) or 'rosé'. Ordering by the glass ('au verre') is common and affordable.",
+          "responses": [
+            {
+              "french": "On a un bon Bordeaux ce soir.",
+              "english": "We have a nice Bordeaux tonight.",
+              "phonetic": "ohn ah uhn bohn bor-DOH suh SWAHR"
+            },
+            {
+              "french": "Vous préférez quelque chose de léger ou de corsé ?",
+              "english": "Do you prefer something light or full-bodied?",
+              "phonetic": "voo pray-fay-RAY kel-kuh SHOZE duh lay-ZHAY oo duh kor-SAY"
+            }
+          ]
         },
         {
           "id": "bar_003",
@@ -144,7 +372,19 @@
           "text_local": "Qu'est-ce que vous avez en pression ?",
           "pronunciation": "kess kuh vooz ah-VAY ahn preh-SYOHN",
           "formality": "polite",
-          "cultural_note": "French bars often have a mix of local and international beers on tap. The bartender may point to the taps."
+          "cultural_note": "French bars often have a mix of local and international beers on tap. The bartender may point to the taps.",
+          "responses": [
+            {
+              "french": "On a la Leffe, la 1664 et la Guinness.",
+              "english": "We have Leffe, 1664, and Guinness.",
+              "phonetic": "ohn ah lah LEF, lah say-zohn swah-sahnT-KAT-ruh ay lah gih-NES"
+            },
+            {
+              "french": "Il y a deux bières : blonde et ambrée.",
+              "english": "There are two beers: lager and amber.",
+              "phonetic": "eel ee ah DUH bee-AIR: BLOHND ay ahm-BRAY"
+            }
+          ]
         },
         {
           "id": "bar_004",
@@ -152,7 +392,19 @@
           "text_local": "Vous faites des cocktails ?",
           "pronunciation": "voo FET day kok-TEL",
           "formality": "casual",
-          "cultural_note": "Not every bar makes cocktails. Traditional bars ('bars à vin') focus on wine. Look for 'bar à cocktails' for mixed drinks."
+          "cultural_note": "Not every bar makes cocktails. Traditional bars ('bars à vin') focus on wine. Look for 'bar à cocktails' for mixed drinks.",
+          "responses": [
+            {
+              "french": "Oui, voilà notre carte.",
+              "english": "Yes, here's our menu.",
+              "phonetic": "wee, vwah-LAH noh-truh KART"
+            },
+            {
+              "french": "Non, on fait surtout des vins et des bières.",
+              "english": "No, we mainly do wines and beers.",
+              "phonetic": "nohn, ohn feh soor-TOO day VAHN ay day bee-AIR"
+            }
+          ]
         },
         {
           "id": "bar_005",
@@ -160,18 +412,62 @@
           "text_local": "L'addition, s'il vous plaît.",
           "pronunciation": "la-dee-SYOHN, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "You typically pay when you leave, not per drink. Tipping is not expected but rounding up is appreciated."
+          "cultural_note": "You typically pay when you leave, not per drink. Tipping is not expected but rounding up is appreciated.",
+          "responses": [
+            {
+              "french": "Ça fait dix-huit euros en tout.",
+              "english": "That's eighteen euros in total.",
+              "phonetic": "sah feh dee-ZWEET ZUH-roh ahn TOO"
+            },
+            {
+              "french": "Vous payez par carte ou en liquide ?",
+              "english": "Card or cash?",
+              "phonetic": "voo pay-YAY par KART oo ahn lee-KEED"
+            }
+          ]
         }
       ],
       "vocabulary": [
-        { "word_en": "Draft beer", "word_local": "Une pression", "pronunciation": "oon preh-SYOHN" },
-        { "word_en": "Half pint", "word_local": "Un demi", "pronunciation": "uhn duh-MEE" },
-        { "word_en": "Red wine", "word_local": "Vin rouge", "pronunciation": "vahn ROOZH" },
-        { "word_en": "White wine", "word_local": "Vin blanc", "pronunciation": "vahn BLAHN" },
-        { "word_en": "Rosé", "word_local": "Rosé", "pronunciation": "roh-ZAY" },
-        { "word_en": "Cocktail", "word_local": "Un cocktail", "pronunciation": "uhn kok-TEL" },
-        { "word_en": "Cheers!", "word_local": "Santé !", "pronunciation": "sahn-TAY" },
-        { "word_en": "Happy hour", "word_local": "L'happy hour", "pronunciation": "lah-PEE OOR" }
+        {
+          "word_en": "Draft beer",
+          "word_local": "Une pression",
+          "pronunciation": "oon preh-SYOHN"
+        },
+        {
+          "word_en": "Half pint",
+          "word_local": "Un demi",
+          "pronunciation": "uhn duh-MEE"
+        },
+        {
+          "word_en": "Red wine",
+          "word_local": "Vin rouge",
+          "pronunciation": "vahn ROOZH"
+        },
+        {
+          "word_en": "White wine",
+          "word_local": "Vin blanc",
+          "pronunciation": "vahn BLAHN"
+        },
+        {
+          "word_en": "Rosé",
+          "word_local": "Rosé",
+          "pronunciation": "roh-ZAY"
+        },
+        {
+          "word_en": "Cocktail",
+          "word_local": "Un cocktail",
+          "pronunciation": "uhn kok-TEL"
+        },
+        {
+          "word_en": "Cheers!",
+          "word_local": "Santé !",
+          "pronunciation": "sahn-TAY"
+        },
+        {
+          "word_en": "Happy hour",
+          "word_local": "L'happy hour",
+          "pronunciation": "lah-PEE OOR"
+        }
       ]
     },
     {
@@ -186,7 +482,19 @@
           "text_local": "Bonjour !",
           "pronunciation": "bohn-ZHOOR",
           "formality": "standard",
-          "cultural_note": "Always say 'Bonjour' when entering any shop in France. Not greeting is considered very rude."
+          "cultural_note": "Always say 'Bonjour' when entering any shop in France. Not greeting is considered very rude.",
+          "responses": [
+            {
+              "french": "Bonjour ! Qu'est-ce que je vous sers ?",
+              "english": "Hello! What can I get you?",
+              "phonetic": "bohn-ZHOOR! kess kuh zhuh voo SAIR"
+            },
+            {
+              "french": "Bonjour, j'arrive !",
+              "english": "Hello, I'll be right with you!",
+              "phonetic": "bohn-ZHOOR, zhah-REEV"
+            }
+          ]
         },
         {
           "id": "bakery_002",
@@ -194,7 +502,19 @@
           "text_local": "Une baguette tradition, s'il vous plaît.",
           "pronunciation": "oon ba-GET tra-dee-SYOHN, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "A 'baguette tradition' is made with a more traditional recipe and is generally preferred over a regular 'baguette'."
+          "cultural_note": "A 'baguette tradition' is made with a more traditional recipe and is generally preferred over a regular 'baguette'.",
+          "responses": [
+            {
+              "french": "Bien cuite ou pas trop cuite ?",
+              "english": "Well done or lightly baked?",
+              "phonetic": "byehn KWEET oo pah troh KWEET"
+            },
+            {
+              "french": "Voilà, elle sort du four.",
+              "english": "Here you go, it's just out of the oven.",
+              "phonetic": "vwah-LAH, el sor doo FOOR"
+            }
+          ]
         },
         {
           "id": "bakery_003",
@@ -202,7 +522,24 @@
           "text_local": "Je voudrais un croissant, s'il vous plaît.",
           "pronunciation": "zhuh voo-DREH uhn kwah-SAHN, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "'Je voudrais' (I would like) is more polite than 'Je veux' (I want). Use it in shops and restaurants."
+          "cultural_note": "'Je voudrais' (I would like) is more polite than 'Je veux' (I want). Use it in shops and restaurants.",
+          "responses": [
+            {
+              "french": "Beurre ou nature ?",
+              "english": "Butter or plain?",
+              "phonetic": "BUHR oo nah-TOOR"
+            },
+            {
+              "french": "Il m'en reste deux, les voilà.",
+              "english": "I have two left, here they are.",
+              "phonetic": "eel mahn REST DUH, lay vwah-LAH"
+            },
+            {
+              "french": "Désolé, il n'y en a plus.",
+              "english": "Sorry, we're all out.",
+              "phonetic": "day-zoh-LAY, eel nyahn ah PLOO"
+            }
+          ]
         },
         {
           "id": "bakery_004",
@@ -210,7 +547,19 @@
           "text_local": "C'est combien ?",
           "pronunciation": "seh kohm-BYEHN",
           "formality": "casual",
-          "cultural_note": "Perfectly acceptable in a bakery. For more formal settings, use 'Quel est le prix ?' instead."
+          "cultural_note": "Perfectly acceptable in a bakery. For more formal settings, use 'Quel est le prix ?' instead.",
+          "responses": [
+            {
+              "french": "C'est un euro vingt.",
+              "english": "That's one euro twenty.",
+              "phonetic": "seh uhn ZUH-roh VAHN"
+            },
+            {
+              "french": "Deux euros cinquante pour les deux.",
+              "english": "Two euros fifty for both.",
+              "phonetic": "DUH ZUH-roh sahn-KAHNT poor lay DUH"
+            }
+          ]
         },
         {
           "id": "bakery_005",
@@ -218,18 +567,62 @@
           "text_local": "Merci, au revoir !",
           "pronunciation": "mair-SEE, oh ruh-VWAHR",
           "formality": "standard",
-          "cultural_note": "Always say goodbye when leaving a shop. 'Merci, bonne journée' (thank you, have a good day) is even friendlier."
+          "cultural_note": "Always say goodbye when leaving a shop. 'Merci, bonne journée' (thank you, have a good day) is even friendlier.",
+          "responses": [
+            {
+              "french": "Merci à vous, bonne journée !",
+              "english": "Thank you, have a good day!",
+              "phonetic": "mair-SEE ah voo, bon zhoor-NAY"
+            },
+            {
+              "french": "Au revoir, bonne dégustation !",
+              "english": "Goodbye, enjoy!",
+              "phonetic": "oh ruh-VWAHR, bon day-gews-tah-SYOHN"
+            }
+          ]
         }
       ],
       "vocabulary": [
-        { "word_en": "Baguette", "word_local": "Une baguette", "pronunciation": "oon ba-GET" },
-        { "word_en": "Croissant", "word_local": "Un croissant", "pronunciation": "uhn kwah-SAHN" },
-        { "word_en": "Pain au chocolat", "word_local": "Un pain au chocolat", "pronunciation": "uhn pahn oh shoh-koh-LAH" },
-        { "word_en": "Pastry", "word_local": "Une viennoiserie", "pronunciation": "oon vee-en-wah-ZREE" },
-        { "word_en": "Bread loaf", "word_local": "Un pain", "pronunciation": "uhn PAHN" },
-        { "word_en": "Cake / Tart", "word_local": "Une tarte", "pronunciation": "oon TART" },
-        { "word_en": "Slice", "word_local": "Une tranche", "pronunciation": "oon TRAHNSH" },
-        { "word_en": "Well done (baked)", "word_local": "Bien cuite", "pronunciation": "byehn KWEET" }
+        {
+          "word_en": "Baguette",
+          "word_local": "Une baguette",
+          "pronunciation": "oon ba-GET"
+        },
+        {
+          "word_en": "Croissant",
+          "word_local": "Un croissant",
+          "pronunciation": "uhn kwah-SAHN"
+        },
+        {
+          "word_en": "Pain au chocolat",
+          "word_local": "Un pain au chocolat",
+          "pronunciation": "uhn pahn oh shoh-koh-LAH"
+        },
+        {
+          "word_en": "Pastry",
+          "word_local": "Une viennoiserie",
+          "pronunciation": "oon vee-en-wah-ZREE"
+        },
+        {
+          "word_en": "Bread loaf",
+          "word_local": "Un pain",
+          "pronunciation": "uhn PAHN"
+        },
+        {
+          "word_en": "Cake / Tart",
+          "word_local": "Une tarte",
+          "pronunciation": "oon TART"
+        },
+        {
+          "word_en": "Slice",
+          "word_local": "Une tranche",
+          "pronunciation": "oon TRAHNSH"
+        },
+        {
+          "word_en": "Well done (baked)",
+          "word_local": "Bien cuite",
+          "pronunciation": "byehn KWEET"
+        }
       ]
     },
     {
@@ -244,7 +637,24 @@
           "text_local": "Bonjour, une table pour deux, s'il vous plaît.",
           "pronunciation": "bohn-ZHOOR, oon TAHBL poor DUH, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "Always greet with 'Bonjour' before making any request. Specify the number of guests."
+          "cultural_note": "Always greet with 'Bonjour' before making any request. Specify the number of guests.",
+          "responses": [
+            {
+              "french": "Oui, par ici s'il vous plaît.",
+              "english": "Yes, this way please.",
+              "phonetic": "wee, par ee-SEE seel voo PLEH"
+            },
+            {
+              "french": "Vous avez une réservation ?",
+              "english": "Do you have a reservation?",
+              "phonetic": "vooz ah-VAY oon ray-zair-vah-SYOHN"
+            },
+            {
+              "french": "Désolé, nous sommes complets ce soir.",
+              "english": "Sorry, we're fully booked tonight.",
+              "phonetic": "day-zoh-LAY, noo SOM kohm-PLEH suh SWAHR"
+            }
+          ]
         },
         {
           "id": "restaurant_002",
@@ -252,7 +662,19 @@
           "text_local": "La carte, s'il vous plaît.",
           "pronunciation": "lah KART, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "In France, 'le menu' usually means a fixed-price set meal. 'La carte' is the full à-la-carte menu."
+          "cultural_note": "In France, 'le menu' usually means a fixed-price set meal. 'La carte' is the full à-la-carte menu.",
+          "responses": [
+            {
+              "french": "Voilà la carte.",
+              "english": "Here is the menu.",
+              "phonetic": "vwah-LAH lah KART"
+            },
+            {
+              "french": "Vous avez aussi un menu du jour à quinze euros.",
+              "english": "We also have a set menu today for fifteen euros.",
+              "phonetic": "vooz ah-VAY oh-SEE uhn muh-NOO doo ZHOOR ah KANZ ZUH-roh"
+            }
+          ]
         },
         {
           "id": "restaurant_003",
@@ -260,7 +682,24 @@
           "text_local": "Quel est le plat du jour ?",
           "pronunciation": "kel eh luh PLAH doo ZHOOR",
           "formality": "polite",
-          "cultural_note": "The 'plat du jour' is usually the freshest, best-value option and changes daily."
+          "cultural_note": "The 'plat du jour' is usually the freshest, best-value option and changes daily.",
+          "responses": [
+            {
+              "french": "Aujourd'hui c'est un magret de canard.",
+              "english": "Today it's duck breast.",
+              "phonetic": "oh-zhoor-DWEE seh uhn mah-GREH duh kah-NAR"
+            },
+            {
+              "french": "On a un saumon grillé avec des légumes.",
+              "english": "We have grilled salmon with vegetables.",
+              "phonetic": "ohn ah uhn soh-MOHN gree-YAY ah-VEK day lay-GOOM"
+            },
+            {
+              "french": "Ça vous intéresse ?",
+              "english": "Does that interest you?",
+              "phonetic": "sah vooz ahn-tay-RES"
+            }
+          ]
         },
         {
           "id": "restaurant_004",
@@ -268,7 +707,24 @@
           "text_local": "Je suis allergique aux noix.",
           "pronunciation": "zhuh swee ah-lair-ZHEEK oh NWAH",
           "formality": "polite",
-          "cultural_note": "Replace 'noix' with your specific allergen. Common ones: gluten, lait (milk), œufs (eggs)."
+          "cultural_note": "Replace 'noix' with your specific allergen. Common ones: gluten, lait (milk), œufs (eggs).",
+          "responses": [
+            {
+              "french": "D'accord, je vais vérifier avec la cuisine.",
+              "english": "OK, I'll check with the kitchen.",
+              "phonetic": "dah-KOR, zhuh veh vay-ree-FYAY ah-VEK lah kwee-ZEEN"
+            },
+            {
+              "french": "Ce plat contient des noix, je vous déconseille.",
+              "english": "This dish contains nuts, I'd advise against it.",
+              "phonetic": "suh PLAH kohn-TYEHN day NWAH, zhuh voo day-kohn-SAY"
+            },
+            {
+              "french": "Pas de problème, on peut adapter.",
+              "english": "No problem, we can adapt it.",
+              "phonetic": "pah duh proh-BLEM, ohn PUH ah-dahp-TAY"
+            }
+          ]
         },
         {
           "id": "restaurant_005",
@@ -276,7 +732,19 @@
           "text_local": "Une carafe d'eau, s'il vous plaît.",
           "pronunciation": "oon ka-RAF DOH, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "Tap water is free in restaurants. Ask for 'une carafe d'eau' — they'll bring a pitcher. No need to buy bottled."
+          "cultural_note": "Tap water is free in restaurants. Ask for 'une carafe d'eau' — they'll bring a pitcher. No need to buy bottled.",
+          "responses": [
+            {
+              "french": "Bien sûr, tout de suite.",
+              "english": "Of course, right away.",
+              "phonetic": "byan SOOR, too duh SWEET"
+            },
+            {
+              "french": "Vous préférez de l'eau en bouteille ?",
+              "english": "Would you prefer bottled water?",
+              "phonetic": "voo pray-fay-RAY duh LOH ahn boo-TAY"
+            }
+          ]
         },
         {
           "id": "restaurant_006",
@@ -284,7 +752,24 @@
           "text_local": "L'addition, s'il vous plaît.",
           "pronunciation": "la-dee-SYOHN, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "The server won't bring the bill until you ask. Tipping is not expected — service is included ('service compris')."
+          "cultural_note": "The server won't bring the bill until you ask. Tipping is not expected — service is included ('service compris').",
+          "responses": [
+            {
+              "french": "Bien sûr, je vous l'apporte tout de suite.",
+              "english": "Of course, I'll bring it right away.",
+              "phonetic": "byan SOOR, zhuh voo lah-PORT too duh SWEET"
+            },
+            {
+              "french": "Vous payez ensemble ou séparément ?",
+              "english": "Are you paying together or separately?",
+              "phonetic": "voo pay-YAY ahn-SAHM-bluh oo say-pah-ray-MAHN"
+            },
+            {
+              "french": "C'est quatre-vingt-deux euros.",
+              "english": "That's eighty-two euros.",
+              "phonetic": "seh KAT-ruh-vahn-DUH ZUH-roh"
+            }
+          ]
         },
         {
           "id": "restaurant_007",
@@ -292,21 +777,82 @@
           "text_local": "Je suis végétarien.",
           "pronunciation": "zhuh swee vay-zhay-tah-RYEHN",
           "formality": "polite",
-          "cultural_note": "Add 'ne' for feminine: 'végétarienne'. For vegan, say 'végan'. France is increasingly vegetarian-friendly."
+          "cultural_note": "Add 'ne' for feminine: 'végétarienne'. For vegan, say 'végan'. France is increasingly vegetarian-friendly.",
+          "responses": [
+            {
+              "french": "Pas de problème, on a plusieurs options.",
+              "english": "No problem, we have several options.",
+              "phonetic": "pah duh proh-BLEM, ohn ah ploo-ZYUHR op-SYOHN"
+            },
+            {
+              "french": "Voici les plats sans viande.",
+              "english": "Here are the dishes without meat.",
+              "phonetic": "vwah-SEE lay PLAH sahn VYAHND"
+            },
+            {
+              "french": "Vous mangez du poisson ?",
+              "english": "Do you eat fish?",
+              "phonetic": "voo mahn-ZHAY doo pwah-SOHN"
+            }
+          ]
         }
       ],
       "vocabulary": [
-        { "word_en": "Starter", "word_local": "Une entrée", "pronunciation": "oon ahn-TRAY" },
-        { "word_en": "Main course", "word_local": "Le plat principal", "pronunciation": "luh PLAH prahn-see-PAL" },
-        { "word_en": "Dessert", "word_local": "Le dessert", "pronunciation": "luh deh-SAIR" },
-        { "word_en": "Wine list", "word_local": "La carte des vins", "pronunciation": "lah KART day VAHN" },
-        { "word_en": "Rare (meat)", "word_local": "Saignant", "pronunciation": "sen-YAHN" },
-        { "word_en": "Medium", "word_local": "À point", "pronunciation": "ah PWAHN" },
-        { "word_en": "Well done", "word_local": "Bien cuit", "pronunciation": "byehn KWEE" },
-        { "word_en": "Tap water", "word_local": "Une carafe d'eau", "pronunciation": "oon ka-RAF DOH" },
-        { "word_en": "Still water", "word_local": "Eau plate", "pronunciation": "oh PLAHT" },
-        { "word_en": "Sparkling water", "word_local": "Eau gazeuse", "pronunciation": "oh gah-ZUHZ" },
-        { "word_en": "The tip", "word_local": "Le pourboire", "pronunciation": "luh poor-BWAHR" }
+        {
+          "word_en": "Starter",
+          "word_local": "Une entrée",
+          "pronunciation": "oon ahn-TRAY"
+        },
+        {
+          "word_en": "Main course",
+          "word_local": "Le plat principal",
+          "pronunciation": "luh PLAH prahn-see-PAL"
+        },
+        {
+          "word_en": "Dessert",
+          "word_local": "Le dessert",
+          "pronunciation": "luh deh-SAIR"
+        },
+        {
+          "word_en": "Wine list",
+          "word_local": "La carte des vins",
+          "pronunciation": "lah KART day VAHN"
+        },
+        {
+          "word_en": "Rare (meat)",
+          "word_local": "Saignant",
+          "pronunciation": "sen-YAHN"
+        },
+        {
+          "word_en": "Medium",
+          "word_local": "À point",
+          "pronunciation": "ah PWAHN"
+        },
+        {
+          "word_en": "Well done",
+          "word_local": "Bien cuit",
+          "pronunciation": "byehn KWEE"
+        },
+        {
+          "word_en": "Tap water",
+          "word_local": "Une carafe d'eau",
+          "pronunciation": "oon ka-RAF DOH"
+        },
+        {
+          "word_en": "Still water",
+          "word_local": "Eau plate",
+          "pronunciation": "oh PLAHT"
+        },
+        {
+          "word_en": "Sparkling water",
+          "word_local": "Eau gazeuse",
+          "pronunciation": "oh gah-ZUHZ"
+        },
+        {
+          "word_en": "The tip",
+          "word_local": "Le pourboire",
+          "pronunciation": "luh poor-BWAHR"
+        }
       ]
     },
     {
@@ -321,7 +867,19 @@
           "text_local": "Où est l'enregistrement, s'il vous plaît ?",
           "pronunciation": "oo eh lahn-reh-zhees-truh-MAHN, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "French airports use 'enregistrement' for check-in. Signs may also say 'Comptoirs d'enregistrement'."
+          "cultural_note": "French airports use 'enregistrement' for check-in. Signs may also say 'Comptoirs d'enregistrement'.",
+          "responses": [
+            {
+              "french": "C'est au terminal deux, niveau un.",
+              "english": "It's at terminal two, level one.",
+              "phonetic": "seh oh tair-mee-NAL DUH, nee-VOH UHN"
+            },
+            {
+              "french": "Suivez les panneaux 'Départs'.",
+              "english": "Follow the 'Departures' signs.",
+              "phonetic": "swee-VAY lay pah-NOH day-PAR"
+            }
+          ]
         },
         {
           "id": "airport_002",
@@ -329,7 +887,19 @@
           "text_local": "Où est la porte d'embarquement ?",
           "pronunciation": "oo eh lah PORT dahm-bark-MAHN",
           "formality": "polite",
-          "cultural_note": "'Porte' means gate. Boarding is called 'embarquement'. Screens showing gates are 'écrans d'affichage'."
+          "cultural_note": "'Porte' means gate. Boarding is called 'embarquement'. Screens showing gates are 'écrans d'affichage'.",
+          "responses": [
+            {
+              "french": "La porte K41 est au bout du couloir à droite.",
+              "english": "Gate K41 is at the end of the corridor on the right.",
+              "phonetic": "lah PORT kah kah-RAHNT-ahn-UHN eh oh BOO doo koo-LWAHR ah DRWAHT"
+            },
+            {
+              "french": "Vérifiez sur les écrans, la porte peut changer.",
+              "english": "Check the screens — the gate may change.",
+              "phonetic": "vay-ree-FYAY soor lay zay-KRAHN, lah PORT puh shahn-ZHAY"
+            }
+          ]
         },
         {
           "id": "airport_003",
@@ -337,7 +907,19 @@
           "text_local": "Ma valise n'est pas arrivée.",
           "pronunciation": "mah vah-LEEZ neh pah ah-ree-VAY",
           "formality": "polite",
-          "cultural_note": "Head to 'Livraison des bagages' (baggage claim) and find the airline desk. Have your luggage tag ready."
+          "cultural_note": "Head to 'Livraison des bagages' (baggage claim) and find the airline desk. Have your luggage tag ready.",
+          "responses": [
+            {
+              "french": "Vous avez votre numéro de vol et l'étiquette de bagage ?",
+              "english": "Do you have your flight number and baggage tag?",
+              "phonetic": "vooz ah-VAY voh-truh noo-MAY-roh duh VOL ay lay-tee-KET duh ba-GAZH"
+            },
+            {
+              "french": "Remplissez ce formulaire, on va retrouver votre valise.",
+              "english": "Fill in this form — we'll track down your bag.",
+              "phonetic": "rahn-plee-SAY suh for-moo-LAIR, ohn vah ruh-troo-VAY voh-truh vah-LEEZ"
+            }
+          ]
         },
         {
           "id": "airport_004",
@@ -345,7 +927,24 @@
           "text_local": "Comment aller au centre-ville ?",
           "pronunciation": "koh-MAHN ah-LAY oh SAHN-truh VEEL",
           "formality": "polite",
-          "cultural_note": "From CDG: RER B train to Paris (~35 min). From Orly: Orlyval + RER B or tramway T7. Cheaper than taxis."
+          "cultural_note": "From CDG: RER B train to Paris (~35 min). From Orly: Orlyval + RER B or tramway T7. Cheaper than taxis.",
+          "responses": [
+            {
+              "french": "Prenez le RER B, c'est le plus rapide.",
+              "english": "Take the RER B — it's the fastest.",
+              "phonetic": "pruh-NAY luh air-uh-air BAY, seh luh ploo rah-PEED"
+            },
+            {
+              "french": "Il y a aussi la navette, c'est plus confortable.",
+              "english": "There's also the shuttle — it's more comfortable.",
+              "phonetic": "eel ee ah oh-SEE lah nah-VET, seh ploo kohn-for-TAHBL"
+            },
+            {
+              "french": "En taxi comptez environ cinquante euros.",
+              "english": "By taxi expect around fifty euros.",
+              "phonetic": "ahn tak-SEE kohm-TAY ahn-vee-ROHN sahn-KAHNT ZUH-roh"
+            }
+          ]
         },
         {
           "id": "airport_005",
@@ -353,18 +952,62 @@
           "text_local": "Le vol est en retard ?",
           "pronunciation": "luh VOL eh tahn ruh-TAR",
           "formality": "casual",
-          "cultural_note": "'Retardé' means delayed, 'annulé' means cancelled. Check the 'écrans d'affichage' (departure screens) for updates."
+          "cultural_note": "'Retardé' means delayed, 'annulé' means cancelled. Check the 'écrans d'affichage' (departure screens) for updates.",
+          "responses": [
+            {
+              "french": "Oui, il a une heure de retard.",
+              "english": "Yes, it's delayed by one hour.",
+              "phonetic": "wee, eel ah oon UHR duh ruh-TAR"
+            },
+            {
+              "french": "Pour l'instant il est à l'heure, mais surveillez les écrans.",
+              "english": "For now it's on time, but keep an eye on the screens.",
+              "phonetic": "poor lahn-STAHN eel eh tah LUHR, meh soor-vay-YAY lay zay-KRAHN"
+            }
+          ]
         }
       ],
       "vocabulary": [
-        { "word_en": "Flight", "word_local": "Le vol", "pronunciation": "luh VOL" },
-        { "word_en": "Gate", "word_local": "La porte", "pronunciation": "lah PORT" },
-        { "word_en": "Boarding", "word_local": "L'embarquement", "pronunciation": "lahm-bark-MAHN" },
-        { "word_en": "Luggage", "word_local": "Les bagages", "pronunciation": "lay ba-GAZH" },
-        { "word_en": "Passport", "word_local": "Le passeport", "pronunciation": "luh pass-POR" },
-        { "word_en": "Customs", "word_local": "La douane", "pronunciation": "lah DWAHN" },
-        { "word_en": "Delayed", "word_local": "En retard", "pronunciation": "ahn ruh-TAR" },
-        { "word_en": "Cancelled", "word_local": "Annulé", "pronunciation": "ah-noo-LAY" }
+        {
+          "word_en": "Flight",
+          "word_local": "Le vol",
+          "pronunciation": "luh VOL"
+        },
+        {
+          "word_en": "Gate",
+          "word_local": "La porte",
+          "pronunciation": "lah PORT"
+        },
+        {
+          "word_en": "Boarding",
+          "word_local": "L'embarquement",
+          "pronunciation": "lahm-bark-MAHN"
+        },
+        {
+          "word_en": "Luggage",
+          "word_local": "Les bagages",
+          "pronunciation": "lay ba-GAZH"
+        },
+        {
+          "word_en": "Passport",
+          "word_local": "Le passeport",
+          "pronunciation": "luh pass-POR"
+        },
+        {
+          "word_en": "Customs",
+          "word_local": "La douane",
+          "pronunciation": "lah DWAHN"
+        },
+        {
+          "word_en": "Delayed",
+          "word_local": "En retard",
+          "pronunciation": "ahn ruh-TAR"
+        },
+        {
+          "word_en": "Cancelled",
+          "word_local": "Annulé",
+          "pronunciation": "ah-noo-LAY"
+        }
       ]
     },
     {
@@ -379,7 +1022,24 @@
           "text_local": "Un billet pour Lyon, s'il vous plaît.",
           "pronunciation": "uhn bee-YEH poor lee-OHN, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "Replace 'Lyon' with your destination. 'Aller simple' means one-way; 'aller-retour' means round-trip."
+          "cultural_note": "Replace 'Lyon' with your destination. 'Aller simple' means one-way; 'aller-retour' means round-trip.",
+          "responses": [
+            {
+              "french": "Aller simple ou aller-retour ?",
+              "english": "One-way or round trip?",
+              "phonetic": "ah-LAY SAMPL oo ah-LAY ruh-TOOR"
+            },
+            {
+              "french": "Pour quelle date ?",
+              "english": "For which date?",
+              "phonetic": "poor kel DAT"
+            },
+            {
+              "french": "Première ou deuxième classe ?",
+              "english": "First or second class?",
+              "phonetic": "pruh-MYAIR oo DUH-zyem KLASS"
+            }
+          ]
         },
         {
           "id": "train_002",
@@ -387,7 +1047,19 @@
           "text_local": "C'est quel quai, s'il vous plaît ?",
           "pronunciation": "seh kel KAY, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "'Quai' means platform. Departure boards are called 'tableau des départs'."
+          "cultural_note": "'Quai' means platform. Departure boards are called 'tableau des départs'.",
+          "responses": [
+            {
+              "french": "C'est le quai numéro cinq.",
+              "english": "It's platform number five.",
+              "phonetic": "seh luh KAY noo-MAY-roh SANK"
+            },
+            {
+              "french": "Regardez le tableau des départs.",
+              "english": "Check the departures board.",
+              "phonetic": "ruh-gar-DAY luh tah-BLOH day day-PAR"
+            }
+          ]
         },
         {
           "id": "train_003",
@@ -395,7 +1067,19 @@
           "text_local": "Le train est à l'heure ?",
           "pronunciation": "luh TREHN eh tah LUHR",
           "formality": "casual",
-          "cultural_note": "'En retard' means delayed. French trains (TGV/TER) are generally punctual."
+          "cultural_note": "'En retard' means delayed. French trains (TGV/TER) are generally punctual.",
+          "responses": [
+            {
+              "french": "Oui, il est à l'heure.",
+              "english": "Yes, it's on time.",
+              "phonetic": "wee, eel eh tah LUHR"
+            },
+            {
+              "french": "Il a dix minutes de retard.",
+              "english": "It's ten minutes late.",
+              "phonetic": "eel ah dee mee-NOOT duh ruh-TAR"
+            }
+          ]
         },
         {
           "id": "train_004",
@@ -403,7 +1087,19 @@
           "text_local": "C'est bien le train pour Lyon ?",
           "pronunciation": "seh byehn luh TREHN poor lee-OHN",
           "formality": "casual",
-          "cultural_note": "Replace 'Lyon' with your destination. Ask anyone on the platform — people are usually happy to confirm."
+          "cultural_note": "Replace 'Lyon' with your destination. Ask anyone on the platform — people are usually happy to confirm.",
+          "responses": [
+            {
+              "french": "Oui, c'est bien ça.",
+              "english": "Yes, that's right.",
+              "phonetic": "wee, seh byehn SAH"
+            },
+            {
+              "french": "Non, le train pour Lyon c'est le suivant.",
+              "english": "No, the Lyon train is the next one.",
+              "phonetic": "nohn, luh TREHN poor lee-OHN seh luh swee-VAHN"
+            }
+          ]
         },
         {
           "id": "train_005",
@@ -411,18 +1107,62 @@
           "text_local": "Où est-ce que je composte mon billet ?",
           "pronunciation": "oo ess kuh zhuh kohm-POST mohn bee-YEH",
           "formality": "polite",
-          "cultural_note": "Regional TER tickets must be composted (validated) before boarding. Look for yellow machines on the platform."
+          "cultural_note": "Regional TER tickets must be composted (validated) before boarding. Look for yellow machines on the platform.",
+          "responses": [
+            {
+              "french": "Les machines jaunes sont sur le quai.",
+              "english": "The yellow machines are on the platform.",
+              "phonetic": "lay mah-SHEEN ZHOHN sohn soor luh KAY"
+            },
+            {
+              "french": "Vous avez un billet TGV ? Pas besoin de composter.",
+              "english": "Do you have a TGV ticket? No need to validate.",
+              "phonetic": "vooz ah-VAY uhn bee-YEH tay-zhay-VAY? pah buh-ZWAHN duh kohm-pos-TAY"
+            }
+          ]
         }
       ],
       "vocabulary": [
-        { "word_en": "Ticket", "word_local": "Un billet", "pronunciation": "uhn bee-YEH" },
-        { "word_en": "Platform", "word_local": "Le quai", "pronunciation": "luh KAY" },
-        { "word_en": "One-way", "word_local": "Aller simple", "pronunciation": "ah-LAY SAMPL" },
-        { "word_en": "Round-trip", "word_local": "Aller-retour", "pronunciation": "ah-LAY ruh-TOOR" },
-        { "word_en": "Departure", "word_local": "Le départ", "pronunciation": "luh day-PAR" },
-        { "word_en": "Arrival", "word_local": "L'arrivée", "pronunciation": "lah-ree-VAY" },
-        { "word_en": "Connection", "word_local": "La correspondance", "pronunciation": "lah koh-res-pohn-DAHNSS" },
-        { "word_en": "Track / Rail", "word_local": "La voie", "pronunciation": "lah VWAH" }
+        {
+          "word_en": "Ticket",
+          "word_local": "Un billet",
+          "pronunciation": "uhn bee-YEH"
+        },
+        {
+          "word_en": "Platform",
+          "word_local": "Le quai",
+          "pronunciation": "luh KAY"
+        },
+        {
+          "word_en": "One-way",
+          "word_local": "Aller simple",
+          "pronunciation": "ah-LAY SAMPL"
+        },
+        {
+          "word_en": "Round-trip",
+          "word_local": "Aller-retour",
+          "pronunciation": "ah-LAY ruh-TOOR"
+        },
+        {
+          "word_en": "Departure",
+          "word_local": "Le départ",
+          "pronunciation": "luh day-PAR"
+        },
+        {
+          "word_en": "Arrival",
+          "word_local": "L'arrivée",
+          "pronunciation": "lah-ree-VAY"
+        },
+        {
+          "word_en": "Connection",
+          "word_local": "La correspondance",
+          "pronunciation": "lah koh-res-pohn-DAHNSS"
+        },
+        {
+          "word_en": "Track / Rail",
+          "word_local": "La voie",
+          "pronunciation": "lah VWAH"
+        }
       ]
     },
     {
@@ -437,7 +1177,19 @@
           "text_local": "Quelle ligne pour aller à Montmartre ?",
           "pronunciation": "kel LEEN-yuh poor ah-LAY ah mohn-MARTR",
           "formality": "polite",
-          "cultural_note": "Replace 'Montmartre' with your destination. Parisians are usually helpful if you look at the map and ask."
+          "cultural_note": "Replace 'Montmartre' with your destination. Parisians are usually helpful if you look at the map and ask.",
+          "responses": [
+            {
+              "french": "Prenez la ligne deux, direction Nation.",
+              "english": "Take line 2, direction Nation.",
+              "phonetic": "pruh-NAY lah LEEN-yuh DUH, dee-rek-SYOHN nah-SYOHN"
+            },
+            {
+              "french": "C'est direct, pas besoin de changer.",
+              "english": "It's direct — no need to change.",
+              "phonetic": "seh dee-REKT, pah buh-ZWAHN duh shahn-ZHAY"
+            }
+          ]
         },
         {
           "id": "metro_002",
@@ -445,7 +1197,19 @@
           "text_local": "Où est-ce que je peux acheter un ticket ?",
           "pronunciation": "oo ess kuh zhuh PUH ash-TAY uhn tee-KAY",
           "formality": "polite",
-          "cultural_note": "Paris uses the Navigo Easy card (rechargeable). Paper tickets are being phased out. Buy at machines or counters."
+          "cultural_note": "Paris uses the Navigo Easy card (rechargeable). Paper tickets are being phased out. Buy at machines or counters.",
+          "responses": [
+            {
+              "french": "Il y a des bornes automatiques juste là.",
+              "english": "There are ticket machines right over there.",
+              "phonetic": "eel ee ah day BORN oh-toh-mah-TEEK zhoos LAH"
+            },
+            {
+              "french": "Vous pouvez aussi acheter en ligne sur l'appli.",
+              "english": "You can also buy online on the app.",
+              "phonetic": "voo poo-VAY oh-SEE ash-TAY ahn LEEN-yuh soor lah-PLEE"
+            }
+          ]
         },
         {
           "id": "metro_003",
@@ -453,7 +1217,19 @@
           "text_local": "C'est bien la direction La Défense ?",
           "pronunciation": "seh byehn lah dee-rek-SYOHN lah day-FAHNSS",
           "formality": "casual",
-          "cultural_note": "Metro lines are identified by their end stations. Check the terminus name on the platform to confirm direction."
+          "cultural_note": "Metro lines are identified by their end stations. Check the terminus name on the platform to confirm direction.",
+          "responses": [
+            {
+              "french": "Oui, c'est la bonne direction.",
+              "english": "Yes, that's the right direction.",
+              "phonetic": "wee, seh lah BON dee-rek-SYOHN"
+            },
+            {
+              "french": "Non, il faut prendre le quai d'en face.",
+              "english": "No, you need the platform on the other side.",
+              "phonetic": "nohn, eel foh prahndr luh KAY dahn FAHSS"
+            }
+          ]
         },
         {
           "id": "metro_004",
@@ -461,7 +1237,19 @@
           "text_local": "C'est quoi le prochain arrêt ?",
           "pronunciation": "seh kwah luh proh-SHEHN ah-REH",
           "formality": "casual",
-          "cultural_note": "Most metros announce stops automatically. On buses, press the red 'Arrêt demandé' button before your stop."
+          "cultural_note": "Most metros announce stops automatically. On buses, press the red 'Arrêt demandé' button before your stop.",
+          "responses": [
+            {
+              "french": "Le prochain arrêt c'est Opéra.",
+              "english": "The next stop is Opéra.",
+              "phonetic": "luh proh-SHEHN ah-REH seh oh-pay-RAH"
+            },
+            {
+              "french": "Dans deux stations vous arrivez à Châtelet.",
+              "english": "In two stops you'll be at Châtelet.",
+              "phonetic": "dahn DUH stah-SYOHN vooz ah-ree-VAY ah SHAH-tleh"
+            }
+          ]
         },
         {
           "id": "metro_005",
@@ -469,18 +1257,62 @@
           "text_local": "Ce métro va bien à Châtelet ?",
           "pronunciation": "suh MAY-troh vah byehn ah SHAH-tleh",
           "formality": "casual",
-          "cultural_note": "Replace 'Châtelet' with your stop. A nod or 'oui' is all you need. Check the line terminus on platform signs."
+          "cultural_note": "Replace 'Châtelet' with your stop. A nod or 'oui' is all you need. Check the line terminus on platform signs.",
+          "responses": [
+            {
+              "french": "Oui, c'est dans trois arrêts.",
+              "english": "Yes, it's three stops away.",
+              "phonetic": "wee, seh dahn TRWAH ah-REH"
+            },
+            {
+              "french": "Non, descendez et prenez la ligne quatre.",
+              "english": "No, get off and take line 4.",
+              "phonetic": "nohn, day-sahn-DAY ay pruh-NAY lah LEEN-yuh KATR"
+            }
+          ]
         }
       ],
       "vocabulary": [
-        { "word_en": "Line", "word_local": "La ligne", "pronunciation": "lah LEEN-yuh" },
-        { "word_en": "Stop", "word_local": "L'arrêt", "pronunciation": "lah-REH" },
-        { "word_en": "Transfer", "word_local": "La correspondance", "pronunciation": "lah koh-res-pohn-DAHNSS" },
-        { "word_en": "Exit", "word_local": "La sortie", "pronunciation": "lah sor-TEE" },
-        { "word_en": "Direction", "word_local": "La direction", "pronunciation": "lah dee-rek-SYOHN" },
-        { "word_en": "Ticket", "word_local": "Le ticket", "pronunciation": "luh tee-KAY" },
-        { "word_en": "Map", "word_local": "Le plan", "pronunciation": "luh PLAHN" },
-        { "word_en": "Last train", "word_local": "Le dernier métro", "pronunciation": "luh dair-NYAY MAY-troh" }
+        {
+          "word_en": "Line",
+          "word_local": "La ligne",
+          "pronunciation": "lah LEEN-yuh"
+        },
+        {
+          "word_en": "Stop",
+          "word_local": "L'arrêt",
+          "pronunciation": "lah-REH"
+        },
+        {
+          "word_en": "Transfer",
+          "word_local": "La correspondance",
+          "pronunciation": "lah koh-res-pohn-DAHNSS"
+        },
+        {
+          "word_en": "Exit",
+          "word_local": "La sortie",
+          "pronunciation": "lah sor-TEE"
+        },
+        {
+          "word_en": "Direction",
+          "word_local": "La direction",
+          "pronunciation": "lah dee-rek-SYOHN"
+        },
+        {
+          "word_en": "Ticket",
+          "word_local": "Le ticket",
+          "pronunciation": "luh tee-KAY"
+        },
+        {
+          "word_en": "Map",
+          "word_local": "Le plan",
+          "pronunciation": "luh PLAHN"
+        },
+        {
+          "word_en": "Last train",
+          "word_local": "Le dernier métro",
+          "pronunciation": "luh dair-NYAY MAY-troh"
+        }
       ]
     },
     {
@@ -495,7 +1327,24 @@
           "text_local": "Bonjour, j'ai une réservation au nom de…",
           "pronunciation": "bohn-ZHOOR, zhay oon ray-zer-vah-SYOHN oh NOHM duh…",
           "formality": "polite",
-          "cultural_note": "Have your booking confirmation ready. Most hotels will ask for your passport at check-in."
+          "cultural_note": "Have your booking confirmation ready. Most hotels will ask for your passport at check-in.",
+          "responses": [
+            {
+              "french": "Votre passeport, s'il vous plaît.",
+              "english": "Your passport, please.",
+              "phonetic": "VOH-truh pass-POR, seel voo PLEH"
+            },
+            {
+              "french": "Votre chambre est la deux cent trois, au deuxième étage.",
+              "english": "Your room is 203, on the second floor.",
+              "phonetic": "VOH-truh SHAHMBRUH eh lah DUH sahn TRWAH, oh DUH-zyem ay-TAZH"
+            },
+            {
+              "french": "Le petit-déjeuner est servi de sept heures à dix heures.",
+              "english": "Breakfast is served from 7 to 10.",
+              "phonetic": "luh puh-TEE day-zhuh-NAY eh sair-VEE duh SET UHR ah DEE UHR"
+            }
+          ]
         },
         {
           "id": "hotel_002",
@@ -503,7 +1352,19 @@
           "text_local": "Quel est le mot de passe du Wi-Fi ?",
           "pronunciation": "kel eh luh MOH duh PASS doo wee-FEE",
           "formality": "polite",
-          "cultural_note": "Wi-Fi is pronounced 'wee-fee' in French, not 'why-fye'."
+          "cultural_note": "Wi-Fi is pronounced 'wee-fee' in French, not 'why-fye'.",
+          "responses": [
+            {
+              "french": "Le mot de passe est écrit sur cette carte.",
+              "english": "The password is written on this card.",
+              "phonetic": "luh MOH duh PASS eh ay-KREE soor set KART"
+            },
+            {
+              "french": "C'est 'Paris2024', tout en minuscules.",
+              "english": "It's 'Paris2024', all lowercase.",
+              "phonetic": "seh pah-REE duh-meel-vahn-vahn-KAT, too tahn mee-noos-KOOL"
+            }
+          ]
         },
         {
           "id": "hotel_003",
@@ -511,7 +1372,24 @@
           "text_local": "Est-ce qu'un départ tardif est possible ?",
           "pronunciation": "ess kuh uhn day-PAR tar-DEEF eh poh-SEEBL",
           "formality": "polite",
-          "cultural_note": "Standard checkout is usually 11:00. Ask politely — many hotels will accommodate if rooms are available."
+          "cultural_note": "Standard checkout is usually 11:00. Ask politely — many hotels will accommodate if rooms are available.",
+          "responses": [
+            {
+              "french": "Oui, on peut vous garder jusqu'à midi sans supplément.",
+              "english": "Yes, we can keep you until noon at no extra charge.",
+              "phonetic": "wee, ohn puh voo gar-DAY zhoos-KAH mee-DEE sahn soo-play-MAHN"
+            },
+            {
+              "french": "Désolé, la chambre est réservée ce matin.",
+              "english": "Sorry, the room is booked from this morning.",
+              "phonetic": "day-zoh-LAY, lah SHAHMBRUH eh ray-zair-VAY suh mah-TAHN"
+            },
+            {
+              "french": "Un départ tardif à quatorze heures coûte vingt euros.",
+              "english": "A late checkout at 2pm costs twenty euros.",
+              "phonetic": "uhn day-PAR tar-DEEF ah kah-TORZ UHR koot VAHN ZUH-roh"
+            }
+          ]
         },
         {
           "id": "hotel_004",
@@ -519,7 +1397,19 @@
           "text_local": "Le petit-déjeuner est à quelle heure ?",
           "pronunciation": "luh puh-TEE day-zhuh-NAY eh tah kel UHR",
           "formality": "polite",
-          "cultural_note": "Hotel breakfast is usually 7:00–10:00. 'Petit-déjeuner inclus' means breakfast is included in your rate."
+          "cultural_note": "Hotel breakfast is usually 7:00–10:00. 'Petit-déjeuner inclus' means breakfast is included in your rate.",
+          "responses": [
+            {
+              "french": "De sept heures à dix heures, salle au rez-de-chaussée.",
+              "english": "From 7 to 10, dining room on the ground floor.",
+              "phonetic": "duh SET UHR ah DEE ZUHr, sal oh ray-duh-shoh-SAY"
+            },
+            {
+              "french": "Il est inclus dans votre réservation.",
+              "english": "It's included in your booking.",
+              "phonetic": "eel eh ahn-KLOO dahn voh-truh ray-zair-vah-SYOHN"
+            }
+          ]
         },
         {
           "id": "hotel_005",
@@ -527,18 +1417,67 @@
           "text_local": "Il y a un problème dans la chambre.",
           "pronunciation": "eel ee ah uhn prob-LEM dahn lah SHAHMBRUH",
           "formality": "polite",
-          "cultural_note": "Point or gesture to show the issue. Common problems: 'la climatisation' (AC), 'l'eau chaude' (hot water), 'la serrure' (lock)."
+          "cultural_note": "Point or gesture to show the issue. Common problems: 'la climatisation' (AC), 'l'eau chaude' (hot water), 'la serrure' (lock).",
+          "responses": [
+            {
+              "french": "Je vous envoie quelqu'un tout de suite.",
+              "english": "I'll send someone right away.",
+              "phonetic": "zhuh vooz ahn-VWAH kel-KUHN too duh SWEET"
+            },
+            {
+              "french": "C'est quel problème exactement ?",
+              "english": "What's the problem exactly?",
+              "phonetic": "seh kel proh-BLEM eg-zak-tuh-MAHN"
+            },
+            {
+              "french": "On peut vous changer de chambre si vous voulez.",
+              "english": "We can move you to another room if you'd like.",
+              "phonetic": "ohn puh voo shahn-ZHAY duh SHAHMBRUH see voo voo-LAY"
+            }
+          ]
         }
       ],
       "vocabulary": [
-        { "word_en": "Room", "word_local": "La chambre", "pronunciation": "lah SHAHMBRUH" },
-        { "word_en": "Key", "word_local": "La clé", "pronunciation": "lah KLAY" },
-        { "word_en": "Breakfast", "word_local": "Le petit-déjeuner", "pronunciation": "luh puh-TEE day-zhuh-NAY" },
-        { "word_en": "Elevator", "word_local": "L'ascenseur", "pronunciation": "lah-sahn-SUHR" },
-        { "word_en": "Floor (level)", "word_local": "L'étage", "pronunciation": "lay-TAZH" },
-        { "word_en": "Towel", "word_local": "Une serviette", "pronunciation": "oon sair-vee-ET" },
-        { "word_en": "Reception", "word_local": "La réception", "pronunciation": "lah ray-sep-SYOHN" },
-        { "word_en": "Reservation", "word_local": "La réservation", "pronunciation": "lah ray-zer-vah-SYOHN" }
+        {
+          "word_en": "Room",
+          "word_local": "La chambre",
+          "pronunciation": "lah SHAHMBRUH"
+        },
+        {
+          "word_en": "Key",
+          "word_local": "La clé",
+          "pronunciation": "lah KLAY"
+        },
+        {
+          "word_en": "Breakfast",
+          "word_local": "Le petit-déjeuner",
+          "pronunciation": "luh puh-TEE day-zhuh-NAY"
+        },
+        {
+          "word_en": "Elevator",
+          "word_local": "L'ascenseur",
+          "pronunciation": "lah-sahn-SUHR"
+        },
+        {
+          "word_en": "Floor (level)",
+          "word_local": "L'étage",
+          "pronunciation": "lay-TAZH"
+        },
+        {
+          "word_en": "Towel",
+          "word_local": "Une serviette",
+          "pronunciation": "oon sair-vee-ET"
+        },
+        {
+          "word_en": "Reception",
+          "word_local": "La réception",
+          "pronunciation": "lah ray-sep-SYOHN"
+        },
+        {
+          "word_en": "Reservation",
+          "word_local": "La réservation",
+          "pronunciation": "lah ray-zer-vah-SYOHN"
+        }
       ]
     },
     {
@@ -553,7 +1492,24 @@
           "text_local": "Un billet adulte, s'il vous plaît.",
           "pronunciation": "uhn bee-YEH ah-DOOLT, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "Many French museums offer reduced rates ('tarif réduit') for students, seniors, and EU residents under 26."
+          "cultural_note": "Many French museums offer reduced rates ('tarif réduit') for students, seniors, and EU residents under 26.",
+          "responses": [
+            {
+              "french": "Ça fait dix-sept euros.",
+              "english": "That's seventeen euros.",
+              "phonetic": "sah feh dee-SET ZUH-roh"
+            },
+            {
+              "french": "Vous avez une carte étudiant ?",
+              "english": "Do you have a student card?",
+              "phonetic": "vooz ah-VAY oon KART ay-too-DYAHN"
+            },
+            {
+              "french": "L'entrée est gratuite le premier dimanche du mois.",
+              "english": "Entry is free on the first Sunday of the month.",
+              "phonetic": "lahn-TRAY eh grah-TWEET luh pruh-MYAY dee-MAHNSH doo MWAH"
+            }
+          ]
         },
         {
           "id": "museum_002",
@@ -561,7 +1517,19 @@
           "text_local": "Est-ce qu'on peut prendre des photos ?",
           "pronunciation": "ess kohn PUH prahndr day FOH-toh",
           "formality": "polite",
-          "cultural_note": "Most museums allow photos without flash. Look for the crossed-out camera icon. Flash and tripods are usually banned."
+          "cultural_note": "Most museums allow photos without flash. Look for the crossed-out camera icon. Flash and tripods are usually banned.",
+          "responses": [
+            {
+              "french": "Oui, sans flash et sans trépied.",
+              "english": "Yes, without flash and without a tripod.",
+              "phonetic": "wee, sahn FLASH ay sahn tray-PYAY"
+            },
+            {
+              "french": "Dans cette salle, les photos sont interdites.",
+              "english": "In this room, photos are not allowed.",
+              "phonetic": "dahn set SAL, lay FOH-toh sohn ahn-tair-DEET"
+            }
+          ]
         },
         {
           "id": "museum_003",
@@ -569,7 +1537,19 @@
           "text_local": "Vous avez un audioguide en anglais ?",
           "pronunciation": "vooz ah-VAY uhn oh-dee-oh-GEED ahn ahn-GLEH",
           "formality": "polite",
-          "cultural_note": "Most major museums offer audio guides in English. Some now use free apps — ask 'Il y a une application ?' (Is there an app?)"
+          "cultural_note": "Most major museums offer audio guides in English. Some now use free apps — ask 'Il y a une application ?' (Is there an app?)",
+          "responses": [
+            {
+              "french": "Oui, c'est cinq euros de supplément.",
+              "english": "Yes, it's five euros extra.",
+              "phonetic": "wee, seh SANK ZUH-roh duh soo-play-MAHN"
+            },
+            {
+              "french": "On a aussi une appli gratuite, scannez ce QR code.",
+              "english": "We also have a free app — scan this QR code.",
+              "phonetic": "ohn ah oh-SEE oon ah-PLEE grah-TWEET, ska-NAY suh koo-ehr KOD"
+            }
+          ]
         },
         {
           "id": "museum_004",
@@ -577,18 +1557,62 @@
           "text_local": "Où se trouve la Joconde ?",
           "pronunciation": "oo suh TROOV lah zhoh-KOHND",
           "formality": "polite",
-          "cultural_note": "The Mona Lisa is called 'La Joconde' in French. Replace with whatever you're looking for. Staff are usually very helpful."
+          "cultural_note": "The Mona Lisa is called 'La Joconde' in French. Replace with whatever you're looking for. Staff are usually very helpful.",
+          "responses": [
+            {
+              "french": "Salle 711, aile Richelieu, premier étage.",
+              "english": "Room 711, Richelieu wing, first floor.",
+              "phonetic": "SAL set-sahn-ohnz, el ree-shuh-LYUH, pruh-MYAY ay-TAZH"
+            },
+            {
+              "french": "Suivez les flèches rouges, vous ne pouvez pas la rater.",
+              "english": "Follow the red arrows — you can't miss it.",
+              "phonetic": "swee-VAY lay FLESH ROOZH, voo nuh poo-VAY pah lah rah-TAY"
+            }
+          ]
         }
       ],
       "vocabulary": [
-        { "word_en": "Exhibit", "word_local": "L'exposition", "pronunciation": "lex-poh-zee-SYOHN" },
-        { "word_en": "Painting", "word_local": "Un tableau", "pronunciation": "uhn tah-BLOH" },
-        { "word_en": "Sculpture", "word_local": "Une sculpture", "pronunciation": "oon skoolp-TOOR" },
-        { "word_en": "Audio guide", "word_local": "L'audioguide", "pronunciation": "loh-dee-oh-GEED" },
-        { "word_en": "Gift shop", "word_local": "La boutique", "pronunciation": "lah boo-TEEK" },
-        { "word_en": "Reduced rate", "word_local": "Tarif réduit", "pronunciation": "ta-REEF ray-DWEE" },
-        { "word_en": "Cloakroom", "word_local": "Le vestiaire", "pronunciation": "luh ves-tee-AIR" },
-        { "word_en": "Guided tour", "word_local": "La visite guidée", "pronunciation": "lah vee-ZEET gee-DAY" }
+        {
+          "word_en": "Exhibit",
+          "word_local": "L'exposition",
+          "pronunciation": "lex-poh-zee-SYOHN"
+        },
+        {
+          "word_en": "Painting",
+          "word_local": "Un tableau",
+          "pronunciation": "uhn tah-BLOH"
+        },
+        {
+          "word_en": "Sculpture",
+          "word_local": "Une sculpture",
+          "pronunciation": "oon skoolp-TOOR"
+        },
+        {
+          "word_en": "Audio guide",
+          "word_local": "L'audioguide",
+          "pronunciation": "loh-dee-oh-GEED"
+        },
+        {
+          "word_en": "Gift shop",
+          "word_local": "La boutique",
+          "pronunciation": "lah boo-TEEK"
+        },
+        {
+          "word_en": "Reduced rate",
+          "word_local": "Tarif réduit",
+          "pronunciation": "ta-REEF ray-DWEE"
+        },
+        {
+          "word_en": "Cloakroom",
+          "word_local": "Le vestiaire",
+          "pronunciation": "luh ves-tee-AIR"
+        },
+        {
+          "word_en": "Guided tour",
+          "word_local": "La visite guidée",
+          "pronunciation": "lah vee-ZEET gee-DAY"
+        }
       ]
     },
     {
@@ -603,7 +1627,19 @@
           "text_local": "Excusez-moi, où est le rayon eau ?",
           "pronunciation": "ex-koo-ZAY mwah, oo eh luh ray-OHN OH",
           "formality": "polite",
-          "cultural_note": "'Rayon' means aisle/section. Common ones: 'fruits et légumes' (produce), 'boulangerie' (bread), 'boissons' (drinks)."
+          "cultural_note": "'Rayon' means aisle/section. Common ones: 'fruits et légumes' (produce), 'boulangerie' (bread), 'boissons' (drinks).",
+          "responses": [
+            {
+              "french": "C'est allée quatre, au fond à droite.",
+              "english": "It's aisle four, at the back on the right.",
+              "phonetic": "seh ah-LAY KATR, oh FOHN ah DRWAHT"
+            },
+            {
+              "french": "Je ne travaille pas ici, désolé.",
+              "english": "I don't work here, sorry.",
+              "phonetic": "zhuh nuh trah-VY pah ee-SEE, day-zoh-LAY"
+            }
+          ]
         },
         {
           "id": "supermarket_002",
@@ -611,7 +1647,19 @@
           "text_local": "Vous avez des sacs ?",
           "pronunciation": "vooz ah-VAY day SAK",
           "formality": "casual",
-          "cultural_note": "Plastic bags are banned in France. Bring your own or buy a reusable bag at the register (usually €0.10–€1)."
+          "cultural_note": "Plastic bags are banned in France. Bring your own or buy a reusable bag at the register (usually €0.10–€1).",
+          "responses": [
+            {
+              "french": "Oui, des sacs réutilisables à cinquante centimes.",
+              "english": "Yes, reusable bags for fifty cents.",
+              "phonetic": "wee, day SAK ray-oo-tee-lee-ZAHBL ah sahn-KAHNT sahn-TEEM"
+            },
+            {
+              "french": "Non, les sacs plastique sont interdits.",
+              "english": "No, plastic bags are banned.",
+              "phonetic": "nohn, lay SAK plah-STEEK sohn ahn-tair-DEE"
+            }
+          ]
         },
         {
           "id": "supermarket_003",
@@ -619,7 +1667,19 @@
           "text_local": "Je peux payer par carte ?",
           "pronunciation": "zhuh PUH pay-YAY par KART",
           "formality": "casual",
-          "cultural_note": "Card is widely accepted. Contactless ('sans contact') works for under €50. Some small shops have a minimum amount."
+          "cultural_note": "Card is widely accepted. Contactless ('sans contact') works for under €50. Some small shops have a minimum amount.",
+          "responses": [
+            {
+              "french": "Oui, sans contact jusqu'à cinquante euros.",
+              "english": "Yes, contactless up to fifty euros.",
+              "phonetic": "wee, sahn kohn-TAKT zhoos-KAH sahn-KAHNT ZUH-roh"
+            },
+            {
+              "french": "Désolé, carte seulement à partir de dix euros.",
+              "english": "Sorry, card only from ten euros.",
+              "phonetic": "day-zoh-LAY, KART suhl-MAHN ah par-TEER duh DEE ZUH-roh"
+            }
+          ]
         },
         {
           "id": "supermarket_004",
@@ -627,18 +1687,62 @@
           "text_local": "Je regarde, merci.",
           "pronunciation": "zhuh ruh-GARD, mair-SEE",
           "formality": "casual",
-          "cultural_note": "Useful if a shop assistant approaches you. It's polite but clearly signals you don't need help right now."
+          "cultural_note": "Useful if a shop assistant approaches you. It's polite but clearly signals you don't need help right now.",
+          "responses": [
+            {
+              "french": "Pas de souci, appelez-moi si vous avez besoin.",
+              "english": "No problem — call me if you need anything.",
+              "phonetic": "pah duh soo-SEE, ah-play-YAY mwah see vooz ah-VAY buh-ZWAHN"
+            },
+            {
+              "french": "D'accord, je suis là si vous avez une question.",
+              "english": "OK, I'm here if you have any questions.",
+              "phonetic": "dah-KOR, zhuh swee LAH see vooz ah-VAY oon kes-TYOHN"
+            }
+          ]
         }
       ],
       "vocabulary": [
-        { "word_en": "Water", "word_local": "L'eau", "pronunciation": "LOH" },
-        { "word_en": "Milk", "word_local": "Le lait", "pronunciation": "luh LEH" },
-        { "word_en": "Bread", "word_local": "Le pain", "pronunciation": "luh PAHN" },
-        { "word_en": "Cheese", "word_local": "Le fromage", "pronunciation": "luh froh-MAZH" },
-        { "word_en": "Fruit", "word_local": "Les fruits", "pronunciation": "lay FRWEE" },
-        { "word_en": "Vegetables", "word_local": "Les légumes", "pronunciation": "lay lay-GOOM" },
-        { "word_en": "Checkout", "word_local": "La caisse", "pronunciation": "lah KESS" },
-        { "word_en": "Bag", "word_local": "Un sac", "pronunciation": "uhn SAK" }
+        {
+          "word_en": "Water",
+          "word_local": "L'eau",
+          "pronunciation": "LOH"
+        },
+        {
+          "word_en": "Milk",
+          "word_local": "Le lait",
+          "pronunciation": "luh LEH"
+        },
+        {
+          "word_en": "Bread",
+          "word_local": "Le pain",
+          "pronunciation": "luh PAHN"
+        },
+        {
+          "word_en": "Cheese",
+          "word_local": "Le fromage",
+          "pronunciation": "luh froh-MAZH"
+        },
+        {
+          "word_en": "Fruit",
+          "word_local": "Les fruits",
+          "pronunciation": "lay FRWEE"
+        },
+        {
+          "word_en": "Vegetables",
+          "word_local": "Les légumes",
+          "pronunciation": "lay lay-GOOM"
+        },
+        {
+          "word_en": "Checkout",
+          "word_local": "La caisse",
+          "pronunciation": "lah KESS"
+        },
+        {
+          "word_en": "Bag",
+          "word_local": "Un sac",
+          "pronunciation": "uhn SAK"
+        }
       ]
     },
     {
@@ -653,7 +1757,24 @@
           "text_local": "Je ne me sens pas bien.",
           "pronunciation": "zhuh nuh muh SAHN pah BYEHN",
           "formality": "polite",
-          "cultural_note": "French pharmacists are trained to advise on minor ailments. They can often recommend treatment without a prescription."
+          "cultural_note": "French pharmacists are trained to advise on minor ailments. They can often recommend treatment without a prescription.",
+          "responses": [
+            {
+              "french": "Qu'est-ce qui ne va pas ?",
+              "english": "What's wrong?",
+              "phonetic": "kess kee nuh vah PAH"
+            },
+            {
+              "french": "Depuis combien de temps ?",
+              "english": "How long have you been feeling this way?",
+              "phonetic": "duh-PWEE kohm-BYEHN duh TAHN"
+            },
+            {
+              "french": "Vous avez de la fièvre ?",
+              "english": "Do you have a fever?",
+              "phonetic": "vooz ah-VAY duh lah fee-EVRUH"
+            }
+          ]
         },
         {
           "id": "pharmacy_002",
@@ -661,7 +1782,24 @@
           "text_local": "Vous avez quelque chose contre les maux de tête ?",
           "pronunciation": "vooz ah-VAY kel-kuh SHOZE kohntr lay MOH duh TET",
           "formality": "polite",
-          "cultural_note": "Common brands: Doliprane (paracetamol), Nurofen (ibuprofen). Pharmacists will ask about allergies."
+          "cultural_note": "Common brands: Doliprane (paracetamol), Nurofen (ibuprofen). Pharmacists will ask about allergies.",
+          "responses": [
+            {
+              "french": "Vous êtes allergique à quelque chose ?",
+              "english": "Are you allergic to anything?",
+              "phonetic": "vooz ET ah-lair-ZHEEK ah kel-kuh SHOZE"
+            },
+            {
+              "french": "Je vous conseille le Doliprane.",
+              "english": "I'd recommend Doliprane.",
+              "phonetic": "zhuh voo kohn-SAY luh doh-lee-PRAHN"
+            },
+            {
+              "french": "Prenez-en un toutes les six heures.",
+              "english": "Take one every six hours.",
+              "phonetic": "pruh-NAY ahn uhn toot lay SEE ZUHr"
+            }
+          ]
         },
         {
           "id": "pharmacy_003",
@@ -669,7 +1807,19 @@
           "text_local": "Je cherche de la crème solaire.",
           "pronunciation": "zhuh SHERSH duh lah KREM soh-LAIR",
           "formality": "polite",
-          "cultural_note": "French pharmacies stock high-quality sunscreens (La Roche-Posay, Avène). They're often cheaper there than in shops."
+          "cultural_note": "French pharmacies stock high-quality sunscreens (La Roche-Posay, Avène). They're often cheaper there than in shops.",
+          "responses": [
+            {
+              "french": "Quel indice vous voulez — trente, cinquante ou cent ?",
+              "english": "Which SPF do you want — 30, 50, or 100?",
+              "phonetic": "kel ahn-DEES voo voo-LAY — TRAHNT, sahn-KAHNT oo SAHN"
+            },
+            {
+              "french": "Voilà, la La Roche-Posay est très bien.",
+              "english": "Here you go — the La Roche-Posay is very good.",
+              "phonetic": "vwah-LAH, lah lah rosh-poh-ZAY eh treh BYEHN"
+            }
+          ]
         },
         {
           "id": "pharmacy_004",
@@ -677,7 +1827,24 @@
           "text_local": "J'ai mal au ventre. Vous avez quelque chose ?",
           "pronunciation": "zhay mal oh VAHNTRUH. vooz ah-VAY kel-kuh SHOZE",
           "formality": "polite",
-          "cultural_note": "The pharmacist will ask follow-up questions. Point to where it hurts. Smecta and Spasfon are common French remedies."
+          "cultural_note": "The pharmacist will ask follow-up questions. Point to where it hurts. Smecta and Spasfon are common French remedies.",
+          "responses": [
+            {
+              "french": "C'est plutôt des crampes ou de la nausée ?",
+              "english": "Is it more cramping or nausea?",
+              "phonetic": "seh ploo-TOH day KRAMP oo duh lah noh-ZAY"
+            },
+            {
+              "french": "Je vous donne du Smecta, c'est très efficace.",
+              "english": "I'll give you some Smecta — it's very effective.",
+              "phonetic": "zhuh voo DON doo SMEK-tah, seh treh ef-ee-KAS"
+            },
+            {
+              "french": "Vous avez mangé quelque chose de particulier ?",
+              "english": "Did you eat anything unusual?",
+              "phonetic": "vooz ah-VAY mahn-ZHAY kel-kuh SHOZE duh par-tee-koo-LYAY"
+            }
+          ]
         },
         {
           "id": "pharmacy_005",
@@ -685,18 +1852,62 @@
           "text_local": "J'ai un coup de soleil. Qu'est-ce que vous conseillez ?",
           "pronunciation": "zhay uhn KOO duh soh-LAY. kess kuh voo kohn-say-YAY",
           "formality": "polite",
-          "cultural_note": "Biafine is the go-to French sunburn cream — pharmacists will likely recommend it. Available without prescription."
+          "cultural_note": "Biafine is the go-to French sunburn cream — pharmacists will likely recommend it. Available without prescription.",
+          "responses": [
+            {
+              "french": "Je vous recommande la Biafine, appliquez-en souvent.",
+              "english": "I recommend Biafine — apply it often.",
+              "phonetic": "zhuh voo ruh-koh-MAHND lah byah-FEEN, ah-plee-KAY ahn soo-VAHN"
+            },
+            {
+              "french": "Évitez le soleil et buvez beaucoup d'eau.",
+              "english": "Avoid the sun and drink plenty of water.",
+              "phonetic": "ay-vee-TAY luh soh-LAY ay boo-VAY boh-KOO DOH"
+            }
+          ]
         }
       ],
       "vocabulary": [
-        { "word_en": "Medicine", "word_local": "Le médicament", "pronunciation": "luh may-dee-kah-MAHN" },
-        { "word_en": "Prescription", "word_local": "L'ordonnance", "pronunciation": "lor-doh-NAHNSS" },
-        { "word_en": "Pain", "word_local": "La douleur", "pronunciation": "lah doo-LUHR" },
-        { "word_en": "Fever", "word_local": "La fièvre", "pronunciation": "lah fee-EVRUH" },
-        { "word_en": "Cough", "word_local": "La toux", "pronunciation": "lah TOO" },
-        { "word_en": "Bandage", "word_local": "Un pansement", "pronunciation": "uhn pahn-SMAHN" },
-        { "word_en": "Allergy", "word_local": "Une allergie", "pronunciation": "oon ah-lair-ZHEE" },
-        { "word_en": "Stomach ache", "word_local": "Mal au ventre", "pronunciation": "mal oh VAHNTRUH" }
+        {
+          "word_en": "Medicine",
+          "word_local": "Le médicament",
+          "pronunciation": "luh may-dee-kah-MAHN"
+        },
+        {
+          "word_en": "Prescription",
+          "word_local": "L'ordonnance",
+          "pronunciation": "lor-doh-NAHNSS"
+        },
+        {
+          "word_en": "Pain",
+          "word_local": "La douleur",
+          "pronunciation": "lah doo-LUHR"
+        },
+        {
+          "word_en": "Fever",
+          "word_local": "La fièvre",
+          "pronunciation": "lah fee-EVRUH"
+        },
+        {
+          "word_en": "Cough",
+          "word_local": "La toux",
+          "pronunciation": "lah TOO"
+        },
+        {
+          "word_en": "Bandage",
+          "word_local": "Un pansement",
+          "pronunciation": "uhn pahn-SMAHN"
+        },
+        {
+          "word_en": "Allergy",
+          "word_local": "Une allergie",
+          "pronunciation": "oon ah-lair-ZHEE"
+        },
+        {
+          "word_en": "Stomach ache",
+          "word_local": "Mal au ventre",
+          "pronunciation": "mal oh VAHNTRUH"
+        }
       ]
     },
     {
@@ -711,7 +1922,24 @@
           "text_local": "À la gare du Nord, s'il vous plaît.",
           "pronunciation": "ah lah GAR doo NOR, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "Replace 'la gare du Nord' with your destination. Having the address written down helps if pronunciation is tricky."
+          "cultural_note": "Replace 'la gare du Nord' with your destination. Having the address written down helps if pronunciation is tricky.",
+          "responses": [
+            {
+              "french": "D'accord, montez.",
+              "english": "OK, get in.",
+              "phonetic": "dah-KOR, mohn-TAY"
+            },
+            {
+              "french": "Vous avez une adresse précise ?",
+              "english": "Do you have a specific address?",
+              "phonetic": "vooz ah-VAY oon ah-DRESS pray-SEEZ"
+            },
+            {
+              "french": "Ça fera environ vingt minutes.",
+              "english": "It'll be about twenty minutes.",
+              "phonetic": "sah fuh-RAH ahn-vee-ROHN vahn mee-NOOT"
+            }
+          ]
         },
         {
           "id": "taxi_002",
@@ -719,7 +1947,19 @@
           "text_local": "C'est à combien de temps ?",
           "pronunciation": "seh tah kohm-BYEHN duh TAHN",
           "formality": "casual",
-          "cultural_note": "Paris taxis use meters by law. Avoid unmarked cars offering rides at airports."
+          "cultural_note": "Paris taxis use meters by law. Avoid unmarked cars offering rides at airports.",
+          "responses": [
+            {
+              "french": "Environ vingt minutes, selon le trafic.",
+              "english": "About twenty minutes, depending on traffic.",
+              "phonetic": "ahn-vee-ROHN vahn mee-NOOT, suh-LOHN luh trah-FEEK"
+            },
+            {
+              "french": "Ce soir il y a pas mal de circulation.",
+              "english": "Tonight there's quite a bit of traffic.",
+              "phonetic": "suh SWAHR eel ee ah pah MAL duh seer-koo-lah-SYOHN"
+            }
+          ]
         },
         {
           "id": "taxi_003",
@@ -727,7 +1967,19 @@
           "text_local": "Vous prenez la carte bancaire ?",
           "pronunciation": "voo pruh-NAY lah KART bahn-KAIR",
           "formality": "polite",
-          "cultural_note": "Most taxis accept cards, but some smaller-town taxis may prefer cash. Always ask before the ride."
+          "cultural_note": "Most taxis accept cards, but some smaller-town taxis may prefer cash. Always ask before the ride.",
+          "responses": [
+            {
+              "french": "Oui, sans problème.",
+              "english": "Yes, no problem.",
+              "phonetic": "wee, sahn proh-BLEM"
+            },
+            {
+              "french": "Désolé, espèces seulement.",
+              "english": "Sorry, cash only.",
+              "phonetic": "day-zoh-LAY, es-PES suhl-MAHN"
+            }
+          ]
         },
         {
           "id": "taxi_004",
@@ -735,16 +1987,52 @@
           "text_local": "Arrêtez-vous ici, s'il vous plaît.",
           "pronunciation": "ah-reh-TAY voo ee-SEE, seel voo PLEH",
           "formality": "polite",
-          "cultural_note": "You can also point and say 'Ici, c'est parfait' (here is perfect). Taxis must drop you at a safe spot."
+          "cultural_note": "You can also point and say 'Ici, c'est parfait' (here is perfect). Taxis must drop you at a safe spot.",
+          "responses": [
+            {
+              "french": "D'accord, je m'arrête ici.",
+              "english": "OK, I'll stop here.",
+              "phonetic": "dah-KOR, zhuh mah-RET ee-SEE"
+            },
+            {
+              "french": "Ça fait vingt-deux euros.",
+              "english": "That's twenty-two euros.",
+              "phonetic": "sah feh vahn-DUH ZUH-roh"
+            }
+          ]
         }
       ],
       "vocabulary": [
-        { "word_en": "Address", "word_local": "L'adresse", "pronunciation": "lah-DRESS" },
-        { "word_en": "Meter", "word_local": "Le compteur", "pronunciation": "luh kohn-TUHR" },
-        { "word_en": "Receipt", "word_local": "Le reçu", "pronunciation": "luh ruh-SOO" },
-        { "word_en": "Trunk (boot)", "word_local": "Le coffre", "pronunciation": "luh KOFR" },
-        { "word_en": "Stop here", "word_local": "Arrêtez-vous ici", "pronunciation": "ah-reh-TAY voo ee-SEE" },
-        { "word_en": "Straight ahead", "word_local": "Tout droit", "pronunciation": "too DRWAH" }
+        {
+          "word_en": "Address",
+          "word_local": "L'adresse",
+          "pronunciation": "lah-DRESS"
+        },
+        {
+          "word_en": "Meter",
+          "word_local": "Le compteur",
+          "pronunciation": "luh kohn-TUHR"
+        },
+        {
+          "word_en": "Receipt",
+          "word_local": "Le reçu",
+          "pronunciation": "luh ruh-SOO"
+        },
+        {
+          "word_en": "Trunk (boot)",
+          "word_local": "Le coffre",
+          "pronunciation": "luh KOFR"
+        },
+        {
+          "word_en": "Stop here",
+          "word_local": "Arrêtez-vous ici",
+          "pronunciation": "ah-reh-TAY voo ee-SEE"
+        },
+        {
+          "word_en": "Straight ahead",
+          "word_local": "Tout droit",
+          "pronunciation": "too DRWAH"
+        }
       ]
     },
     {
@@ -759,7 +2047,19 @@
           "text_local": "Bonjour, j'ai une réservation pour la visite.",
           "pronunciation": "bon-ZHOOR, zhay ewn ray-zair-vah-SYON poor lah vee-ZEET",
           "formality": "polite",
-          "cultural_note": "Most major champagne houses and wineries require advance booking — don't show up without one in peak season."
+          "cultural_note": "Most major champagne houses and wineries require advance booking — don't show up without one in peak season.",
+          "responses": [
+            {
+              "french": "Bienvenue ! C'est à quel nom ?",
+              "english": "Welcome! What name is it under?",
+              "phonetic": "byehn-vuh-NOO! seh tah kel NOHN"
+            },
+            {
+              "french": "La visite commence dans dix minutes, installez-vous.",
+              "english": "The tour starts in ten minutes — make yourself comfortable.",
+              "phonetic": "lah vee-ZEET koh-MAHNSS dahn DEE mee-NOOT, ahn-stah-LAY voo"
+            }
+          ]
         },
         {
           "id": "winery_002",
@@ -767,7 +2067,19 @@
           "text_local": "La visite comprend une dégustation ?",
           "pronunciation": "lah vee-ZEET kom-PRON ewn day-gews-tah-SYON",
           "formality": "polite",
-          "cultural_note": "Most house tours include 1–2 glasses at the end. Premium tastings cost extra. Always confirm what's included before paying."
+          "cultural_note": "Most house tours include 1–2 glasses at the end. Premium tastings cost extra. Always confirm what's included before paying.",
+          "responses": [
+            {
+              "french": "Oui, deux verres sont inclus à la fin.",
+              "english": "Yes, two glasses are included at the end.",
+              "phonetic": "wee, DUH VAIR sohn ahn-KLOO ah lah FAHN"
+            },
+            {
+              "french": "Pour une dégustation premium c'est vingt euros de plus.",
+              "english": "For a premium tasting it's twenty euros extra.",
+              "phonetic": "poor oon day-gews-tah-SYOHN pray-MYOM seh VAHN ZUH-roh duh PLOO"
+            }
+          ]
         },
         {
           "id": "winery_003",
@@ -775,7 +2087,19 @@
           "text_local": "Il fait quelle température dans les caves ?",
           "pronunciation": "eel fay kel tem-pay-rah-TOOR don lay KAV",
           "formality": "polite",
-          "cultural_note": "Champagne cellars stay at around 10–12°C year-round. Bring a light layer even in summer — guides will often warn you, but it's easy to forget."
+          "cultural_note": "Champagne cellars stay at around 10–12°C year-round. Bring a light layer even in summer — guides will often warn you, but it's easy to forget.",
+          "responses": [
+            {
+              "french": "Il fait environ douze degrés, prenez une veste.",
+              "english": "It's about twelve degrees — bring a jacket.",
+              "phonetic": "eel feh ahn-vee-ROHN DOOZ duh-GRAY, pruh-NAY oon VEST"
+            },
+            {
+              "french": "On a des gilets à prêter si vous voulez.",
+              "english": "We have gilets to lend if you'd like.",
+              "phonetic": "ohn ah day zhee-LEH ah pray-TAY see voo voo-LAY"
+            }
+          ]
         },
         {
           "id": "winery_004",
@@ -783,7 +2107,19 @@
           "text_local": "Est-ce que je peux goûter un blanc de blancs ?",
           "pronunciation": "es-kuh zhuh puh goo-TAY un blon duh BLON",
           "formality": "polite",
-          "cultural_note": "Blanc de blancs = 100% Chardonnay (lighter, crisper). Blanc de noirs = made from red grapes Pinot Noir and/or Pinot Meunier (richer). Rosé = either blended or saignée method."
+          "cultural_note": "Blanc de blancs = 100% Chardonnay (lighter, crisper). Blanc de noirs = made from red grapes Pinot Noir and/or Pinot Meunier (richer). Rosé = either blended or saignée method.",
+          "responses": [
+            {
+              "french": "Bien sûr, c'est notre cuvée phare.",
+              "english": "Of course — it's our flagship cuvée.",
+              "phonetic": "byehn SOOR, seh noh-truh koo-VAY FAR"
+            },
+            {
+              "french": "On peut comparer avec le blanc de noirs si vous voulez.",
+              "english": "We can compare it with the blanc de noirs if you like.",
+              "phonetic": "ohn puh kohm-pah-RAY ah-VEK luh blon duh NWAHR see voo voo-LAY"
+            }
+          ]
         },
         {
           "id": "winery_005",
@@ -791,7 +2127,19 @@
           "text_local": "Est-ce que vous vendez à la propriété ?",
           "pronunciation": "es-kuh voo von-DAY ah lah proh-pree-ay-TAY",
           "formality": "polite",
-          "cultural_note": "Buying direct from the producer (à la propriété) is often cheaper and gives access to limited or older vintages not available in shops."
+          "cultural_note": "Buying direct from the producer (à la propriété) is often cheaper and gives access to limited or older vintages not available in shops.",
+          "responses": [
+            {
+              "french": "Oui, vous pouvez acheter en boutique après la visite.",
+              "english": "Yes, you can buy in the shop after the tour.",
+              "phonetic": "wee, voo poo-VAY ash-TAY ahn boo-TEEK ah-PREH lah vee-ZEET"
+            },
+            {
+              "french": "On expédie aussi à l'étranger si vous voulez.",
+              "english": "We also ship abroad if you'd like.",
+              "phonetic": "ohn ex-pay-DEE oh-SEE ah lay-trahn-ZHAY see voo voo-LAY"
+            }
+          ]
         },
         {
           "id": "winery_006",
@@ -799,7 +2147,19 @@
           "text_local": "C'est un millésimé ou un assemblage ?",
           "pronunciation": "say tun mee-lay-zee-MAY oo un ah-som-BLAHZH",
           "formality": "polite",
-          "cultural_note": "Millésimé = vintage (from a single exceptional year). Assemblage / non-vintage = a blend of multiple years for consistent style. Most champagne is non-vintage."
+          "cultural_note": "Millésimé = vintage (from a single exceptional year). Assemblage / non-vintage = a blend of multiple years for consistent style. Most champagne is non-vintage.",
+          "responses": [
+            {
+              "french": "C'est un assemblage de trois années différentes.",
+              "english": "It's a blend of three different years.",
+              "phonetic": "seh uhn ah-som-BLAHZH duh TRWAH ah-NAY dee-fay-RAHNT"
+            },
+            {
+              "french": "Celui-là c'est un millésimé 2018, exceptionnel.",
+              "english": "This one is a 2018 vintage — exceptional.",
+              "phonetic": "suh-LWEE-LAH seh uhn mee-lay-zee-MAY duh-meel-dee-ZWEET, ex-sep-syoh-NEL"
+            }
+          ]
         },
         {
           "id": "winery_007",
@@ -807,7 +2167,19 @@
           "text_local": "Comment conserver cette bouteille à la maison ?",
           "pronunciation": "koh-MON kon-sair-VAY set boo-TAY ah lah may-ZON",
           "formality": "polite",
-          "cultural_note": "Keep champagne horizontal in a cool dark place (10–15°C). Non-vintage should be drunk within 3–5 years; vintage can age 10–20+ years."
+          "cultural_note": "Keep champagne horizontal in a cool dark place (10–15°C). Non-vintage should be drunk within 3–5 years; vintage can age 10–20+ years.",
+          "responses": [
+            {
+              "french": "À plat, à l'abri de la lumière, entre dix et quinze degrés.",
+              "english": "On its side, away from light, between ten and fifteen degrees.",
+              "phonetic": "ah PLAH, ah lah-BREE duh lah loo-MYAIR, ahn-truh DEE ay KANZ duh-GRAY"
+            },
+            {
+              "french": "Ce non-millésimé se boit dans les trois ans.",
+              "english": "This non-vintage should be drunk within three years.",
+              "phonetic": "suh nohn-mee-lay-zee-MAY suh BWAH dahn lay TRWAH AHN"
+            }
+          ]
         },
         {
           "id": "winery_008",
@@ -815,24 +2187,92 @@
           "text_local": "C'est vraiment excellent. Félicitations à toute l'équipe.",
           "pronunciation": "say vray-MON ek-sel-LON. fay-lee-see-tah-SYON ah toot lay-KEEP",
           "formality": "polite",
-          "cultural_note": "French winemakers and cellar guides appreciate genuine enthusiasm. A heartfelt compliment goes a long way and often leads to a bonus pour."
+          "cultural_note": "French winemakers and cellar guides appreciate genuine enthusiasm. A heartfelt compliment goes a long way and often leads to a bonus pour.",
+          "responses": [
+            {
+              "french": "Merci beaucoup, ça nous fait très plaisir !",
+              "english": "Thank you so much — that means a lot to us!",
+              "phonetic": "mair-SEE boh-KOO, sah noo feh treh play-ZEER"
+            },
+            {
+              "french": "Je vais transmettre à toute l'équipe.",
+              "english": "I'll pass that on to the whole team.",
+              "phonetic": "zhuh veh trahns-MET-ruh ah toot lay-KEEP"
+            }
+          ]
         }
       ],
       "vocabulary": [
-        { "word_en": "Cellar / cave", "word_local": "La cave", "pronunciation": "lah KAV" },
-        { "word_en": "Tasting", "word_local": "La dégustation", "pronunciation": "lah day-gews-tah-SYON" },
-        { "word_en": "Vintage (year)", "word_local": "Le millésime", "pronunciation": "luh mee-lay-ZEEM" },
-        { "word_en": "Blend / non-vintage", "word_local": "L'assemblage", "pronunciation": "lah-som-BLAHZH" },
-        { "word_en": "Dry", "word_local": "Brut", "pronunciation": "BROOT" },
-        { "word_en": "Extra dry (sweeter than brut)", "word_local": "Extra dry", "pronunciation": "eks-trah DREE" },
-        { "word_en": "Sweet", "word_local": "Doux", "pronunciation": "DOO" },
-        { "word_en": "Sparkling", "word_local": "Pétillant / effervescent", "pronunciation": "pay-tee-YON / ef-fair-ves-ON" },
-        { "word_en": "Riddling rack", "word_local": "Le pupitre", "pronunciation": "luh pew-PEE-truh" },
-        { "word_en": "White grapes only", "word_local": "Blanc de blancs", "pronunciation": "blon duh BLON" },
-        { "word_en": "Red grapes only", "word_local": "Blanc de noirs", "pronunciation": "blon duh NWAHR" },
-        { "word_en": "The bottle", "word_local": "La bouteille", "pronunciation": "lah boo-TAY" },
-        { "word_en": "Cork", "word_local": "Le bouchon", "pronunciation": "luh boo-SHON" },
-        { "word_en": "Champagne flute", "word_local": "La flûte", "pronunciation": "lah FLEWT" }
+        {
+          "word_en": "Cellar / cave",
+          "word_local": "La cave",
+          "pronunciation": "lah KAV"
+        },
+        {
+          "word_en": "Tasting",
+          "word_local": "La dégustation",
+          "pronunciation": "lah day-gews-tah-SYON"
+        },
+        {
+          "word_en": "Vintage (year)",
+          "word_local": "Le millésime",
+          "pronunciation": "luh mee-lay-ZEEM"
+        },
+        {
+          "word_en": "Blend / non-vintage",
+          "word_local": "L'assemblage",
+          "pronunciation": "lah-som-BLAHZH"
+        },
+        {
+          "word_en": "Dry",
+          "word_local": "Brut",
+          "pronunciation": "BROOT"
+        },
+        {
+          "word_en": "Extra dry (sweeter than brut)",
+          "word_local": "Extra dry",
+          "pronunciation": "eks-trah DREE"
+        },
+        {
+          "word_en": "Sweet",
+          "word_local": "Doux",
+          "pronunciation": "DOO"
+        },
+        {
+          "word_en": "Sparkling",
+          "word_local": "Pétillant / effervescent",
+          "pronunciation": "pay-tee-YON / ef-fair-ves-ON"
+        },
+        {
+          "word_en": "Riddling rack",
+          "word_local": "Le pupitre",
+          "pronunciation": "luh pew-PEE-truh"
+        },
+        {
+          "word_en": "White grapes only",
+          "word_local": "Blanc de blancs",
+          "pronunciation": "blon duh BLON"
+        },
+        {
+          "word_en": "Red grapes only",
+          "word_local": "Blanc de noirs",
+          "pronunciation": "blon duh NWAHR"
+        },
+        {
+          "word_en": "The bottle",
+          "word_local": "La bouteille",
+          "pronunciation": "lah boo-TAY"
+        },
+        {
+          "word_en": "Cork",
+          "word_local": "Le bouchon",
+          "pronunciation": "luh boo-SHON"
+        },
+        {
+          "word_en": "Champagne flute",
+          "word_local": "La flûte",
+          "pronunciation": "lah FLEWT"
+        }
       ]
     }
   ]
